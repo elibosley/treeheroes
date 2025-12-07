@@ -436,58 +436,106 @@
     {
       "type": "Feature",
       "properties": {
-        "record": "BA-202506077",
-        "address": "1162 SIMS ST SW, ATLANTA GA 30310",
-        "status": "Accepted",
-        "date": "12/05/2025",
+        "record": "BA-202506083",
+        "address": "1419 ATHENS AVE SW, ATLANTA GA 30310",
+        "status": "ACA Pending",
+        "date": "12/06/2025",
         "description": null,
-        "owner": "Gozinda Rati",
-        "tree_dbh": "34",
-        "tree_location": "front yard",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "34in Water Oak with multiple cavities/decay columns.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00870008138 *Block:--Lot:--Subdivision:--",
+        "owner": "Emily Griswold",
+        "tree_dbh": "25",
+        "tree_location": "Left side of the house",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "25\" American Holly (Right side of the house)",
         "tree_number": "1",
-        "species": "water oak"
+        "species": "American Holly"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.403140134821,
-          33.723159930542
+          -84.408979683512,
+          33.716026579343
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "record": "BA-202506079",
-        "address": "2140 BROOKVIEW DR NW, ATLANTA GA 30318",
-        "status": "Accepted",
-        "date": "12/05/2025",
+        "record": "BA-202506085",
+        "address": "443 PATTERSON AVE SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "12/06/2025",
         "description": null,
-        "owner": "STEELY HERBERT A",
-        "tree_dbh": "34",
-        "tree_location": "Right back corner of house",
-        "reason_removal": "Dying tree",
-        "tree_description": "Dying, hollow Poplar;  Close to dwelling",
+        "owner": "BIVINS DOROTHY L",
+        "tree_dbh": "21",
+        "tree_location": "Located on the front right side of the house",
+        "reason_removal": "Dead tree",
+        "tree_description": "1 oak tree located on the front right side of the home, with a DBH of 21\". The tree bark is decomposed.Reason for Removal:Dead treeComments:Hazardous\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 177 02 162 *Block:--Lot:--Subdivision:--",
         "tree_number": "1",
-        "species": "Poplar"
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.420009703519,
-          33.815118480068
+          -84.342962430952,
+          33.741512969697
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "record": "25TMP-067452",
-        "address": "385 8TH ST NE, ATLANTA GA 30309",
+        "record": "BA-202506084",
+        "address": "749 FLAT SHOALS AVE SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "12/06/2025",
+        "description": null,
+        "owner": "Bill Gould",
+        "tree_dbh": "24",
+        "tree_location": "Right Rear",
+        "reason_removal": "Dead tree",
+        "tree_description": "Remove two dead trees in the right rearReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):12Tree location:Right rearDescription of Tree:dead trees in the right rearReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 176 02 073 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34014624121,
+          33.733776331181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202506086",
+        "address": "1070 UNITED AVE SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "12/06/2025",
+        "description": null,
+        "owner": "ROGERS RICHARD G",
+        "tree_dbh": "12",
+        "tree_location": "located on the left side of the front yard next to the fence directly underneath the power line.",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "The purpose of removing this tree is its power line obstruction.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100007032 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35258598113,
+          33.724993114599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "25TMP-067478",
+        "address": "610 EAST PACES FERRY RD NE, ATLANTA GA 30305",
         "status": null,
-        "date": "12/05/2025",
+        "date": "12/06/2025",
         "description": null,
         "owner": null,
         "tree_dbh": null,
@@ -500,56 +548,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -84.374570434745,
-          33.779433199246
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202506070",
-        "address": "270 BROMACK DR SE, ATLANTA GA 30315",
-        "status": "Accepted",
-        "date": "12/05/2025",
-        "description": null,
-        "owner": "BLANTON EDDIE J",
-        "tree_dbh": "24",
-        "tree_location": "front right",
-        "reason_removal": "Dead tree",
-        "tree_description": "completely dead just pole remaining Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:pineTree Size (DBH):24Tree location:front rightDescription of Tree:severely damaged in decline Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):24Tree location:front right Description of Tree:completely dead Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:hardwoodTree Size (DBH):28Tree location:back right Description of Tree:dead tree Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0059  LL068 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.380857733064,
-          33.688943618113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202506074",
-        "address": "2893 ANDREWS DR NW, ATLANTA GA 30305",
-        "status": "Accepted",
-        "date": "12/05/2025",
-        "description": null,
-        "owner": "Palmer Spencer and Sara",
-        "tree_dbh": "27",
-        "tree_location": "near top of driveway R side",
-        "reason_removal": "Dying tree",
-        "tree_description": null,
-        "tree_number": "1",
-        "species": "Oak"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.38920544542,
-          33.833514523476
+          -84.368079212399,
+          33.839916522231
         ]
       }
     }
