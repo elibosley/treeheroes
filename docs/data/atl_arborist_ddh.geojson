@@ -1113,139 +1113,19 @@
         "status": null,
         "date": "12/15/2025",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Noa Jagger LLC",
+        "tree_dbh": "56",
+        "tree_location": "front right of property",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "invasive, hazardous proximity to street and power lines, and deformed from decades of pruning around power linesReason for Removal:Invasive/undesirable treeComments:this is the largest tree in the cluster of 7 magnolias\n\t\t\n\t\t\n\t\t\tTree number:2Species:magnoliaTree Size (DBH):19Tree location:front right of propertyDescription of Tree:second largest of the group of magnoliasReason for Removal:Invasive/undesirable treeComments:farther from power lines, but potentially part of the reason the sewer line is damaged\n\t\t\n\t\t\n\t\t\tTree number:3Species:magnoliaTree Size (DBH):18.8Tree location:front right of propertyDescription of Tree:third largest of the group of magnoliasReason for Removal:Invasive/undesirable treeComments:farther from power lines, but potentially part of the reason the sewer line is damaged\n\t\t\n\t\t\n\t\t\tTree number:4Species:magnoliaTree Size (DBH):18Tree location:front right of propertyDescription of Tree:fourth largest of the group of magnoliasReason for Removal:Invasive/undesirable treeComments:farther from power lines, but potentially part of the reason the sewer line is damaged\n\t\t\n\t\t\n\t\t\tTree number:5Species:magnoliaTree Size (DBH):10Tree location:front right of propertyDescription of Tree:fifth largest in group of magnoliasReason for Removal:Invasive/undesirable treeComments:proximity to the power lines is hazardous\n\t\t\n\t\t\n\t\t\tTree number:6Species:magnoliaTree Size (DBH):9Tree location:front right of propertyDescription of Tree:Sixth largest of group of magnoliasReason for Removal:Invasive/undesirable treeComments:proximity to the power lines is hazardous\n\t\t\n\t\t\n\t\t\tTree number:7Species:magnoliaTree Size (DBH):12Tree location:front right of propertyDescription of Tree:in the same cluster of magnolias - 7 trees total.Reason for Removal:Invasive/undesirable treeComments:several of these trees may be multiple poles of one tree - hard to tell. Counted 7 total poles.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01460007018 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "magnolia"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.450001319556,
           33.720616210131
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202506201",
-        "address": "1634 PONCE DE LEON AVE NE, ATLANTA GA 30307",
-        "status": "Accepted",
-        "date": "12/15/2025",
-        "description": null,
-        "owner": null,
-        "tree_dbh": "24",
-        "tree_location": "Front of Unit 201",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead Evergreen Cedar tree located front of unit 201Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 242 05 058 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Evergreen Cedar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.333966685553,
-          33.774186877702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202506204",
-        "address": "364 LAKE FORREST LN NE, ATLANTA GA 30342",
-        "status": "Accepted",
-        "date": "12/15/2025",
-        "description": null,
-        "owner": null,
-        "tree_dbh": "12",
-        "tree_location": "Front yard",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Pine with rot at base and on lower trunkReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00950007024 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.386277256516,
-          33.870614469192
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202506200",
-        "address": "1390 ROCK SPRINGS CIR NE, ATLANTA GA 30306",
-        "status": "Accepted",
-        "date": "12/15/2025",
-        "description": null,
-        "owner": "Lisa Tanq",
-        "tree_dbh": "32",
-        "tree_location": "Left side backyard",
-        "reason_removal": "Dying tree",
-        "tree_description": "60% canopy diebackReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 055 09 018 *Block:--Lot:--Subdivision:ACK-17-026 1388 ROCK SPRINGS",
-        "tree_number": "1",
-        "species": "Pine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.341739837103,
-          33.795641608234
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202506199",
-        "address": "3255 NORTH WOOD VALLEY RD NW, ATLANTA GA 30327",
-        "status": "Accepted",
-        "date": "12/15/2025",
-        "description": null,
-        "owner": null,
-        "tree_dbh": "35",
-        "tree_location": "Back Right",
-        "reason_removal": "Dying tree",
-        "tree_description": "Low tree vigor. Multiple dead leads and tip die back approximately 40%Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01570005025 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Tulip Poplar"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.412883019005,
-          33.843674110931
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202506205",
-        "address": "1570 DEKALB AVE NE, COMMON, ATLANTA GA 30307",
-        "status": "Accepted",
-        "date": "12/15/2025",
-        "description": null,
-        "owner": "Gerald Williford",
-        "tree_dbh": "26",
-        "tree_location": "front of building",
-        "reason_removal": "Dead tree",
-        "tree_description": "dead river birchReason for Removal:Dead treeComments:I measured below the fork for DBH but fork is very low to ground so definitely below 4.5 ft from ground. i got 88 inches and divided by pi to get 26 inches for DBH\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 210 04 046 *Block:--Lot:--Subdivision:1570 DEKALB AVENUE CONDOMINIUM",
-        "tree_number": "1",
-        "species": "River Birch"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.336081793401,
-          33.762613874309
         ]
       }
     }
