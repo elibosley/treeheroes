@@ -561,13 +561,13 @@
         "status": "ACA Pending",
         "date": "01/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Rob and Kelly West",
+        "tree_dbh": "50",
+        "tree_location": "Front yard right",
+        "reason_removal": "Dying tree",
+        "tree_description": "Multiple dead limbs.  Looks to be diseased/dyingReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:SweetgumTree Size (DBH):54Tree location:Front yard rightDescription of Tree:Multiple dead limbs.  Looks to be diseased/dyingReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00100001001 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -634,12 +634,12 @@
         "date": "01/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "15",
-        "tree_location": "1299 northview ave.  on north highland side of property",
-        "reason_removal": "Dying tree",
-        "tree_description": "tree on street near sidewalk.\nsmall, med tree.\ndyingReason for Removal:Dying treeComments:tree is on the north highland side of property.\ntree haas been trimed by city since on the sidewalk.\nit is now dying.\nwould like to take it down since a potential hazard to people walking on sidewalk.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00020006030 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "redbud"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -657,13 +657,13 @@
         "status": "ACA Pending",
         "date": "01/06/2026",
         "description": null,
-        "owner": "CLAYTON TRENTON B",
-        "tree_dbh": "38",
-        "tree_location": "Front yard, adjacent to driveway and pedestrian walkway, approximately 10–15 feet from residence.",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Large mature Water Oak with co-dominant twin trunks originating at the base. Tree exhibits extensive root flare exposure and root plate displacement. Roots have caused significant damage to the driveway, walkway, and surrounding hardscape. Ivy infestation present on trunk and lower canopy, contributing to increased wind sail and accelerated decline. Tree structure and root damage create a high risk of failure.Reason for Removal:Uncorrectable defectComments:Tree roots have significantly uplifted and fractured the driveway and walkways. Repair of damaged infrastructure is not feasible without removal of the tree. Due to tree size, structure, and proximity to the residence, continued growth presents a safety hazard.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01740012007 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak (Quercus nigra)"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -681,13 +681,13 @@
         "status": "ACA Pending",
         "date": "01/06/2026",
         "description": null,
-        "owner": "JOHNSON TAHEISHA",
-        "tree_dbh": "20",
-        "tree_location": "Backyard behind red tips",
-        "reason_removal": "Other",
-        "tree_description": "Sweetgum 20\", located in backyard behind red tips, heavy lean over the roof, dropping branchesReason for Removal:OtherComments:Sweetgum 20\", located in backyard behind red tips, heavy lean over the roof, dropping branches\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01190002005 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -706,12 +706,12 @@
         "date": "01/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "22",
-        "tree_location": "on street",
-        "reason_removal": "Dying tree",
-        "tree_description": "beetle infestedReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):28Tree location:Front yard leftDescription of Tree:beetle infestedReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):22Tree location:Front yard leftDescription of Tree:beetle infestedReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):24Tree location:front, right of drivewayDescription of Tree:beetle infestationReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):24Tree location:on streetDescription of Tree:gas canker soreReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01790002004 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -753,13 +753,13 @@
         "status": "ACA Pending",
         "date": "01/06/2026",
         "description": null,
-        "owner": "DEAN CHRISTEEN P",
-        "tree_dbh": "43",
-        "tree_location": "Back Right",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead triple hardwoodReason for Removal:Dead treeComments:Marked with orange paint.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01410006106 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hardwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -777,13 +777,13 @@
         "status": "ACA Pending",
         "date": "01/06/2026",
         "description": null,
-        "owner": "ALAAWAD MAZAHIR H",
-        "tree_dbh": "8",
-        "tree_location": "center of lot",
-        "reason_removal": "Dead tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "n/a"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -801,13 +801,13 @@
         "status": "Accepted",
         "date": "01/06/2026",
         "description": null,
-        "owner": "Justin Reynolds",
-        "tree_dbh": "13",
-        "tree_location": "Back yard left side close to fence",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "13in Mulberry with crack along stem.  Black staining of bark present.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00440005007 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -826,12 +826,12 @@
         "date": "01/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "10",
-        "tree_location": "Right side on top of steep driveway",
-        "reason_removal": "Other",
-        "tree_description": "Pecan 10\" and Oak 10\", two trees, shared root system, on top of steep driveway, right sideReason for Removal:OtherComments:Pecan 10\" and Oak 10\", two trees, shared root system, on top of steep driveway, right side\n\t\t\n\t\t\n\t\t\tTree number:2Species:OakTree Size (DBH):10Tree location:Right side on top of steep drivewayDescription of Tree:Pecan 10\" and Oak 10\", two trees, shared root system, on top of steep driveway, right sideReason for Removal:OtherComments:Pecan 10\" and Oak 10\", two trees, shared root system, on top of steep driveway, right side\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00130004081 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -849,13 +849,13 @@
         "status": "Accepted",
         "date": "01/06/2026",
         "description": null,
-        "owner": "DANIEL REYNOLDS",
-        "tree_dbh": "39",
-        "tree_location": "front left of the house",
-        "reason_removal": "Dying tree",
-        "tree_description": "Dying, mushrooms at the base, dead branches, dangerous , hypoxylon canker disease visible along the trunkReason for Removal:Dying treeComments:This tree needs to be removed as soon as possible. It is in a highly trafficked area and has already caused damage to client’s car due to dead fallen limbs.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00220011002 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -873,13 +873,13 @@
         "status": "ACA Pending",
         "date": "01/06/2026",
         "description": null,
-        "owner": "FAITH BAPTIST CHURCH",
-        "tree_dbh": "12",
-        "tree_location": "94 mount zion",
-        "reason_removal": "Dying tree",
-        "tree_description": "dying and hazardous pine treeReason for Removal:DiseasedComments:Diseased, dying and hazardous\n\t\t\n\t\t\n\t\t\tTree number:2Species:pineTree Size (DBH):12Tree location:94 mount zionDescription of Tree:diseased, dying and hazardousReason for Removal:Dying treeComments:diseased, dying and hazardous\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00670005072 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
