@@ -1617,13 +1617,13 @@
         "status": "Accepted",
         "date": "01/08/2026",
         "description": null,
-        "owner": "Tim Wright",
-        "tree_dbh": "17",
-        "tree_location": "Middle",
-        "reason_removal": "Diseased",
-        "tree_description": "17\" Pine Tree. Tree labeled as \"Q\" on preliminary site planReason for Removal:Dying treeComments:Looks to be some decay at the base of the tree causing it to lean onto the neighboring property\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):12Tree location:Right SideDescription of Tree:12\" Pine. Tree labeled as \"P\" on preliminary site planReason for Removal:DiseasedComments:Base of tree covered in an invasive species that appears to be ivy. there are decaying branches near the top of the tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):12Tree location:Left SideDescription of Tree:12\" Pine tree labeled as \"O\" on preliminary site planReason for Removal:DiseasedComments:Entire tree is covered in an invasive species which is choking the tree.\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):15Tree location:Right SideDescription of Tree:15\" Pine tree labeled as \"K\" on preliminary site planReason for Removal:DiseasedComments:Entire tree is covered in invasive species choking the tree. \n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):12Tree location:MiddleDescription of Tree:12\" Pine tree listed as \"T\" on preliminary site planReason for Removal:DiseasedComments:Entire tree is covered in invasive species choking the tree.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00230012025 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1642,12 +1642,12 @@
         "date": "01/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "7",
-        "tree_location": "back center",
-        "reason_removal": "Diseased",
-        "tree_description": "dead treeReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:white oakTree Size (DBH):21Tree location:right of drivewayDescription of Tree:White Oak has signs of root rot and old mechanical wounds. This tree also has bacterial wet wood with signs of wood boring insects. Reason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00420003032 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "white oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1665,13 +1665,13 @@
         "status": "Accepted",
         "date": "01/08/2026",
         "description": null,
-        "owner": "HALE W CHADWICK  ET AL",
-        "tree_dbh": "21",
-        "tree_location": "front left",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "This pine tree has a canker at the base of the tree that covers approximately 40-50% of the circumference of the trunk.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00430004104 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "loblolly pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1690,12 +1690,12 @@
         "date": "01/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "12",
-        "tree_location": "rear yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "Declining 2 Hemlocks in rear: cytospora canker, sparse defoliating canopy >30%, chlorotic,  compacted soilReason for Removal:Dying treeComments:Declining 2 Hemlocks in rear: cytospora canker, sparse defoliating canopy >30%, chlorotic,  compacted soil\n\t\t\n\t\t\n\t\t\tTree number:2Species:HemlockTree Size (DBH):12Tree location:rear yard Description of Tree:Declining 2 Hemlocks in rear: cytospora canker, sparse defoliating canopy >30%, chlorotic,  compacted soilReason for Removal:Dying treeComments:Declining 2 Hemlocks in rear: cytospora canker, sparse defoliating canopy >30%, chlorotic,  compacted soil\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01090003035 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hemlock"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
