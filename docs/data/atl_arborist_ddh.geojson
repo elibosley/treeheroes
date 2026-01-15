@@ -969,13 +969,13 @@
         "status": "Accepted",
         "date": "01/14/2026",
         "description": null,
-        "owner": "David Pyron",
-        "tree_dbh": "36",
-        "tree_location": "Back right on top of retaining wall",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Large fruiting bodies, restricted root space. Lead over neighbor's house has large pocket of decayReason for Removal:Uncorrectable defectComments:Orange dot\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01100003014 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1114,12 +1114,12 @@
         "date": "01/14/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "32",
-        "tree_location": "Near Road",
-        "reason_removal": "Dying tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "146",
-        "species": "Hardwood"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
