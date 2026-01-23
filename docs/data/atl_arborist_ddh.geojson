@@ -1474,12 +1474,12 @@
         "date": "01/22/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "18",
+        "tree_location": "Front right",
+        "reason_removal": "Other",
+        "tree_description": "Pine 18\", located front right, leaning",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -1593,13 +1593,13 @@
         "status": "Accepted",
         "date": "01/22/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "POLLETT PAMELA",
+        "tree_dbh": "9",
+        "tree_location": "Back of property",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Suppressed canopy with trunk lean greater than 45 degrees.Reason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:SassafrasTree Size (DBH):10Tree location:Back of propertyDescription of Tree:Suppressed canopy with trunk lean greater than 45 degrees.Reason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:3Species:SassafrasTree Size (DBH):11Tree location:Back of propertyDescription of Tree:Suppressed canopy with trunk lean greater than 45 degrees.Reason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 056 01 004 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Sassafras"
       },
       "geometry": {
         "type": "Point",
