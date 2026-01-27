@@ -826,12 +826,12 @@
         "date": "01/26/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "67",
+        "tree_location": "Front Yard",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Silver Maple"
       },
       "geometry": {
         "type": "Point",
@@ -849,13 +849,13 @@
         "status": "ACA Pending",
         "date": "01/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "NEW SAINT JOHNS BAPTIST CHURCH TR",
+        "tree_dbh": "24",
+        "tree_location": "rear right corner",
+        "reason_removal": "Dying tree",
+        "tree_description": "tree is splitReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:oakTree Size (DBH):30Tree location:front middleDescription of Tree:tree has decay at baseReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:oakTree Size (DBH):46Tree location:rear middle rightDescription of Tree:located directly behind large oak tree with major fire damage that was already deemed a ddhReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:oakTree Size (DBH):46Tree location:rear right cornerDescription of Tree:tree has ivy growing upReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 210 03 105 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -897,13 +897,13 @@
         "status": "Accepted",
         "date": "01/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "FAIRLEY HARRIET",
+        "tree_dbh": "43",
+        "tree_location": "back right",
+        "reason_removal": "Diseased",
+        "tree_description": "weighted lean, decay in base of treeReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02090002041 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -921,13 +921,13 @@
         "status": "ACA Pending",
         "date": "01/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MARTIN LEE",
+        "tree_dbh": "25",
+        "tree_location": "front yard left of driveway",
+        "reason_removal": "Other",
+        "tree_description": "large pine tree cracking drivewayReason for Removal:OtherComments:the large pine is cracking his new driveway. Very tight parking trying to work around the pine\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100007029 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine tree"
       },
       "geometry": {
         "type": "Point",
