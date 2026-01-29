@@ -945,13 +945,13 @@
         "status": "ACA Pending",
         "date": "01/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Cobalt Property Services",
+        "tree_dbh": "39",
+        "tree_location": "Left side of building",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Tree is touching foundation and growing into sewer pipesReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00160013004 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
@@ -969,13 +969,13 @@
         "status": "ACA Pending",
         "date": "01/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "HUNTER JIMMY",
+        "tree_dbh": "24",
+        "tree_location": "back left corner of house",
+        "reason_removal": "Uncorrectable defect",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "sweetgum"
       },
       "geometry": {
         "type": "Point",
@@ -994,12 +994,12 @@
         "date": "01/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "100",
+        "tree_location": "back",
+        "reason_removal": "Invasive/undesirable tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -1066,12 +1066,12 @@
         "date": "01/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "35",
+        "tree_location": "back right",
+        "reason_removal": "Dying tree",
+        "tree_description": "tree displays severe crown dieback with widespread branch mortalityReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00960006005 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "silver maple"
       },
       "geometry": {
         "type": "Point",
@@ -1089,13 +1089,13 @@
         "status": "ACA Pending",
         "date": "01/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "CANTY JAMES K",
+        "tree_dbh": "38",
+        "tree_location": "Back left of property",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "38\" White Oak, back left of property, decay at lower trunk, decliningReason for Removal:Significant cavity/area of decayComments:38\" White Oak, back left of property, decay at lower trunk, declining\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00520002055 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White Oak"
       },
       "geometry": {
         "type": "Point",
@@ -1113,13 +1113,13 @@
         "status": "ACA Pending",
         "date": "01/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "WHICKER MOLLIE",
+        "tree_dbh": "27",
+        "tree_location": "right side of house by fence",
+        "reason_removal": "Significant cavity/area of decay",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -1137,13 +1137,13 @@
         "status": "ACA Pending",
         "date": "01/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "ATLANTIC DEVELOPERS LLC",
+        "tree_dbh": "15",
+        "tree_location": "on the left side",
+        "reason_removal": "Dying tree",
+        "tree_description": "dying tree on the left sideReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01080005017 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "maple"
       },
       "geometry": {
         "type": "Point",
@@ -1161,13 +1161,13 @@
         "status": "ACA Pending",
         "date": "01/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "MORRIS BROWN COLLEGE",
+        "tree_dbh": "35",
+        "tree_location": "see map",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "silver maple"
       },
       "geometry": {
         "type": "Point",
@@ -1186,12 +1186,12 @@
         "date": "01/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "10",
+        "tree_location": "Left of House",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Tree has a large cavity about 2-3 ft up the main stem. Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:Tulip PoplarTree Size (DBH):17Tree location:left of houseDescription of Tree:Top of the tree has previously broken out. Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00640002057 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hardwood"
       },
       "geometry": {
         "type": "Point",
@@ -1209,13 +1209,13 @@
         "status": "ACA Pending",
         "date": "01/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Nichols Lane LLC",
+        "tree_dbh": "16",
+        "tree_location": "South West Corner of lot behind building- on the right side facing building",
+        "reason_removal": "Dying tree",
+        "tree_description": "Double 16\" & 12\" Large parts of upper tree trunk and branches  falling on building. Tree is dead in parts  and declining in othersReason for Removal:Dying treeComments:Gate on right side of building (facing building)  will be left unlocked for inspection. This gate leads to rear where tree is located. Store Hours are 11-5pm Tue. - Sat. if inspector wishes to speak with contact/owner \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01510004021 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Sweet Gum"
       },
       "geometry": {
         "type": "Point",
