@@ -1089,13 +1089,13 @@
         "status": "Accepted",
         "date": "02/02/2026",
         "description": null,
-        "owner": "Brian FEDERICO",
-        "tree_dbh": "29",
-        "tree_location": "back center",
-        "reason_removal": "Diseased",
-        "tree_description": "Tree present Ganoderma conks and indication of decay in the buttress roots and trunk. See photos Reason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:2Species:water oakTree Size (DBH):32Tree location:back centerDescription of Tree:Tree present Ganoderma conks and indication of decay in the buttress roots and trunk. See photos Reason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 212 02 107 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "water oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1113,13 +1113,13 @@
         "status": "ACA Pending",
         "date": "02/02/2026",
         "description": null,
-        "owner": "Erica Norwood",
-        "tree_dbh": "30",
-        "tree_location": "Front of house",
-        "reason_removal": "Other",
-        "tree_description": "Big oak treeReason for Removal:OtherComments:Not sure of tree size\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01740009010 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "1"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1137,13 +1137,13 @@
         "status": "Accepted",
         "date": "02/02/2026",
         "description": null,
-        "owner": "TRINITY PRESBYTERIAN CHURCH OF ATLANTA INC",
-        "tree_dbh": "32",
-        "tree_location": "located in the Glenn",
-        "reason_removal": "Diseased",
-        "tree_description": "tree has large basal woundReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:2Species:water oakTree Size (DBH):40Tree location:located by chapel over roundaboutDescription of Tree:tree is infested with mistletoe and canopy is in declineReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):18Tree location:entrance off of Howell Mill RdDescription of Tree:tree is deadReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:pineTree Size (DBH):22Tree location:located in the GlennDescription of Tree:arge fusiform canker located in upper canopy Reason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0183  LL133 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "red oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1161,13 +1161,13 @@
         "status": "Accepted",
         "date": "02/02/2026",
         "description": null,
-        "owner": "Freeman Jazmine R",
-        "tree_dbh": "46",
-        "tree_location": "Front yard of residential property, adjacent to driveway and public street, within close proximity to overhead utility lines.",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Large, mature deciduous tree with expansive canopy and multiple heavy limbs extending over the residence and driveway. Tree is located directly beneath overhead utility lines. Visible surface roots and structural limbs pose potential risk to property and utilities.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02070006020 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Large, Mature Deciduous"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1306,12 +1306,12 @@
         "date": "02/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "20",
-        "tree_location": "1109 Coleman Street SW",
-        "reason_removal": "Dying tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Deciduous Oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1329,13 +1329,13 @@
         "status": "Accepted",
         "date": "02/02/2026",
         "description": null,
-        "owner": "Annika Orich",
-        "tree_dbh": "25",
-        "tree_location": "Behind Building 1771 Unit A",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Recent lead failure, poor branch structure, lean, decay at the baseReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01870009005 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Multistem Mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1449,13 +1449,13 @@
         "status": "Accepted",
         "date": "02/02/2026",
         "description": null,
-        "owner": "ZEEMAN HAROLD S",
-        "tree_dbh": "19",
-        "tree_location": "See site map",
-        "reason_removal": "Other",
-        "tree_description": "Numbered flagging tapeReason for Removal:OtherComments:Canopy offset approximately 20 feet from the trunk, with the crown consisting primarily of two overextended leaders. A dead former co-dominant leader attachment site is present. Structural form suggests the tree was previously co-dominant, likely originating as a basal sprout, with one stem lost. The remaining structure exhibits imbalance and extended reach over the adjacent parking area, with targets present.\n\t\t\n\t\t\n\t\t\tTree number:2Species:PoplarTree Size (DBH):42Tree location:See site mapDescription of Tree:Numbered flagging tapeReason for Removal:OtherComments:Sharply co-dominant stems with approximately four feet of continuous bark inclusion. The overall structure suggests a basal sprout origin rather than two independently established trees. Canopy architecture indicates the tree has likely been topped at least twice, resulting in multiple sharply co-dominant unions at different heights. Upon post-inspection review, the subordinate trunk exhibits phototropic lateral growth toward the house and appears to be in close contact with, or rubbing against, a scaffold branch associated with one of the dominant leaders. Historic structural root plate disturbance is present in two locations. The tree is located close to the house, with targets present.\n\t\t\n\t\t\n\t\t\tTree number:3Species:Oak Tree Size (DBH):29Tree location:See site mapDescription of Tree:Numbered flagging tapeReason for Removal:OtherComments:Sharply co-dominant stems with approximately four feet of continuous bark inclusion. The overall structure suggests a basal sprout origin rather than two independently established trees. Canopy architecture indicates the tree has likely been topped at least twice, resulting in multiple sharply co-dominant unions at different heights. Upon post-inspection review, the subordinate trunk exhibits phototropic lateral growth toward the house and appears to be in close contact with, or rubbing against, a scaffold branch associated with one of the dominant leaders. Historic structural root plate disturbance is present in two locations. The tree is located close to the house, with targets present.\n\t\t\n\t\t\n\t\t\tTree number:4Species:Hickory Tree Size (DBH):7Tree location:See site mapDescription of Tree:Numbered flagging tapeReason for Removal:OtherComments:Offset, dog-legged leader structure with one leader decayed and nonviable. The remaining leader is declining and exhibits signs of decay. An adjacent tree under 6 inches DBH is dead and leaning onto the subject tree and is documented here for record purposes only.\n\t\t\n\t\t\n\t\t\tTree number:5Species:Oak Tree Size (DBH):11Tree location:See site mapDescription of Tree:Numbered flagging tapeReason for Removal:OtherComments:Upper canopy exhibits a lean greater than 20 degrees. A large dead scaffold branch is present, originating from a co-dominant resprout union with a dog-legged configuration, indicating poor structural form and attachment quality.\n\t\t\n\t\t\n\t\t\tTree number:6Species:Oak Tree Size (DBH):17Tree location:See site mapDescription of Tree:Numbered flagging tape Reason for Removal:OtherComments:Canopy dieback is present. A large basal wound is located on the uphill side of the trunk, with visible decay and bark sloughing. An opposing basal cavity is also present, with visible decay and wood loss, indicating circumferential basal compromise.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02140001009 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
