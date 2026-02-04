@@ -994,12 +994,12 @@
         "date": "02/03/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "8",
-        "tree_location": "Front left of driveway",
-        "reason_removal": "Dead tree",
-        "tree_description": "DEADReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Leyland CypressTree Size (DBH):6Tree location:Front left of drivewayDescription of Tree:DEADReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00080001022 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Leyland Cypress"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1138,12 +1138,12 @@
         "date": "02/03/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "28",
+        "tree_location": "front left",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "hazardous -interference with electrical lines above, roots next gas line, part of tree overhang onto neighbor's car port and roof of houseReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:7Species:Wild cherryTree Size (DBH):12Tree location:Front/side leftReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02520011023 *Block:--Lot:--Subdivision:--",
+        "tree_number": "5",
+        "species": "wild cherry"
       },
       "geometry": {
         "type": "Point",
@@ -1162,12 +1162,12 @@
         "date": "02/03/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "13",
+        "tree_location": "Back yard of Home",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Box Elder"
       },
       "geometry": {
         "type": "Point",
