@@ -1546,12 +1546,12 @@
         "date": "02/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "39",
+        "tree_location": "Front right",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Large limbs growing into utility lines, roots found by plumber blocking sewer line (report attached)Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:Cherry laurelTree Size (DBH):7Tree location:Front right, on slopeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:PrivetTree Size (DBH):7Tree location:Front right sideReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:Southern MagnoliaTree Size (DBH):19Tree location:Front right corner of houseDescription of Tree:Large wound/cavity in main lower trunk, direct conflict with trunk and house/retaining wallReason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:5Species:PrivetTree Size (DBH):19Tree location:Front right corner, above wallDescription of Tree:Multi-stem (5/4/4/3/3\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:6Species:PrivetTree Size (DBH):6Tree location:Back right, below wallReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:7Species:PrivetTree Size (DBH):15Tree location:Back right, below wallDescription of Tree:Multi-stem (6/5/4\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:8Species:PrivetTree Size (DBH):11Tree location:Back right, below wallDescription of Tree:Multi-stem (5/3/3\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:9Species:Chinese hollyTree Size (DBH):37Tree location:Front, left side of drivewayDescription of Tree:Multi-stem (15/10/12\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:10Species:Chinese hollyTree Size (DBH):9Tree location:Front, left of drivewayDescription of Tree:Multi-stem (5/4\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:11Species:Chinese hollyTree Size (DBH):22Tree location:Front, left of drivewayDescription of Tree:Multi-stem (15/7\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:12Species:Chinese hollyTree Size (DBH):27Tree location:Front, left of drivewayDescription of Tree:Multi-stem (10/9/8\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:13Species:PrivetTree Size (DBH):12Tree location:Front, left of drivewayDescription of Tree:Multi-stem (5/4/3\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:14Species:PrivetTree Size (DBH):18Tree location:Front, left of drivewayDescription of Tree:Multi-stem (4/4/4/3/3\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:15Species:PrivetTree Size (DBH):9Tree location:Front, left of drivewayDescription of Tree:Multi-stem (3/3/3\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:16Species:PrivetTree Size (DBH):10Tree location:Front, left of drivewayDescription of Tree:Multi-stem (4/3/3/3\")Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01420002021 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Cherry laurel"
       },
       "geometry": {
         "type": "Point",
@@ -1569,13 +1569,13 @@
         "status": "Accepted",
         "date": "02/05/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "HMC GRAND L L C",
+        "tree_dbh": "20",
+        "tree_location": "right side of hotel",
+        "reason_removal": "Within 5 ft of occupied dwelling",
+        "tree_description": "greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\t\n\t\t\tTree number:2Species:ZelkovaTree Size (DBH):15Tree location:right side of hotelDescription of Tree:greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\t\n\t\t\tTree number:3Species:ZelkovaTree Size (DBH):12Tree location:right side of hotelDescription of Tree:greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\t\n\t\t\tTree number:4Species:ZelkovaTree Size (DBH):10Tree location:right side of hotelDescription of Tree:greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\t\n\t\t\tTree number:5Species:ZelkovaTree Size (DBH):10Tree location:right side of hotelDescription of Tree:greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\t\n\t\t\tTree number:6Species:ZelkovaTree Size (DBH):8Tree location:right side of hotelDescription of Tree:greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\t\n\t\t\tTree number:7Species:ZelkovaTree Size (DBH):15Tree location:right side of hotelDescription of Tree:greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\t\n\t\t\tTree number:8Species:ZelkovaTree Size (DBH):15Tree location:right side of hotelDescription of Tree:greater than 30% canopy diebackReason for Removal:Within 5 ft of occupied dwelling\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01060029099 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Zelkova"
       },
       "geometry": {
         "type": "Point",
@@ -1594,12 +1594,12 @@
         "date": "02/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "24",
+        "tree_location": "backyard left",
+        "reason_removal": "Dead tree",
+        "tree_description": "really deadReason for Removal:Dead treeComments:needs to be removed asap\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01530014029 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
