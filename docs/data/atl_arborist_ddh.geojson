@@ -2025,13 +2025,13 @@
         "status": "ACA Pending",
         "date": "02/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SANJEEV NAYAK",
+        "tree_dbh": "33",
+        "tree_location": "Back yard - right side - near fence",
+        "reason_removal": "Dying tree",
+        "tree_description": "Hazardous and dying tree.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Water OakTree Size (DBH):23Tree location:Back yard - right side - near fenceDescription of Tree:Dying water oak.  Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 204 03 091 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2049,13 +2049,13 @@
         "status": "ACA Pending",
         "date": "02/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "STATE STREET CITIHOMES L P",
+        "tree_dbh": "20",
+        "tree_location": "in front of building",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "20\" Maple, located in front of building, declining, dying, rottingReason for Removal:Significant cavity/area of decayComments:20\" Maple, located in front of building, declining, dying, rotting\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01490007036 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -2097,13 +2097,13 @@
         "status": "ACA Pending",
         "date": "02/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "JAN IRWIN",
+        "tree_dbh": "22",
+        "tree_location": "Closest to the home",
+        "reason_removal": "Other",
+        "tree_description": "Has an unbalanced canopy and is causing significant damageReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):24Tree location:Front centerDescription of Tree:Has a canker 70' up at the first union on top of the swirl in the trunk. Also further up the canopy hard to depict in a photo a canker just below the main leadReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):14Tree location:Over roadwayDescription of Tree:Leaning over the roadwayReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01820002057 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2169,13 +2169,13 @@
         "status": "ACA Pending",
         "date": "02/06/2026",
         "description": null,
-        "owner": "BRAD ANDERSON",
-        "tree_dbh": "24",
-        "tree_location": "front",
-        "reason_removal": "Dying tree",
-        "tree_description": "Canker formed from old pruning cut 60' upReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01420001068 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
