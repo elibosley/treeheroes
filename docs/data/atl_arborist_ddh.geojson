@@ -1689,13 +1689,13 @@
         "status": "ACA Pending",
         "date": "02/10/2026",
         "description": null,
-        "owner": "ROBINSON SAHRUNDA J",
-        "tree_dbh": "28",
-        "tree_location": "Center - approx. 100 LF from vacant parce",
-        "reason_removal": "Other",
-        "tree_description": "double leader, broken branches, extensive vine coverReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:544Species:PineTree Size (DBH):46Tree location:Center - approx. 150 LF from vacant parceDescription of Tree:vine covered; broken branches; cavity at root flareReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:558Species:PoplarTree Size (DBH):22Tree location:west end of parcel - approx. 325 LF from vacant parcelDescription of Tree:double leader higher up in tree, leaning branch, poor branching healthReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:561Species:OakTree Size (DBH):10Tree location:west end of parcel - approx. 300LF from vacant parcelDescription of Tree:extensive vine growth, broken at top, leaningReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01710011046 *Block:--Lot:--Subdivision:--",
-        "tree_number": "539",
-        "species": "Poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1713,13 +1713,13 @@
         "status": "Accepted",
         "date": "02/10/2026",
         "description": null,
-        "owner": "Emory University",
-        "tree_dbh": "36",
-        "tree_location": "1380 Oxford Road",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "hackberry near sidewalk and roadReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 053 01 001 *Block:--Lot:--Subdivision:--",
-        "tree_number": "16",
-        "species": "Celtis occidentalis"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1762,12 +1762,12 @@
         "date": "02/10/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "18",
-        "tree_location": "North east corner of parcel",
-        "reason_removal": "Other",
-        "tree_description": "Tree broken at topReason for Removal:Dead treeComments:Tree grown over channelized creek wall\n\t\t\n\t\t\n\t\t\tTree number:420Species:PoplarTree Size (DBH):20Tree location:Northeast Corner of parcelDescription of Tree:co-dominant leader high up tree, tree grown over channelized creek wall; tree leaning towards existing structure Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:421Species:PoplarTree Size (DBH):18Tree location:East side of propertyDescription of Tree:Open cavity at root flare over channelized creek wallReason for Removal:OtherComments:Tree grown over channelized creek wall. \n\t\t\n\t\t\n\t\t\tTree number:422Species:PineTree Size (DBH):18Tree location:Northeast corner of parcelDescription of Tree:Root flare grown over channelized creek wall, Tree broken at top. Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01710013013 *Block:--Lot:--Subdivision:--",
-        "tree_number": "419",
-        "species": "Poplar"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1833,13 +1833,13 @@
         "status": "ACA Pending",
         "date": "02/10/2026",
         "description": null,
-        "owner": "Alexandra Kronemeyer",
-        "tree_dbh": "24",
-        "tree_location": "Right side front",
-        "reason_removal": "Within 5 ft of occupied dwelling",
-        "tree_description": "Mulberry tree growing out of my gas meter. Within 2 feet of occupied property. Reason for Removal:Within 5 ft of occupied dwellingComments:24 inches in diameter \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00140010062 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1857,13 +1857,13 @@
         "status": "ACA Pending",
         "date": "02/10/2026",
         "description": null,
-        "owner": "FRAZIER ANNETTE E",
-        "tree_dbh": "10",
-        "tree_location": "Southwest Corner",
-        "reason_removal": "Other",
-        "tree_description": "Substantial vine cover; Co-dominant leader high up tree; tree CRZ and SRP heavily impacted by Channelized creek wall; tree a risk to channel flooding if it were to fall. Reason for Removal:OtherComments:Corner of parcel crosses concrete channel. \n\t\t\n\t\t\n\t\t\tTree number:401Species:PineTree Size (DBH):28Tree location:Southwest CornerDescription of Tree:substantial vine cover, tree CRZ and SRP impacted by channelized creek, tree a risk to channelized creek wall. imbalanced branch growth at top. Reason for Removal:OtherComments:southwest corner of parcel crosses the channelized creek\n\t\t\n\t\t\n\t\t\tTree number:403Species:PoplarTree Size (DBH):18Tree location:Southwest CornerDescription of Tree:Cavity near base of tree, tree growing over existing stormwater outfall, CRZ and SRP impacted by channelized creek wall, no dominant leader high up on tree.Reason for Removal:OtherComments:southwest corner of parcel crosses the channelized creek\n\t\t\n\t\t\n\t\t\tTree number:404Species:PoplarTree Size (DBH):8Tree location:Southwest cornerDescription of Tree:Tree extensively vine covered, CRZ and SRP impacted by channelized creek wall, no visibly healthy branching due to vine over-growth. Reason for Removal:Dead treeComments:southwest corner of parcel crosses the channelized creek\n\t\t\n\t\t\n\t\t\tTree number:409Species:PoplarTree Size (DBH):24Tree location:West edge of propertDescription of Tree:Extensive vine growth, tree CRZ and SRP impacted by channelized creek; tree leaning towards creek and is a risks damaging channelized creekReason for Removal:OtherComments:western edge of property crosses the channelized creek.\n\t\t\n\t\t\n\t\t\tTree number:410Species:PoplarTree Size (DBH):10Tree location:West edge of propertyDescription of Tree:Tree heavily vine covered, CRZ and SRP impacted by channelized creek, co-dominant leaders high up treeReason for Removal:OtherComments:Western edge of parcel crossed the channelized creek. \n\t\t\n\t\t\n\t\t\tTree number:411Species:poplarTree Size (DBH):12Tree location:Western edge of propertyDescription of Tree:Tree heavily vine covered, irregular trunk growth, CRZ and SRP impacted by channelized creekReason for Removal:OtherComments:Western edge of property crosses the channelized creek. \n\t\t\n\t\t\n\t\t\tTree number:412Species:PoplarTree Size (DBH):16Tree location:Wester Edge of PropertyDescription of Tree:Tree leaning over channelized creek, CRZ and SRP impacted by channelized creekReason for Removal:OtherComments:Western edge of property crosses the channelized creek. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01710011029 *Block:--Lot:--Subdivision:--",
-        "tree_number": "400",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
