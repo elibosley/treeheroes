@@ -1785,13 +1785,13 @@
         "status": "Accepted",
         "date": "02/11/2026",
         "description": null,
-        "owner": "Herrera Jorge A",
-        "tree_dbh": "141",
-        "tree_location": "Backyard",
-        "reason_removal": "Dying tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "Accepted",
         "date": "02/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "BANKS BESSIE M",
+        "tree_dbh": "8",
+        "tree_location": "front center",
+        "reason_removal": "Other",
+        "tree_description": "10x10x10Reason for Removal:Invasive/undesirable treeComments:marked\n\t\t\n\t\t\n\t\t\tTree number:4Species:hackberry Tree Size (DBH):10Tree location:right side propertyDescription of Tree:holloowReason for Removal:Significant cavity/area of decayComments:marked on site\n\t\t\n\t\t\n\t\t\tTree number:5Species:hackberryTree Size (DBH):28Tree location:left side Description of Tree:incuded barkReason for Removal:Significant cavity/area of decayComments:marked\n\t\t\n\t\t\n\t\t\tTree number:8Species:mulberryTree Size (DBH):16Tree location:right sideReason for Removal:Invasive/undesirable treeComments:marked on site\n\t\t\n\t\t\n\t\t\tTree number:16Species:hackberryTree Size (DBH):36Tree location:back centerDescription of Tree:hollow- as in see throughReason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:18Species:sorrryTree Size (DBH):12Tree location:see mapDescription of Tree:i added too many lines.n Reason for Removal:OtherComments:sorry\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00740009031 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "cherry laurel"
       },
       "geometry": {
         "type": "Point",
