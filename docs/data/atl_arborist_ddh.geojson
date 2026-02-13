@@ -2050,12 +2050,12 @@
         "date": "02/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "13",
-        "tree_location": "Back Left of Home",
-        "reason_removal": "Dying tree",
-        "tree_description": "Tree exhibits leaning toward structure, significant decay, disease, & dead branches. Poses a safety risk to property and residents. Removal recommended per City of Atlanta Arborist Division standards.Reason for Removal:Dying treeComments:The trees are getting progressively worse. Since I've submitted the previous DDH application, smaller branches from the dying trees are starting to fall on the roof of the home. \n\t\t\n\t\t\n\t\t\tTree number:2Species:Red MapleTree Size (DBH):12Tree location:Back Left of HomeDescription of Tree:Tree exhibits leaning toward structure, significant decay, disease, & dead branches. Poses a safety risk to property and residents. Removal recommended per City of Atlanta Arborist Division standards.Reason for Removal:Dying treeComments:The trees are getting progressively worse. Since I've submitted the previous DDH application, smaller branches from the dying trees are starting to fall on the roof of the home. \n\t\t\n\t\t\n\t\t\tTree number:3Species:ElmTree Size (DBH):11Tree location:Back Left of HomeDescription of Tree:Tree exhibits leaning toward structure, significant decay, disease, & dead branches. Poses a safety risk to property and residents. Removal recommended per City of Atlanta Arborist Division standards.Reason for Removal:Dying treeComments:The trees are getting progressively worse. Since I've submitted the previous DDH application, smaller branches from the dying trees are starting to fall on the roof of the home. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02510002018 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Box Elder"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2073,13 +2073,13 @@
         "status": null,
         "date": "02/12/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SAUERHOEFER MARK A",
+        "tree_dbh": "34",
+        "tree_location": "driveway",
+        "reason_removal": "Diseased",
+        "tree_description": "oak?Reason for Removal:DiseasedComments:limbs are dropping on cars, fences, etc\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 205 02 112 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "hardwood"
       },
       "geometry": {
         "type": "Point",
@@ -2097,13 +2097,13 @@
         "status": "ACA Pending",
         "date": "02/12/2026",
         "description": null,
-        "owner": "Liam Homes",
-        "tree_dbh": "21",
-        "tree_location": "Back right of hoouse",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Girdled and Ketzschmaria at baseReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:BoxelderTree Size (DBH):17Tree location:Back centerDescription of Tree:Large cavity and decay in trunkReason for Removal:Significant cavity/area of decayComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:3Species:ElmTree Size (DBH):14Tree location:Back right cornerDescription of Tree:Suppressed canopy and lean greater than 10 degreesReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:4Species:Loblolly PineTree Size (DBH):29Tree location:Back leftDescription of Tree:Wisteria vines throughout canopy wrapping limbs",
-        "tree_number": "1",
-        "species": "Pecan"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "Accepted",
         "date": "02/12/2026",
         "description": null,
-        "owner": "PACE ACADEMY INC",
-        "tree_dbh": "17",
-        "tree_location": "New field location behind existing sports field",
-        "reason_removal": "Other",
-        "tree_description": "20 degree lean; multiple trunk woundsReason for Removal:OtherComments:20 degree lean; multiple trunk wounds\n\t\t\n\t\t\n\t\t\tTree number:115Species:Quercus falcataTree Size (DBH):24Tree location:New field location behind existing fieldDescription of Tree:Fungal fruiting body at base; signs of decay in buttressReason for Removal:Significant cavity/area of decayComments:Fungal fruiting body at base; signs of decay in buttress\n\t\t\n\t\t\n\t\t\tTree number:135Species:Oxydendrum arboreumTree Size (DBH):9Tree location:New field location behind existing fieldDescription of Tree:Severe upper canopy trunk lean with canopy resting in adjacent tree; cavity in trunkReason for Removal:Uncorrectable defectComments:Severe upper canopy trunk lean with canopy resting in adjacent tree; cavity in trunk\n\t\t\n\t\t\n\t\t\tTree number:138Species:Carya glabraTree Size (DBH):8Tree location:New field location behind existing sports fieldDescription of Tree:Heavily damaged canopyReason for Removal:Uncorrectable defectComments:Heavily damaged canopy\n\t\t\n\t\t\n\t\t\tTree number:14Species:Oxydendrum arboreumTree Size (DBH):8Tree location:New field location behind existing sports fieldDescription of Tree:14 degree trunk lean becoming much more significant in upper canopy; wounding on trunk from rubbing against adjacent treeReason for Removal:Uncorrectable defectComments:14 degree trunk lean becoming much more significant in upper canopy; wounding on trunk from rubbing against adjacent tree\n\t\t\n\t\t\n\t\t\tTree number:164Species:Quercus albaTree Size (DBH):9Tree location:New field location behind existing sports fieldDescription of Tree:DeadReason for Removal:Dead treeComments:Dead\n\t\t\n\t\t\n\t\t\tTree number:168Species:Oxydendrum arboreumTree Size (DBH):11Tree location:New field location behind existing sports fieldDescription of Tree:Cavity in baseReason for Removal:Significant cavity/area of decayComments:Cavity in base\n\t\t\n\t\t\n\t\t\tTree number:198Species:Acer rubrumTree Size (DBH):10Tree location:New field location behind existing sports fieldDescription of Tree:25 degree trunk leanReason for Removal:Uncorrectable defectComments:25 degree trunk lean\n\t\t\n\t\t\n\t\t\tTree number:43Species:Liriodendron tulipiferaTree Size (DBH):16Tree location:New field location behind existing sports fieldDescription of Tree:Top broken from treeReason for Removal:Uncorrectable defectComments:Top broken from tree\n\t\t\n\t\t\n\t\t\tTree number:46Species:Liriodendron tulipiferaTree Size (DBH):14Tree location:New field location behind existing sports fieldDescription of Tree:Full canopy failureReason for Removal:Uncorrectable defectComments:Full canopy failure\n\t\t\n\t\t\n\t\t\tTree number:57Species:Liriodendron tulipiferaTree Size (DBH):11Tree location:New field location behind existing sports fieldDescription of Tree:Large lower trunk woundReason for Removal:Significant cavity/area of decayComments:Large lower trunk wound\n\t\t\n\t\t\n\t\t\tTree number:63Species:Pinus taedaTree Size (DBH):14Tree location:New field location behind existing sports fieldDescription of Tree:Significantly unbalanced upper trunk leanReason for Removal:Uncorrectable defectComments:Significantly unbalanced upper trunk lean\n\t\t\n\t\t\n\t\t\tTree number:67Species:Liriodendron tulipiferaTree Size (DBH):11Tree location:New field location behind existing sports fieldDescription of Tree:Large trunk wound with decayReason for Removal:Significant cavity/area of decayComments:Large trunk wound with decay\n\t\t\n\t\t\n\t\t\tTree number:68Species:Oxydendrum arboreumTree Size (DBH):10Tree location:New field location behind existing sports fieldDescription of Tree:23 degree trunk leanReason for Removal:OtherComments:23 degree trunk lean\n\t\t\n\t\t\n\t\t\tTree number:7Species:Liriodendron tulipiferaTree Size (DBH):40Tree location:New field location behind existing sports fieldDescription of Tree:Top broken from tree with dieback and decayReason for Removal:Significant cavity/area of decayComments:Top broken from tree with dieback and decay\n\t\t\n\t\t\n\t\t\tTree number:71Species:Oxydendrum arboreumTree Size (DBH):10Tree location:New field location behind existing sports fieldDescription of Tree:36 degree trunk leanReason for Removal:OtherComments:36 degree trunk lean\n\t\t\n\t\t\n\t\t\tTree number:75Species:Magnolia grandifloraTree Size (DBH):8Tree location:New field location behind existing sports fieldDescription of Tree:Trunk wound with decayReason for Removal:Significant cavity/area of decayComments:Trunk wound with decay\n\t\t\n\t\t\n\t\t\tTree number:76Species:Liquidambar styracifluaTree Size (DBH):8Tree location:New field location behind existing sports fieldDescription of Tree:Large trunk wound from fallen treeReason for Removal:Significant cavity/area of decayComments:Large trunk wound from fallen tree\n\t\t\n\t\t\n\t\t\tTree number:83Species:Fagus grandifoliaTree Size (DBH):10Tree location:New field location behind existing sports fieldDescription of Tree:Dieback and decay in codominant trunkReason for Removal:Dying treeComments:Dieback and decay in codominant trunk\n\t\t\n\t\t\n\t\t\tTree number:98Species:Oxydendrum arboreumTree Size (DBH):8Tree location:New field location behind existing sports fieldDescription of Tree:20 degree trunk leanReason for Removal:OtherComments:20 degree trunk lean\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0158  LL009 *Block:--Lot:--Subdivision:--",
-        "tree_number": "104",
-        "species": "Oxydendrum arboreum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
