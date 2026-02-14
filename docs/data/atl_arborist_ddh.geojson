@@ -2049,13 +2049,13 @@
         "status": "Accepted",
         "date": "02/13/2026",
         "description": null,
-        "owner": "BLOUNT LEONARD H",
-        "tree_dbh": "5",
-        "tree_location": "right side of house",
-        "reason_removal": "Dead tree",
-        "tree_description": "5.25” DBH DDH Ligustrum located on the right side of the house .\n- tree is uprooting\n- tree is resting on the houseReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01000003027 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "ligustrum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2409,13 +2409,13 @@
         "status": "ACA Pending",
         "date": "02/13/2026",
         "description": null,
-        "owner": "GINGRICH JOAN R",
-        "tree_dbh": "120",
-        "tree_location": "behind  house close to house",
-        "reason_removal": "Other",
-        "tree_description": "very large oak tree\nin bac back yard close to house and desk only large tree in yardReason for Removal:OtherComments:new neighbors need tree either cut or worked on - roots impacting their foundation and limbs over houses need to be removed for insurance purposes\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01010016011 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "ACA Pending",
         "date": "02/13/2026",
         "description": null,
-        "owner": "Jason Weiner",
-        "tree_dbh": "12",
-        "tree_location": "Behind house adjacent to deck",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "within 10 ft of structure, leaning towards target, evidence of included bark at main forkReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01520001013 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "River Birch"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
