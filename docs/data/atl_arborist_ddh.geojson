@@ -1570,12 +1570,12 @@
         "date": "02/16/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "8",
+        "tree_location": "Rear yard directly adjacent to existing residence",
+        "reason_removal": "Invasive/undesirable tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "25",
+        "species": "Cherry Laurel"
       },
       "geometry": {
         "type": "Point",
