@@ -1473,13 +1473,13 @@
         "status": "ACA Pending",
         "date": "02/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "CMA Enclave at Grant Park",
+        "tree_dbh": "30",
+        "tree_location": "Behind 865 Commonwealth Ave SE on HOA property",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Large codominant unions with inclusion and splitting.Reason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00230003098 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
@@ -1545,13 +1545,13 @@
         "status": "ACA Pending",
         "date": "02/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "JOHNSON LARRY",
+        "tree_dbh": "28",
+        "tree_location": "Right side of property",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Large amount of decay/ cavity in the main stemReason for Removal:Significant cavity/area of decayComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00210007045 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
@@ -1569,13 +1569,13 @@
         "status": "ACA Pending",
         "date": "02/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MUSGRAVES GABRIEL MUSGRAVES KERI",
+        "tree_dbh": "25",
+        "tree_location": "rear left",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Double leadReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:China BerryTree Size (DBH):2Tree location:rear leftDescription of Tree:double leadReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 175 02 083 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "China Berry"
       },
       "geometry": {
         "type": "Point",
