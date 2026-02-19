@@ -1329,13 +1329,13 @@
         "status": "ACA Pending",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Dublin Brown LLC",
+        "tree_dbh": "26",
+        "tree_location": "in north side setback along Memorial Drive",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "26 inch HardwoodReason for Removal:Invasive/undesirable treeComments:This is a large tree that will pose potential damage to the forthcoming property.  The tree will make it impossible in getting residential homeowner's hazard insurance\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 181 05 041 *Block:--Lot:--Subdivision:--",
+        "tree_number": "14",
+        "species": "hardwood"
       },
       "geometry": {
         "type": "Point",
@@ -1353,13 +1353,13 @@
         "status": "Accepted",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "JAMES M PETERS REVOC TRUST",
+        "tree_dbh": "29",
+        "tree_location": "rear left fence",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "taggedReason for Removal:Significant cavity/area of decayComments:see report\n\t\t\n\t\t\n\t\t\tTree number:4Species:mapleTree Size (DBH):48Tree location:rear left fence over houseDescription of Tree:taggedReason for Removal:Significant cavity/area of decayComments:see report\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01420003047 *Block:--Lot:--Subdivision:--",
+        "tree_number": "3",
+        "species": "maple"
       },
       "geometry": {
         "type": "Point",
@@ -1378,12 +1378,12 @@
         "date": "02/18/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "43",
+        "tree_location": "Front of property",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Large tree in front yard by retaining wallReason for Removal:Uncorrectable defectComments:Tree is leaning heavily towards the house. Retaining wall is falling apart and sidewalk is starting to crack. Possible that SRP is compromised due to improper planting location.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01490005094 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -1401,13 +1401,13 @@
         "status": "Accepted",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Dianne Gatins",
+        "tree_dbh": "16",
+        "tree_location": "Rear right of home",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Co-dominant tree with significant bark inclusion, increased risk of splitting failureReason for Removal:Uncorrectable defectComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00220001015 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hackberry"
       },
       "geometry": {
         "type": "Point",
@@ -1449,13 +1449,13 @@
         "status": "ACA Pending",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "PECK ELIZABETH ANN",
+        "tree_dbh": "29",
+        "tree_location": "back right",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "hardwood"
       },
       "geometry": {
         "type": "Point",
@@ -1473,13 +1473,13 @@
         "status": "ACA Pending",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Isidore Farns LLC",
+        "tree_dbh": "50",
+        "tree_location": "Front of House",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Roots bulging under brick walkwayReason for Removal:Invasive/undesirable treeComments:Lots of overhang over the roof ; house inspector and arborist suggest roots my damage foundation and pipes\n\t\t\n\t\t\n\t\t\tTree number:2Species:Oak TreeTree Size (DBH):34.394Tree location:back of houseReason for Removal:Invasive/undesirable treeComments:Lots of overhang over the roof; Roots growing into foundation; house inspector and arborist afraid roots growing into pipes\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 240 03 011 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak Tree"
       },
       "geometry": {
         "type": "Point",
@@ -1521,13 +1521,13 @@
         "status": "ACA Pending",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "FAHEY LAURA",
+        "tree_dbh": "12",
+        "tree_location": "front yard",
+        "reason_removal": "Diseased",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "dogwood"
       },
       "geometry": {
         "type": "Point",
@@ -1545,13 +1545,13 @@
         "status": "Accepted",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MC CALLEY ANN M H",
+        "tree_dbh": "12",
+        "tree_location": "front left",
+        "reason_removal": "Other",
+        "tree_description": "•\tCondition: Leaning toward the pool pump with the presence of dead branches",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -1569,13 +1569,13 @@
         "status": "Accepted",
         "date": "02/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "LAURUS HOLDINGS LLC",
+        "tree_dbh": "3",
+        "tree_location": "driveway",
+        "reason_removal": "Invasive/undesirable tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "7",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
