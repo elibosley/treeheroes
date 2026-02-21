@@ -1536,6 +1536,126 @@
           33.669692524397
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202600718",
+        "address": "44 MUSCOGEE AVE NW, ATLANTA GA 30305",
+        "status": "Accepted",
+        "date": "02/20/2026",
+        "description": null,
+        "owner": "Jeff Royal",
+        "tree_dbh": "26",
+        "tree_location": "Back left of tennis court",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "SRP is sloping into a ditch, tree has a lean and unbalanced canopy, history of large limb failureReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:ChinaberryTree Size (DBH):15Tree location:Back center of tennis courtDescription of Tree:undesirable species",
+        "tree_number": "1",
+        "species": "Chinaberry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.390835912215,
+          33.825013671973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202600732",
+        "address": "3151 RILMAN RD NW, ATLANTA GA 30327",
+        "status": "Accepted",
+        "date": "02/20/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "16",
+        "tree_location": "Front left",
+        "reason_removal": "Other",
+        "tree_description": "16\" Pine, Front left, leaning out over streetReason for Removal:OtherComments:16\" Pine, Front left, leaning out over street\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01820002057 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.419828219843,
+          33.841573815706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202600727",
+        "address": "3471 HOGAN RD SW, ATLANTA GA 30331",
+        "status": "Accepted",
+        "date": "02/20/2026",
+        "description": null,
+        "owner": "Joseph Landerman",
+        "tree_dbh": "60",
+        "tree_location": "SW corner of yard",
+        "reason_removal": "Other",
+        "tree_description": "Pine treeReason for Removal:OtherComments:We do not know the size of the tree.  Requesting removal because it poses a risk to surrounding structures and property.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02530002062 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.502441046268,
+          33.675754140262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202600721",
+        "address": "882 EDEN AVE SE, ATLANTA GA 30316",
+        "status": "Accepted",
+        "date": "02/20/2026",
+        "description": null,
+        "owner": "RIDGEWAY JANET M",
+        "tree_dbh": "20",
+        "tree_location": "Behind House",
+        "reason_removal": "Dying tree",
+        "tree_description": "Greater than 30% die-back, poor formReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00220009041 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Co-dominant Dogwood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.358554189968,
+          33.730209798852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202600734",
+        "address": "2101 CASCADE RD SW, ATLANTA GA 30311",
+        "status": "Issued",
+        "date": "02/20/2026",
+        "description": "DDH",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.456629768332,
+          33.721618226685
+        ]
+      }
     }
   ]
 }
