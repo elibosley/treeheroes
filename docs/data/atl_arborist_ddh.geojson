@@ -1857,13 +1857,13 @@
         "status": "ACA Pending",
         "date": "02/25/2026",
         "description": null,
-        "owner": "LUFFMAN RANDY H",
-        "tree_dbh": "16",
-        "tree_location": "front left side of home",
-        "reason_removal": "Diseased",
-        "tree_description": "two sided hackberry between housesReason for Removal:DiseasedComments:The hackberry has several rotten spots along the stub\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00430006047 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hackberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1881,13 +1881,13 @@
         "status": "ACA Pending",
         "date": "02/25/2026",
         "description": null,
-        "owner": "andrew lajeunesse",
-        "tree_dbh": "32",
-        "tree_location": "backyard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "This pecan has co- dominate stems and severely included barkReason for Removal:Uncorrectable defectComments:This pecan has co- dominate stems and severely included bark\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 204 05 050 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pecan"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1905,13 +1905,13 @@
         "status": "Accepted",
         "date": "02/25/2026",
         "description": null,
-        "owner": "Emory University",
-        "tree_dbh": "25",
-        "tree_location": "See site plan",
-        "reason_removal": "Dead tree",
-        "tree_description": "InvasiveReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:SourwoodTree Size (DBH):10Tree location:See site planDescription of Tree:excessive lean over the road",
-        "tree_number": "1",
-        "species": "Mimosa"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2025,13 +2025,13 @@
         "status": "Accepted",
         "date": "02/25/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MAPP MICHAEL",
+        "tree_dbh": "2",
+        "tree_location": "back of lot",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "all three are younger treesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01430005029 *Block:--Lot:--Subdivision:--",
+        "tree_number": "3",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
