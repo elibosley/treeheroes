@@ -1905,13 +1905,13 @@
         "status": "Accepted",
         "date": "02/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "EILERS JON W",
+        "tree_dbh": "12",
+        "tree_location": "See site map",
+        "reason_removal": "Other",
+        "tree_description": "Numbered flagging tape Reason for Removal:OtherComments:Bowed canopy with upper crown offset approx. 15 ft over neighboring property; interdependent structural root plate with adjacent pine.\n\t\t\n\t\t\n\t\t\tTree number:2Species:Pine Tree Size (DBH):24Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Deeply cut fusiform canker high in canopy; offset canopy weight distribution favoring neighboring occupied structure; interdependent structural root plate with Tree 1.\n\t\t\n\t\t\n\t\t\tTree number:3Species:Pine Tree Size (DBH):21Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Noticeable canopy decline with significant needle thinning estimated at approx. 70 percent reduction compared to adjacent pines.\n\t\t\n\t\t\n\t\t\tTree number:4Species:Pine Tree Size (DBH):20Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Fusiform canker at mid-bole at old dead branch site, deeply cut into structural wood; off-balance upper canopy with codominant, meandering leaders; interdependent structural root plate with Tree 3 approx. 7 ft apart.\n\t\t\n\t\t\n\t\t\tTree number:5Species:Magnolia Tree Size (DBH):15Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Former triple-trunk structure; two prior stems removed; visible wood loss and decay at former stem unions; resprouted growth form.\n\t\t\n\t\t\n\t\t\tTree number:6Species:White Oak Tree Size (DBH):36Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Possibly previously denied under BA-2025033325 as a 46-inch White oak; current field measurement differs and condition raises uncertainty whether the same tree was evaluated. Codominant with approx. 7 ft bark inclusion; fungal conks affecting approx. 50 percent of basal circumference; decay confirmed by sounding; chronic root disturbance from long-term equipment and material storage including broken equipment, fuel containers, and decayed firewood; observable canopy decline with noticeable deadfall and decayed branches scattered around the base of Trees 6 and 7; occupied target present on adjacent property. Sounding video to be uploaded to Accela.\n\t\t\n\t\t\n\t\t\tTree number:7Species:White Oak Tree Size (DBH):23Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Off-balance phototropic canopy; codominant structure with meandering form; canopy largely covered in English ivy limiting full visual inspection; chronic material and equipment storage at base including fuel containers and debris suggesting likely root disturbance; noticeable white oak deadfall present in vicinity; interdependent structural root plate with Tree 6.\n\t\t\n\t\t\n\t\t\tTree number:8Species:Black Cherry Tree Size (DBH):8Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Pronounced dogleg lean with significant phototropic bend over fence line toward adjacent structure; bowed stem form with offset leader; limited upper crown structure.\n\t\t\n\t\t\n\t\t\tTree number:9Species:Elm Tree Size (DBH):34Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:One broken leader with ripped-off fracture at former leader attachment; embedded rebar, hog wire, and additional wire at base; evidence of ground disturbance associated with past curbing or hardscape work within past two decades relative to tree age; canopy and trunk largely covered in English ivy limiting full inspection.\n\t\t\n\t\t\n\t\t\tTree number:10Species:Pine Tree Size (DBH):30Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Fusiform canker at mid-bole with stem deformation.\n\t\t\n\t\t\n\t\t\tTree number:11Species:Pine Tree Size (DBH):32Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:Deformed structural root plate; pronounced dogleg at lower mid-trunk; predominant canopy mass leaning toward neighboring occupied dwelling.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00630002021 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "ACA Pending",
         "date": "02/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "The Middle Housing Company",
+        "tree_dbh": "34",
+        "tree_location": "Front left",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Significantly sparse canopy/poor health",
+        "tree_number": "158",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "Accepted",
         "date": "02/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "The Middle Housing Company",
+        "tree_dbh": "6",
+        "tree_location": "Front of 1905",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Bough mid trunk/constricted root zone/umbalanced canopy/poor structure/poor health",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2001,13 +2001,13 @@
         "status": "Accepted",
         "date": "02/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "The Middle Housing Company",
+        "tree_dbh": "6",
+        "tree_location": "Front",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Basal root decay on tension side/poor health",
+        "tree_number": "75",
+        "species": "Sycamore"
       },
       "geometry": {
         "type": "Point",
@@ -2026,12 +2026,12 @@
         "date": "02/26/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "28",
+        "tree_location": "Front right",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Tree has broken central leader.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:MimosaTree Size (DBH):12Tree location:Front rightDescription of Tree:Invasive treeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:ChinaberryTree Size (DBH):10Tree location:Right side along fenceDescription of Tree:Invasive treeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:6Species:Tree of heavenTree Size (DBH):6Tree location:Left side, midwayDescription of Tree:Invasive tree engulfed in vines.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:7Species:Princess TreeTree Size (DBH):7Tree location:Left side, midwayDescription of Tree:Invasive TreeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:8Species:Tree of heavenTree Size (DBH):6Tree location:left side, past midwayDescription of Tree:Invasive treeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:10Species:Tree of heavenTree Size (DBH):9Tree location:left side 3/4Description of Tree:Invasive treeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:11Species:Princess TreeTree Size (DBH):9Tree location:left side 3/4Description of Tree:Invasive TreeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:13Species:Princess TreeTree Size (DBH):10Tree location:Far back close to back fence.Description of Tree:Invasive TreeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01420005021 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Mimosa"
       },
       "geometry": {
         "type": "Point",
@@ -2049,13 +2049,13 @@
         "status": "Accepted",
         "date": "02/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Mimi and Greg Claugus",
+        "tree_dbh": "30",
+        "tree_location": "Backyard on right near deck",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Fusarium canker at base leaning at 20 degrees over neighbors house.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:Leyland CypressTree Size (DBH):19Tree location:Backyard on right near deckDescription of Tree:Growing into houseReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00510005020 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2073,13 +2073,13 @@
         "status": "Accepted",
         "date": "02/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "GEORGE KATHRYN ANN CRISTOL SARAH L",
+        "tree_dbh": "22",
+        "tree_location": "Front yard",
+        "reason_removal": "Significant cavity/area of decay",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
@@ -2098,12 +2098,12 @@
         "date": "02/26/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "38",
+        "tree_location": "Back right",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Decay in trunk and baseReason for Removal:Significant cavity/area of decayComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01040003012 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "Accepted",
         "date": "02/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Blair Harris and Amber Hudson",
+        "tree_dbh": "26",
+        "tree_location": "Back Yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "The subject tree has experienced a significant prior stem failure in the mid-canopy, which has left a large exposed wound with visible wood and incomplete closure. The size and position of this wound indicate a high likelihood that internal decay is present and progressing beyond the margins of visible injury.",
+        "tree_number": "1",
+        "species": "water oak"
       },
       "geometry": {
         "type": "Point",
