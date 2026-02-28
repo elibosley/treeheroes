@@ -2265,13 +2265,13 @@
         "status": "Accepted",
         "date": "02/27/2026",
         "description": null,
-        "owner": "Gold Blossoms LLC",
-        "tree_dbh": "14",
-        "tree_location": "Left side of house behind carport",
-        "reason_removal": "Dying tree",
-        "tree_description": "Approx 25-30' tall located behind carport & pool house. Hole is 12\" h x 6\" w (above grade level) & cavity is 24\" d (below grade level). Tree has a lean over both structures.Reason for Removal:Dying treeComments:Our immediate concern is toppling based on prox. to structures & leaning over both of them - maj. risk of structural damage.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00040002015 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hickory or Walnut"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2289,13 +2289,13 @@
         "status": "ACA Pending",
         "date": "02/27/2026",
         "description": null,
-        "owner": "Emily Kroncke",
-        "tree_dbh": "16",
-        "tree_location": "Front right, next to Pecan",
-        "reason_removal": "Dead tree",
-        "tree_description": "16\" Maple, Dead, front right, next to PecanReason for Removal:Dead treeComments:16\" Maple, Dead, front right, next to Pecan\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 055 01 015 *Block:--Lot:--Subdivision:UNIVERSITY DRIVE ANNEXATION",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2313,13 +2313,13 @@
         "status": "Accepted",
         "date": "02/27/2026",
         "description": null,
-        "owner": "JINKS J",
-        "tree_dbh": "60",
-        "tree_location": "left along the road",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "It is currently in a failing condition and poses an imminent safety risk. If the supporting cables fail, the tree could fall without warning, potentially causing severe injury or damage.Reason for Removal:Invasive/undesirable treeComments:This tree is exhibiting early-stage failure at the primary codominant union, where splitting is occurring and load transfer between stems is\ncompromised. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00030010003 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Ash Tree"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
