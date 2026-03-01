@@ -2529,13 +2529,13 @@
         "status": "ACA Pending",
         "date": "02/28/2026",
         "description": null,
-        "owner": "TAYLOR CRAIG OR TAYLOR LAUREN",
-        "tree_dbh": "25",
-        "tree_location": "Front/center",
-        "reason_removal": "Dying tree",
-        "tree_description": "DecliningReason for Removal:Dying treeComments:Maybe dead soon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 056 04 007 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2577,13 +2577,13 @@
         "status": "ACA Pending",
         "date": "02/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Asher Homes",
+        "tree_dbh": "8",
+        "tree_location": "front middle",
+        "reason_removal": "Other",
+        "tree_description": "<12\", backfilledReason for Removal:OtherComments:Does not require a permit\n\t\t\n\t\t\n\t\t\tTree number:2Species:Loblolly PineTree Size (DBH):9Tree location:front middleDescription of Tree:<12\", backfilledReason for Removal:OtherComments:Does not require a permit\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T14F0036  LL021 10 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Loblolly Pine"
       },
       "geometry": {
         "type": "Point",
