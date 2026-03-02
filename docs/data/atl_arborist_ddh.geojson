@@ -2241,13 +2241,13 @@
         "status": null,
         "date": "03/01/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "KNOX ENTERPRISES LLLP",
+        "tree_dbh": "47",
+        "tree_location": "off street",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree #1 – 47-inch Diameter Oak",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
