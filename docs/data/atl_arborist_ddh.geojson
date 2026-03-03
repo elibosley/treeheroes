@@ -1666,12 +1666,12 @@
         "date": "03/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "28",
-        "tree_location": "Front of the house",
-        "reason_removal": "Dead tree",
-        "tree_description": "Pine treeReason for Removal:Dead treeComments:Tree is dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00080006005 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1714,12 +1714,12 @@
         "date": "03/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "19",
-        "tree_location": "left side",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Hazardous- has recently lost multiple 4\" diameter limbs over house; within 4ft of foundationReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:cherry laurelTree Size (DBH):8Tree location:left sideDescription of Tree:Invasive, undesirable; has been causing sparks at electrical line connection to house Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01100005021 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hickory"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1762,12 +1762,12 @@
         "date": "03/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "15",
-        "tree_location": "left side",
-        "reason_removal": "Other",
-        "tree_description": "close to foundationReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:MulberryTree Size (DBH):15Tree location:left sideDescription of Tree:close to foundationReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00520001049 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Poplar"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1809,13 +1809,13 @@
         "status": "ACA Pending",
         "date": "03/02/2026",
         "description": null,
-        "owner": "MARTIN BETTY ROWE",
-        "tree_dbh": "15",
-        "tree_location": "back left",
-        "reason_removal": "Dying tree",
-        "tree_description": "This tree has low vigor. Majority of the canopy is dead. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 146 10 050 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "black cherry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
