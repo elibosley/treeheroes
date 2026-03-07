@@ -1618,12 +1618,12 @@
         "date": "03/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "32",
+        "tree_location": "Back right yard just inside the chain link fence.",
+        "reason_removal": "Dying tree",
+        "tree_description": "Marked with an orange ribbon.  Base of trunk has a cavity that looks bored out.  Bark is very weak and falling off in some areas at base of trunk.  Multiple limbs broken in crown.  Canopy is very thin.  Reason for Removal:Dying treeComments:Previously denied on Permit Number: BA-202600806 labeled #1.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00500007005 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine Tree"
       },
       "geometry": {
         "type": "Point",
