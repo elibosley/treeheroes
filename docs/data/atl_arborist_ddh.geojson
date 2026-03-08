@@ -2049,13 +2049,13 @@
         "status": "ACA Pending",
         "date": "03/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "PACES FERRY ASSOCIATES LLC",
+        "tree_dbh": "13",
+        "tree_location": "in-between building units.",
+        "reason_removal": "Dying tree",
+        "tree_description": "dying wild cherry with decay on base of trunk. Cherry is also leaning and Reason for Removal:Dying treeComments:Marked with orange paint.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00990002118 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Wild Cherry"
       },
       "geometry": {
         "type": "Point",
@@ -2074,12 +2074,12 @@
         "date": "03/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "36",
+        "tree_location": "FRONT RIGHT HOUSE",
+        "reason_removal": "Other",
+        "tree_description": "GROWING INTO FOUNDATIONReason for Removal:OtherComments:TREE IS GROWING IN THE BASEMENT\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02310001003 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "POPLAR"
       },
       "geometry": {
         "type": "Point",
