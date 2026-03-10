@@ -1378,12 +1378,12 @@
         "date": "03/09/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "Back left corner of buidling",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Growing on a aggressive incline and leaning toward condo building. Lower termite can be seenReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):30Tree location:Back Left corner of buildingDescription of Tree:Growing on a aggressive incline and leaning toward condo building. Lower termite can be seenReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):25Tree location:Back left corner of buildingDescription of Tree:Dead treeReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:OakTree Size (DBH):32Tree location:Back left corner of buidlingDescription of Tree:Tree has excessive kudzu and has the entire canopy leaning towards the condo building and growing on aggressive inclineReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01000012001 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1401,13 +1401,13 @@
         "status": "ACA Pending",
         "date": "03/09/2026",
         "description": null,
-        "owner": "Chad Wallace",
-        "tree_dbh": "12",
-        "tree_location": "Rear of backyard",
-        "reason_removal": "Dying tree",
-        "tree_description": "Significant Canopy FailureReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:I15 02380006048 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Boxelder"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1425,13 +1425,13 @@
         "status": "ACA Pending",
         "date": "03/09/2026",
         "description": null,
-        "owner": "CHAMPAGNE DEIDRA",
-        "tree_dbh": "34",
-        "tree_location": "Back right",
-        "reason_removal": "Dying tree",
-        "tree_description": "34in water oak with large fungal bracket along north facing side of root collar.Reason for Removal:Significant cavity/area of decayComments:Level 3 Advanced Inspection with use of resistance recording drill indicated substantial internal decay below dbh.\n\t\t\n\t\t\n\t\t\tTree number:4Species:Water OakTree Size (DBH):41Tree location:Front yard, within 5 ft of home.Description of Tree:Large Water oak within 5 ft of home containing multiple cavities along large codominant leads.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:6Species:Silver MapleTree Size (DBH):46Tree location:Back rightDescription of Tree:More than 30% of the canopy appears necrotic.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00170004051 *Block:--Lot:--Subdivision:--",
-        "tree_number": "3",
-        "species": "Silver Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1450,12 +1450,12 @@
         "date": "03/09/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "10",
-        "tree_location": "Rear wall",
-        "reason_removal": "Invasive/undesirable tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "17",
-        "species": "Cherry Laurel"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1474,12 +1474,12 @@
         "date": "03/09/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "160 Lynhurst",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:10Species:PineTree Size (DBH):30Tree location:160 LynhurstDescription of Tree:Dead TreeReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:9Species:PineTree Size (DBH):30Tree location:160 LynhurstDescription of Tree:Dead TreeReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02370002016 *Block:--Lot:--Subdivision:--",
-        "tree_number": "11",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1497,13 +1497,13 @@
         "status": "ACA Pending",
         "date": "03/09/2026",
         "description": null,
-        "owner": "EASON RONALD",
-        "tree_dbh": "27",
-        "tree_location": "back of property next to fence",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "cavity at groundReason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:water oakTree Size (DBH):35Tree location:back of property next to fenceDescription of Tree:stress cracks and lifting up drivewayReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01370005057 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "water oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
