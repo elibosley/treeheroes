@@ -2361,13 +2361,13 @@
         "status": "ACA Pending",
         "date": "03/10/2026",
         "description": null,
-        "owner": "TRACY LAURA R",
-        "tree_dbh": "40",
-        "tree_location": "front left",
-        "reason_removal": "Other",
-        "tree_description": "splitingReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 178 04 117 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "water oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2385,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "03/10/2026",
         "description": null,
-        "owner": "HABITAT FOR HUMANITY IN ATLANT",
-        "tree_dbh": "36",
-        "tree_location": "Right Rear Corner of Lot",
-        "reason_removal": "Dying tree",
-        "tree_description": "Tree appears to look unhealthy and is covered in vines.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01800004012 *Block:--Lot:--Subdivision:--",
-        "tree_number": "9",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2409,13 +2409,13 @@
         "status": "ACA Pending",
         "date": "03/10/2026",
         "description": null,
-        "owner": "JONES MILLER T III OR JONES MARY L",
-        "tree_dbh": "12",
-        "tree_location": "Rear right",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 176 03 071 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Dogwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "ACA Pending",
         "date": "03/10/2026",
         "description": null,
-        "owner": "Calenia Waddy",
-        "tree_dbh": "15",
-        "tree_location": "Front lawn",
-        "reason_removal": "Dying tree",
-        "tree_description": "Invasive. Hangs over home. Obstructed old plumbing/threat to new plumbing. Dead/Dying and/or Hazardous.Reason for Removal:Dying treeComments:Invasive. Hangs over home. Obstructed old plumbing/threat to new plumbing. Dead/Dying and/or Hazardous.\n\t\t\n\t\t\n\t\t\tTree number:3Species:UnkownTree Size (DBH):60Tree location:Front lawnDescription of Tree:Invasive. Hangs over home. Obstructs power lines. Large dying limbs falls and dents vehicles. Threat of falling. Dead/Dying and/or Hazardous.Reason for Removal:Dying treeComments:Invasive. Hangs over home. Obstructs power lines. Large dying limbs falls and dents vehicles. Threat of falling. Dead/Dying and/or Hazardous.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00570022025 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Unknown"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2458,12 +2458,12 @@
         "date": "03/10/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "18",
-        "tree_location": "front center",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "This tree has previously lost one of its leads. The canopy has approximately 15% dieback. Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00590003016 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "river brrch"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
