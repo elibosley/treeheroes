@@ -2674,12 +2674,12 @@
         "date": "03/11/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "15",
-        "tree_location": "back yard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Tree is half out of the ground at roots and hanging over yard creating hazard to children on propertyReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:deciduousTree Size (DBH):10Tree location:back yardDescription of Tree:Tree is half out of the ground at roots and hanging over yard creating hazard to children on propertyReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 182 02 104 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Deciduous"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2721,13 +2721,13 @@
         "status": "ACA Pending",
         "date": "03/11/2026",
         "description": null,
-        "owner": "JACKSON MILTON L",
-        "tree_dbh": "15",
-        "tree_location": "back left corner of the house.",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Ivy covered invasive 1/2 dead tree. Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:elmTree Size (DBH):20Tree location:back left corner of the house. Description of Tree:Codom with reaction wood, Some issues. low risk of failure, but high consequences should it fail. Elderly stroke victim resides here and they are concerned IF it should fail, they would be stuck. Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01180001110 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
