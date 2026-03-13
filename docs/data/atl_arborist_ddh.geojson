@@ -2649,13 +2649,13 @@
         "status": "Accepted",
         "date": "03/12/2026",
         "description": null,
-        "owner": "DAVIDSON KENNEDY CO",
-        "tree_dbh": "34",
-        "tree_location": "see map",
-        "reason_removal": "Invasive/undesirable tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "paulownia"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2674,12 +2674,12 @@
         "date": "03/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "24",
-        "tree_location": "Rear Yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "Tree has exposed core structure with severe central bark loss which could cause tree to split. Tree is hazardous in its leaning and position on the site.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:HWTree Size (DBH):18Tree location:East SideDescription of Tree:Tree poses serious concerns for fear of hazard to life safety and property damage given its central location and leaning towards homesite. It is too close to desired home footprint. The lot is also extremely small, which poses a hardship in meeting the zoning requirements.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:HWTree Size (DBH):12Tree location:Rear YardDescription of Tree:Tree has been severely harmed by neglected old growth ivy, which has penetrated and damaged the bark to the top of the tree.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00550002033 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "HW"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2697,13 +2697,13 @@
         "status": "Accepted",
         "date": "03/12/2026",
         "description": null,
-        "owner": "Stewart",
-        "tree_dbh": "28",
-        "tree_location": "Back center",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Poplar",
-        "tree_number": "1",
-        "species": "Poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
