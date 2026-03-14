@@ -2866,12 +2866,12 @@
         "date": "03/13/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "24",
+        "tree_location": "Right side",
+        "reason_removal": "Other",
+        "tree_description": "Magnolia Tree is about 2 feet from the foundations  causing severe damages to the property.Reason for Removal:OtherComments:Removal strongly recommended,large roots grew under the foundations cracking concrete and causing other damages to the property.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00530014023 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Magnolia"
       },
       "geometry": {
         "type": "Point",
@@ -2889,13 +2889,13 @@
         "status": "Accepted",
         "date": "03/13/2026",
         "description": null,
-        "owner": "MULLGRAV CARMEN J",
-        "tree_dbh": "25",
-        "tree_location": "back yard",
-        "reason_removal": "Diseased",
-        "tree_description": "Tall pine treeReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00650003062 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
