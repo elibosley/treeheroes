@@ -2337,13 +2337,13 @@
         "status": "ACA Pending",
         "date": "03/15/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Ethan michael Meisel and Vanessa Meisel",
+        "tree_dbh": "30",
+        "tree_location": "Backyard",
+        "reason_removal": "Dead tree",
+        "tree_description": "large dead tree, no leaves now at least two seasons, leaning overReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00520004009 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "tulip poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2362,12 +2362,12 @@
         "date": "03/15/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "24",
+        "tree_location": "Rear Right",
+        "reason_removal": "Dead tree",
+        "tree_description": "Structural root plate is deformed and against a stone\nfoundation.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:White OakTree Size (DBH):40Tree location:FrontDescription of Tree:Necrotic canopy with 30% or greater decline.Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00460012017 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2385,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "03/15/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Gregory Bright",
+        "tree_dbh": "22",
+        "tree_location": "Backyard",
+        "reason_removal": "Dying tree",
+        "tree_description": "It is a tall pecan tree with long thick branches hanging over my house and my neighbors. The tree is completely covered and choked in kudzu. The large branches are breaking and starting to fall on our houses. We would both like to get the tree cut down. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00130008058 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pecan"
       },
       "geometry": {
         "type": "Point",
