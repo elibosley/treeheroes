@@ -1833,13 +1833,13 @@
         "status": "Accepted",
         "date": "03/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "WHITE DENNIS L",
+        "tree_dbh": "20",
+        "tree_location": "Backyard Right Side",
+        "reason_removal": "Dying tree",
+        "tree_description": "dying",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -1954,12 +1954,12 @@
         "date": "03/16/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "27",
-        "tree_location": "behind unit 31",
-        "reason_removal": "Dying tree",
-        "tree_description": "declining, crown dying, leaning, dropping limbsReason for Removal:Dying treeComments:residents complain\n\t\t\n\t\t\n\t\t\tTree number:2Species:boxelderTree Size (DBH):15Tree location:behind unit 31Description of Tree:leaning and decliningReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00950001092 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "boxelder"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
