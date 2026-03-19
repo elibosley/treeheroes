@@ -2409,13 +2409,13 @@
         "status": "ACA Pending",
         "date": "03/18/2026",
         "description": null,
-        "owner": "ARC Properties",
-        "tree_dbh": "25",
-        "tree_location": "Left side",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Missing roughly 50% of canopyReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01490003020 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "ACA Pending",
         "date": "03/18/2026",
         "description": null,
-        "owner": "ARC Property Group LLC",
-        "tree_dbh": "38",
-        "tree_location": "Last Tree toward the back of the property on the Right Side",
-        "reason_removal": "Dying tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "OAKS"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2457,13 +2457,13 @@
         "status": "ACA Pending",
         "date": "03/18/2026",
         "description": null,
-        "owner": "ARC Property Group LLC",
-        "tree_dbh": "38",
-        "tree_location": "Last Tree toward the back of the property on the Right Side",
-        "reason_removal": "Dying tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "HW"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2481,13 +2481,13 @@
         "status": "ACA Pending",
         "date": "03/18/2026",
         "description": null,
-        "owner": "Caroline Strumph",
-        "tree_dbh": "36",
-        "tree_location": "Backyard - to left of house in wooded area between our house and neighbor's house.",
-        "reason_removal": "Dead tree",
-        "tree_description": "Very tall and large tree - covered in dead vines, with relatively few branches remaining up top because many have snapped off. Reason for Removal:Dead treeComments:I believe this tree poses a threat to my home and my family and would appreciate the City's assistance to keep my family safe. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01820002061 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Unknown - oak?"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2505,13 +2505,13 @@
         "status": "ACA Pending",
         "date": "03/18/2026",
         "description": null,
-        "owner": "SMITH KEVIN",
-        "tree_dbh": "42",
-        "tree_location": "right rear",
-        "reason_removal": "Other",
-        "tree_description": "NoneReason for Removal:OtherComments:The subject tree is a mature elm exhibiting a major structural failure at a primary scaffold\nunion. A large co-dominant stem has failed, resulting in a substantial open wound with\nexposed heartwood and visible internal decay. The fracture plane shows splintering and fiber\npull, indicating a structurally compromised attachment point rather than a clean separation.",
-        "tree_number": "1",
-        "species": "Elm"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
