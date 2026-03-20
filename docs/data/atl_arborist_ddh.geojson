@@ -2169,13 +2169,13 @@
         "status": "Accepted",
         "date": "03/19/2026",
         "description": null,
-        "owner": "WRIGHT MARGARET D",
-        "tree_dbh": "20",
-        "tree_location": "Left of Driveway",
-        "reason_removal": "Dead tree",
-        "tree_description": "2 Dead Pines",
-        "tree_number": "2",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2194,12 +2194,12 @@
         "date": "03/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "18",
+        "tree_location": "Front Yard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Too close to tree #4 which will be removed for safety concerns.Reason for Removal:Uncorrectable defectComments:Pre-construction meeting with Grader determined that tree #3 is too close to tree #4, which has been approved for removal for the safety of the project. Grader does not believe Tree #3 is healthy enough to preserve, and believes that it won't survive or remain safe if preservation is attempted.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02230007091 *Block:--Lot:--Subdivision:--",
+        "tree_number": "3",
+        "species": "HW"
       },
       "geometry": {
         "type": "Point",
@@ -2242,12 +2242,12 @@
         "date": "03/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "30",
+        "tree_location": "Front Yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree has lots of decay and is leaning directly over the houseReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02440002026 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pecan"
       },
       "geometry": {
         "type": "Point",
@@ -2265,13 +2265,13 @@
         "status": "ACA Pending",
         "date": "03/19/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "HABITAT FOR HUMANITY IN ATLANT",
+        "tree_dbh": "10",
+        "tree_location": "front right of lot",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree 1\n10\" Mimosa\n- Invasive, DeadReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):29Tree location:middle left near chain linkDescription of Tree:Tree 2\n29\" Pine\n- phototropic lean, Leaning",
+        "tree_number": "1",
+        "species": "Mimosa"
       },
       "geometry": {
         "type": "Point",
@@ -2458,12 +2458,12 @@
         "date": "03/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "28",
+        "tree_location": "front right of lot",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "phototropic leadReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:HardwoodTree Size (DBH):27Tree location:center right of lotDescription of Tree:parasitic fungus, dyingReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:HardwoodTree Size (DBH):18Tree location:back right of lotDescription of Tree:phototropic leanReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00390006030 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hardwood"
       },
       "geometry": {
         "type": "Point",
