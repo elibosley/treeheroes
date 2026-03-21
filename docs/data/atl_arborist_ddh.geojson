@@ -2577,13 +2577,13 @@
         "status": "ACA Pending",
         "date": "03/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "ROYAL INVESTMENT GROUP LLC",
+        "tree_dbh": "46",
+        "tree_location": "See site map",
+        "reason_removal": "Other",
+        "tree_description": "Numbered flagging tapeReason for Removal:OtherComments:Sounding conducted around the trunk produces a hollow response in multiple locations, indicating internal decay within the main stem. A vertical calloused wound is present on the north side of the trunk, associated with internal degradation.",
+        "tree_number": "1",
+        "species": "Redbud"
       },
       "geometry": {
         "type": "Point",
@@ -2626,12 +2626,12 @@
         "date": "03/20/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "26",
+        "tree_location": "Back yard left side near the fence.",
+        "reason_removal": "Dying tree",
+        "tree_description": "Diying on top with a lean towards the house Reason for Removal:Dying treeComments:This tree is dropping a lots of dead branches from the top, home owner is very concerned about someone getting hurt. Or tree falls into the house \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00500010052 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2673,13 +2673,13 @@
         "status": "ACA Pending",
         "date": "03/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Shane Garrett",
+        "tree_dbh": "11",
+        "tree_location": "Front left corner of house",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Suppressed/Poor FormReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:Water OakTree Size (DBH):33Tree location:Front left corner of houseDescription of Tree:Suppressed/Leaning over client's HouseReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00140002059 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Black Cherry"
       },
       "geometry": {
         "type": "Point",
@@ -2697,13 +2697,13 @@
         "status": "ACA Pending",
         "date": "03/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "HARPER JAY",
+        "tree_dbh": "49",
+        "tree_location": "right side yard along driveway",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Multi-trunk (28\"+25\"+17\"); decay in V-union of codominant leaders with bacterial flux",
+        "tree_number": "1",
+        "species": "HACKBERRY"
       },
       "geometry": {
         "type": "Point",
