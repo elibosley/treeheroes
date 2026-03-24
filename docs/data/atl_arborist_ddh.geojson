@@ -1785,13 +1785,13 @@
         "status": "ACA Pending",
         "date": "03/23/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "BALLARD LARCIA O",
+        "tree_dbh": "35",
+        "tree_location": "same as above",
+        "reason_removal": "Dying tree",
+        "tree_description": "they are currently overhanging my home and my neighbor’s property.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:unknownTree Size (DBH):35Tree location:same as aboveDescription of Tree:they are currently overhanging my home and my neighbor’s property. Both are dyingReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00660001029 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "unknown"
       },
       "geometry": {
         "type": "Point",
