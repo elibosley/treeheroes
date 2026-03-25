@@ -1450,12 +1450,12 @@
         "date": "03/24/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "10",
+        "tree_location": "Front left side",
+        "reason_removal": "Other",
+        "tree_description": "The tree is in the front yard on the left hand side of the property. It is causing significant structural damage to retaining wall splitting property line and does not allow for safety railings to be installed.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:HardwoodTree Size (DBH):19Tree location:Front left sideDescription of Tree:The tree is in the front yard on the left hand side of the property. It is causing significant structural damage to retaining wall splitting property line and does not allow for safety railings to be installed.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:3Species:HardwoodTree Size (DBH):29Tree location:Front left sideDescription of Tree:The tree is in the front yard on the left hand side of the property. It is causing significant structural damage to retaining wall splitting property line and does not allow for safety railings to be installed.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:4Species:HardwoodTree Size (DBH):11Tree location:Front left sideDescription of Tree:The tree is in the front yard on the left hand side of the property. It is causing significant structural damage to retaining wall splitting property line and does not allow for safety railings to be installed.Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010001074 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hardwood"
       },
       "geometry": {
         "type": "Point",
