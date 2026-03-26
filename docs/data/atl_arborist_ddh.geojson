@@ -1378,12 +1378,12 @@
         "date": "03/25/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "39",
-        "tree_location": "Right middle",
-        "reason_removal": "Dying tree",
-        "tree_description": "Vines wrapped in canopyReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:6Species:HWTree Size (DBH):12Tree location:Right middleDescription of Tree:vines wrapped in capopyReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02430002009 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "HW"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1497,13 +1497,13 @@
         "status": "Accepted",
         "date": "03/25/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "HALPERIN ELLEN E",
+        "tree_dbh": "25",
+        "tree_location": "Backyard",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "25\" Red Oak, Backyard, Declining, Large rotting cavity at base, canopy diebackReason for Removal:Significant cavity/area of decayComments:25\" Red Oak, Backyard, Declining, Large rotting cavity at base, canopy dieback\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01370004041 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -1569,13 +1569,13 @@
         "status": "ACA Pending",
         "date": "03/25/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "LOCKHART WILLIAM L",
+        "tree_dbh": "20",
+        "tree_location": "Middle, back of lot",
+        "reason_removal": "Other",
+        "tree_description": "This tree has a red dot spray-painted to identify.Reason for Removal:OtherComments:This red oak poses a hazard to Monroe Ave.\n\t\t\n\t\t\n\t\t\tTree number:2Species:Red oakTree Size (DBH):35Tree location:Middle, back of lot Description of Tree:This tree has a red dot spray-painted to identify.Reason for Removal:OtherComments:Critical root zone disrupted\n\t\t\n\t\t\n\t\t\tTree number:3Species:Red oakTree Size (DBH):32Tree location:Middle, back of lot Description of Tree:This tree has a red dot spray-painted to identify.Reason for Removal:Significant cavity/area of decayComments:Critical root zone disrupted and internal cavity.\n\t\t\n\t\t\n\t\t\tTree number:4Species:Red oakTree Size (DBH):29Tree location:Middle, back of lot Description of Tree:This tree has a red dot spray-painted to identify.Reason for Removal:OtherComments:Critical root zone disrupted\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00550007004 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "red oak"
       },
       "geometry": {
         "type": "Point",
@@ -1594,12 +1594,12 @@
         "date": "03/25/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "29",
+        "tree_location": "right side of the house",
+        "reason_removal": "Dead tree",
+        "tree_description": "Very dead tree. You can see in the picture, most of the limbs have fallen offReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F0048  LL072 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -1617,13 +1617,13 @@
         "status": "Accepted",
         "date": "03/25/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "BARTLETT DIANE H",
+        "tree_dbh": "10",
+        "tree_location": "Front Left Corner of House",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Within 5 feet of the foundationReason for Removal:Invasive/undesirable treeComments:Needs Permit\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00560013034 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Holly"
       },
       "geometry": {
         "type": "Point",
@@ -1641,13 +1641,13 @@
         "status": "Issued",
         "date": "03/25/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SMITH GARY RANDALL SMITH ELIZABETH J",
+        "tree_dbh": "27",
+        "tree_location": "Left rear",
+        "reason_removal": "Other",
+        "tree_description": "Flagging tape Reason for Removal:Significant cavity/area of decayComments:A vertical column of decay is present along the lower trunk, consistent with a prior lightning strike, with advanced decay on the tension side and visible insect activity. The tree exhibits a pronounced lean toward the adjacent property.",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
