@@ -1786,12 +1786,12 @@
         "date": "03/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "14",
+        "tree_location": "The tree is in the rear yard of the property. Access to the tree will be directly from the driveway.",
+        "reason_removal": "Other",
+        "tree_description": "The tree has a heavy lean. Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:Deodar cedarTree Size (DBH):14Tree location:The tree is in the rear yard of the property. Access to the tree will be directly from the driveway.Description of Tree:The tree has a heavy lean. Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0110  LL037 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Deodar cedar"
       },
       "geometry": {
         "type": "Point",
@@ -1809,13 +1809,13 @@
         "status": "ACA Pending",
         "date": "03/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "FINCH PAUL S",
+        "tree_dbh": "20",
+        "tree_location": "front yard",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "japanese mapleReason for Removal:Invasive/undesirable treeComments:roots growing into sewer line at the 54 foot mark- the root grew across the yard into the pipe. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00730004047 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "japanese maple"
       },
       "geometry": {
         "type": "Point",
@@ -1834,12 +1834,12 @@
         "date": "03/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "27",
+        "tree_location": "Front left",
+        "reason_removal": "Dying tree",
+        "tree_description": "Poplar 27\", back left of house outside fence, struck by lightening, declining, damage to trunkReason for Removal:OtherComments:Poplar 27\", back left of house outside fence, struck by lightening, declining, damage to trunk\n\t\t\n\t\t\n\t\t\tTree number:2Species:White OakTree Size (DBH):24Tree location:Back middleDescription of Tree:White Oak 24\", back middle, base is rottingReason for Removal:Significant cavity/area of decayComments:White Oak 24\", back middle, base is rotting\n\t\t\n\t\t\n\t\t\tTree number:3Species:MapleTree Size (DBH):17Tree location:Front leftDescription of Tree:Maple 17\", front left, declining, cankers on trunk, canopy diebackReason for Removal:Dying treeComments:Maple 17\", front left, declining, cankers on trunk, canopy dieback\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0044  LL097 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -1881,13 +1881,13 @@
         "status": "Accepted",
         "date": "03/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "ATLANTA HOUSING AUTHORITY",
+        "tree_dbh": "15",
+        "tree_location": "near sidewalk",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "severe lean overhanging fence and power linesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:52Species:Bradford PearTree Size (DBH):18Tree location:near sidewalkDescription of Tree:next to tree 51Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0047  LL001 *Block:--Lot:--Subdivision:--",
+        "tree_number": "51",
+        "species": "Bradford Pear"
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "Accepted",
         "date": "03/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "BHS PROPERTIES LLC",
+        "tree_dbh": "26",
+        "tree_location": "back, left; inside of the natural area",
+        "reason_removal": "Other",
+        "tree_description": "Tree has a broken crown with multiple missing leaders. Cavities from previously broken branches in the canopy. Reason for Removal:Dying treeComments:all trees on this application are located in the natural area, the wooded lot between the buildings, behind the mailboxes.\n\t\t\n\t\t\n\t\t\tTree number:3Species:BeechTree Size (DBH):20Tree location:right side; in the natural area behind the mailboxesDescription of Tree:Tree is dying; 50%+ dieback in the canopyReason for Removal:Dying treeComments:all trees on this application are located in the natural area, the wooded lot between the buildings, behind the mailboxes.\n\t\t\n\t\t\n\t\t\tTree number:4Species:CherryTree Size (DBH):20Tree location:left side; inside the natural area behind the mailboxesDescription of Tree:about 30-40% dieback in the canopy. Tree has not healed from previous heading cuts.Reason for Removal:Dying treeComments:all trees on this application are located in the natural area, the wooded lot between the buildings, behind the mailboxes.\n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):22Tree location:left side; inside the natural area behind the mailboxesDescription of Tree:Center of canopy mass is offset from the base of the tree by 20+ft. Tree has a signifanct lean with a 2' canker along the main stem about half way up. Reason for Removal:Uncorrectable defectComments:all trees on this application are located in the natural area, the wooded lot between the buildings, behind the mailboxes.\n\t\t\n\t\t\n\t\t\tTree number:6Species:White Oak Tree Size (DBH):30Tree location:right side; inside of the natural area behind the mailboxes Description of Tree:Tree is completely engulfed in ivy. Multiple missing leaders.Reason for Removal:Dead treeComments:Tree is covered in ivy. all trees on this application are located in the natural area, the wooded lot between the buildings, behind the mailboxes.\n\t\t\n\t\t\n\t\t\tTree number:2Species:White OakTree Size (DBH):26Tree location:right side; inside of the natural areaDescription of Tree:Dead. Top of tree is broken off. Reason for Removal:Dead treeComments:all trees on this application are located in the natural area, the wooded lot between the buildings, behind the mailboxes.\n\t\t\n\t\t\n\t\t\tTree number:7Species:White OakTree Size (DBH):28Tree location:back, left; inside of the natural areaDescription of Tree:Multiple broken leaders. Tree is completely engulfed in ivy. Reason for Removal:OtherComments:all trees on this application are located in the natural area, the wooded lot between the buildings, behind the mailboxes.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0221  LL053 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Beech"
       },
       "geometry": {
         "type": "Point",
@@ -1977,13 +1977,13 @@
         "status": "Accepted",
         "date": "03/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "PICKERING HARDY E JR",
+        "tree_dbh": "20",
+        "tree_location": "backyard",
+        "reason_removal": "Dead tree",
+        "tree_description": "PICTURE OF TREEReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:poplarTree Size (DBH):17Tree location:right side backyard Description of Tree:PICTURE OF TREEReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:oakTree Size (DBH):25Tree location: backyard Description of Tree:PICTURE OF TREEReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01570004019 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2026,12 +2026,12 @@
         "date": "03/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "23",
+        "tree_location": "Back left",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Cherry 23\", back left, 2 trunked, front trunk has 10ft vertical decay columnReason for Removal:Significant cavity/area of decayComments:Cherry 23\", back left, 2 trunked, front trunk has 10ft vertical decay column\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010002050 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Cherry"
       },
       "geometry": {
         "type": "Point",
