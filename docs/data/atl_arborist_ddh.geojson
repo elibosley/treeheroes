@@ -1858,12 +1858,12 @@
         "date": "04/01/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "26",
+        "tree_location": "backyard",
+        "reason_removal": "Other",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Mulberry"
       },
       "geometry": {
         "type": "Point",
@@ -1906,12 +1906,12 @@
         "date": "04/01/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "7",
+        "tree_location": "back right corner",
+        "reason_removal": "Dying tree",
+        "tree_description": "Removal of DDH Dying 7” DBH Black Cherry located near the back right corner of the back yard.\n-This tree is ~80% dead with only some epicormic shoots from the lower man stem producing foliage, and there is a cavity near the flair.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:cherryTree Size (DBH):6Tree location:back of backyardDescription of Tree:Removal of DDH Dead 6” DBH Black Cherry located at the back of the back yard.\n-This tree is dead with bark beetles and bracket fungus on the main stem.Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:poplarTree Size (DBH):19Tree location:back of backyardDescription of Tree:Removal of DDH Dying 19” DBH Poplar located at the back of the back yard.\n-This tree is ~90% dead in the canopy.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00030002007 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "cherry"
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "ACA Pending",
         "date": "04/01/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SATORI HOMES INC",
+        "tree_dbh": "19",
+        "tree_location": "See site map",
+        "reason_removal": "Other",
+        "tree_description": "Numbered flagging tape Reason for Removal:OtherComments:This tree has been previously topped and now consists primarily of epicormic regrowth. A large fruiting body consistent with Ganoderma is\npresent at the base of the trunk. It is located within a cluster exhibiting a deformed structural root plate shared with adjacent trees\n\t\t\n\t\t\n\t\t\tTree number:2Species:Pine Tree Size (DBH):16Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:This tree exhibits an off-balance, asymmetrical canopy with loss of a central leader. The canopy extends over active vehicle parking and\npedestrian use areas and is in close proximity to adjacent dwellings. It shares a deformed structural root plate with adjacent trees\n\t\t\n\t\t\n\t\t\tTree number:3Species:Sweetgum Tree Size (DBH):12Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:This tree is growing in direct contact with an adjacent pine (Tree 4), with basal stems making contact with one another. The root systems are\ndeformed and part of a shared structural root plate with adjacent trees (Trees 1, 2, and 4), with conditions consistent with overlapping structural\nroot zones within the cluster. The tree exhibits poor form, and the central leader suggests a previous breakage event with subsequent\nre-sprouting, resulting in weakly attached regrowth with poor taper and loss of apical dominance\n\t\t\n\t\t\n\t\t\tTree number:4Species:Pine Tree Size (DBH):21Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:This tree is co-dominant with Tree 3 and part of a multi-tree cluster (Trees 1, 2, and 3) exhibiting a deformed structural root plate. The root\nsystems are deformed with adjacent trees. Foliage appears sparse. Given the size and position of this tree within the cluster and existing target\nopportunities, permitting other trees in the cluster raises structural root plate concerns. A minor rub wound is present with sap exudation; noted as\nan identifying feature consistent with close stem proximity\n\t\t\n\t\t\n\t\t\tTree number:5Species:Pine Tree Size (DBH):16Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:This tree exhibits a pronounced lean/bow toward an adjacent apartment complex. Embedded wire is present at the lower stem, resulting in visible\ngirdling at the basal area.\n\t\t\n\t\t\n\t\t\tTree number:6Species:Sweetgum Tree Size (DBH):15Tree location:See site map Description of Tree:Numbered flagging tape Reason for Removal:OtherComments:This tree has been previously topped and now consists primarily of epicormic regrowth\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 056 01 007 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2217,13 +2217,13 @@
         "status": "Accepted",
         "date": "04/01/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "Daniel Kish",
+        "tree_dbh": "10",
+        "tree_location": "Street",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Dogwood"
       },
       "geometry": {
         "type": "Point",
