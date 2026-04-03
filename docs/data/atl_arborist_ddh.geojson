@@ -1858,12 +1858,12 @@
         "date": "04/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "25",
-        "tree_location": "Front right",
-        "reason_removal": "Dying tree",
-        "tree_description": "25in hemlock with dying canopy.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:HemlockTree Size (DBH):20Tree location:Front rightDescription of Tree:20in hemlock with dying canopy.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:HemlockTree Size (DBH):20Tree location:Front rightDescription of Tree:20in hemlock with dying canopy.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:HemlockTree Size (DBH):20Tree location:Front rightDescription of Tree:20in hemlock with dying canopy.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01400001003 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hemlock"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2002,12 +2002,12 @@
         "date": "04/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "26",
+        "tree_location": "front right",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "This tree has bacterial leaf scorch with large dead leads. Client would like to remove. Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0196  LL192 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "white oak"
       },
       "geometry": {
         "type": "Point",
@@ -2049,13 +2049,13 @@
         "status": "ACA Pending",
         "date": "04/02/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Zain Dhanani",
+        "tree_dbh": "23",
+        "tree_location": "Right back of the house",
+        "reason_removal": "Dying tree",
+        "tree_description": "A Sweetgum tree with a DBH of 23.5 inches is located on the right side of the property. Its root system has extended outward, encroaching upon the adjacent fence line and exerting pressure that may compromise its structural integrity. Additionally, surface roots are obstructing the surrounding concrete, contributing to displacement and unevenness that could present potential tripping hazards and ongoing damage if not addressed.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Water OakTree Size (DBH):33.5Tree location:Right back of the houseDescription of Tree:The Water Oak is situated on the right side of the residence and is heavily infested with ivy along the entire trunk. A small cavity is present in the trunk near breast height.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:Water OakTree Size (DBH):10Tree location:On the right corner of the homeDescription of Tree:Water Oak in the right corner of the home, with a DBH of 10in. The tree is infested as well with ivy and broken limbs(sparse canopy)Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01370007005 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "ACA Pending",
         "date": "04/02/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "CARNEY PATRICK",
+        "tree_dbh": "52",
+        "tree_location": "ON STREET RIGHT OF DRIVEWAY",
+        "reason_removal": "Dead tree",
+        "tree_description": "DEAD 52\" OAKReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0114  LL015 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "OAK"
       },
       "geometry": {
         "type": "Point",
@@ -2289,13 +2289,13 @@
         "status": "ACA Pending",
         "date": "04/02/2026",
         "description": null,
-        "owner": "TAYLOR VIRGINIA S",
-        "tree_dbh": "36",
-        "tree_location": "Right side of the house",
-        "reason_removal": "Dead tree",
-        "tree_description": "The first Pine tree has a DBH of 36in. located in the backyard. There are no leaves on the tree. Also, has broken limbs throughout the canopy. Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:21.5Tree Size (DBH):21.5Tree location:BackyardDescription of Tree:The second Pine tree has a DBH of 21.5in. located in the backyard. There are no leaves on the tree. Also, has broken limbs throughout the canopy. Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:SweetgumTree Size (DBH):13.5Tree location:Right side of the houseDescription of Tree:The Sweetgum has a DBH of 21.5in. located in the right side of the house. There are no leaves on the tree. Also, has broken limbs throughout the canopy. Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00030008007 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
