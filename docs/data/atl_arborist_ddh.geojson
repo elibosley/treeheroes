@@ -2578,12 +2578,12 @@
         "date": "04/03/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "28",
+        "tree_location": "in front of the house",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "dying, decay at the base of the treeReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01140003022 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Maple"
       },
       "geometry": {
         "type": "Point",
@@ -2601,13 +2601,13 @@
         "status": "ACA Pending",
         "date": "04/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "LEVINE PHYLLIS B",
+        "tree_dbh": "35",
+        "tree_location": "front of property along Peachtree",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Picture of tree/marked with orange ribbon Reason for Removal:Significant cavity/area of decayComments:decay and fruiting bodies at base \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00100021021 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "water oak"
       },
       "geometry": {
         "type": "Point",
@@ -2625,13 +2625,13 @@
         "status": "ACA Pending",
         "date": "04/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "ROBINSON JOHN H",
+        "tree_dbh": "14",
+        "tree_location": "See Map",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Between fence and sidewalk, included chain link fence",
+        "tree_number": "1",
+        "species": "Winged Elm"
       },
       "geometry": {
         "type": "Point",
@@ -2649,13 +2649,13 @@
         "status": "ACA Pending",
         "date": "04/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Shawn Kronenberger",
+        "tree_dbh": "11",
+        "tree_location": "Front right of house",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "lean towards house with decay on the tension side of root crown- tree photos marked with red X'sReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 205 04 044 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Black Cherry"
       },
       "geometry": {
         "type": "Point",
@@ -2673,13 +2673,13 @@
         "status": "ACA Pending",
         "date": "04/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "BOULEVARD C STORE INC",
+        "tree_dbh": "8",
+        "tree_location": "Located in the NW corner of the site.",
+        "reason_removal": "Invasive/undesirable tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "6",
+        "species": "Ailanthus"
       },
       "geometry": {
         "type": "Point",
@@ -2698,12 +2698,12 @@
         "date": "04/03/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "21",
+        "tree_location": "in front of garage",
+        "reason_removal": "Other",
+        "tree_description": "Pine 21\", left side of property, DeadReason for Removal:Dead treeComments:Pine 21\", left side of property, Dead\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):24Tree location:left side of propertyDescription of Tree:Pine 24\", left side of property, DeadReason for Removal:Dead treeComments:Pine 24\", left side of property, Dead\n\t\t\n\t\t\n\t\t\tTree number:1Species:OakTree Size (DBH):19Tree location:in front of garageDescription of Tree:Oak 19\", in front of garage, 25% lean toward homeReason for Removal:OtherComments:Oak 19\", in front of garage, 25% lean toward home\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01380004021 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
