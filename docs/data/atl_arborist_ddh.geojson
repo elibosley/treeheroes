@@ -2170,12 +2170,12 @@
         "date": "04/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "9",
+        "tree_location": "front right",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "has a hollow trunk and is leaning over the sidewalkReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00440005079 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "dogwood"
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "04/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Walter Mobley",
+        "tree_dbh": "70",
+        "tree_location": "Front Yard",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "The tree is over 30 years old. Branches and limbs break off and fall on roof and neighbor's home and property. Large roots breached sidewalk and under home foundationReason for Removal:Invasive/undesirable treeComments:Branches and limbs break and fall on house and neighbors house. Roots extending under the foundation and breached the front sidewalk. I am concerned that bigger branches will fall on top of the house. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0249  LL053 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "River birch"
       },
       "geometry": {
         "type": "Point",
@@ -2217,13 +2217,13 @@
         "status": "ACA Pending",
         "date": "04/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "Ajax Construction",
+        "tree_dbh": "11",
+        "tree_location": "See DDH Plan",
+        "reason_removal": "Invasive/undesirable tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1661",
+        "species": "Chinese Elm"
       },
       "geometry": {
         "type": "Point",
@@ -2362,12 +2362,12 @@
         "date": "04/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "35",
-        "tree_location": "front right of house",
-        "reason_removal": "Dying tree",
-        "tree_description": "Ivy growing very large tree covering house and yard. Reason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:2Species:sweetgumTree Size (DBH):35Tree location:front right of house Description of Tree:Ivy growing very large tree covering house and yard. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02520014028 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "sweetgum"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2386,12 +2386,12 @@
         "date": "04/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "29",
-        "tree_location": "Lenox Rd frontage; fourth tree south of Kingsboro",
-        "reason_removal": "Dying tree",
-        "tree_description": "Advanced dieback and mistletoe in canopyReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:6Species:Quercus phellosTree Size (DBH):24Tree location:Lenox Rd frontage; 6th tree south of KingsboroDescription of Tree:Dieback and mistletoe in canopy; codominant canopy formReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:5Species:Quercus phellosTree Size (DBH):21Tree location:Lenox Rd frontage; fifth tree south of KingsboroDescription of Tree:Dieback and mistletoe in canopy; codominant canopy formReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:Quercus phellosTree Size (DBH):23Tree location:Lenox Rd frontage; fourth tree south of KingsboroDescription of Tree:Dieback and mistletoe in canopy; trunk wound with fungal fruiting bodiesReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0045  LL080 *Block:--Lot:--Subdivision:--",
-        "tree_number": "7",
-        "species": "Quercus alba"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2410,12 +2410,12 @@
         "date": "04/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "31",
-        "tree_location": "back center",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Vertical stress fracture, approximately 3\" wide was 1\" over the weekend actively breaking see pictures Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01530014070 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "loblolly pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2673,13 +2673,13 @@
         "status": "ACA Pending",
         "date": "04/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "DIAMOND MICHAEL",
+        "tree_dbh": "40",
+        "tree_location": "Left side",
+        "reason_removal": "Diseased",
+        "tree_description": "Leaning",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2697,13 +2697,13 @@
         "status": "ACA Pending",
         "date": "04/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "DEMETRIUS ANDRE",
+        "tree_dbh": "45",
+        "tree_location": "rear of house",
+        "reason_removal": "Dead tree",
+        "tree_description": "oak treeReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:oakTree Size (DBH):45Tree location:rear of houseDescription of Tree:oak treeReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00380009011 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
