@@ -2241,13 +2241,13 @@
         "status": "ACA Pending",
         "date": "04/09/2026",
         "description": null,
-        "owner": "Alexandra Beck",
-        "tree_dbh": "23",
-        "tree_location": "On the top right of the front, on the hill. Closest to the house",
-        "reason_removal": "Diseased",
-        "tree_description": "Dead Poplar tree with a DBH of 23.5in. The limbs on the canopy are dead and without leaf's. Reason for Removal:Dead treeComments:Dead Tree, Has pink tape\n\t\t\n\t\t\n\t\t\tTree number:2Species:HickoryTree Size (DBH):18Tree location:On the top right of the front, on the hill. Closest to the houseDescription of Tree:Hickory tree in the front right of the house growing over the roof close to the gas line. Roots are impacting the area and there are vines growing up the trunkReason for Removal:Dying treeComments:Has pink tape\n\t\t\n\t\t\n\t\t\tTree number:3Species:PoplarTree Size (DBH):34Tree location:On the left side of the driveway closest to the carportDescription of Tree:The Poplar has a lean towards the carport that is a target and a high likelihood of having severe impact. Reason for Removal:Dying treeComments:Has pink tape\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):27Tree location:Center on the front yardDescription of Tree:Pine tree in the center of the front yard with pine beetles. Foliage is very thin.Reason for Removal:DiseasedComments:Infested, Has pink tape\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02000001053 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2361,13 +2361,13 @@
         "status": "ACA Pending",
         "date": "04/09/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "ALSTON GLEN E",
+        "tree_dbh": "23",
+        "tree_location": "between 4055 & 4045",
+        "reason_removal": "Other",
+        "tree_description": "23\" Water Oak, located between properties (4055 & 4045), roots are pushing and breaking retaining wallReason for Removal:OtherComments:23\" Water Oak, located between properties (4055 & 4045), roots are pushing and breaking retaining wall\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01390001038 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2410,12 +2410,12 @@
         "date": "04/09/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "34",
-        "tree_location": "backyard right side fence line",
-        "reason_removal": "Diseased",
-        "tree_description": "Picture of treeReason for Removal:DiseasedComments:diseased - fungal bodies present in SRP, bifurcated unions with included bark in canopy \n\t\t\n\t\t\n\t\t\tTree number:2Species:ElmTree Size (DBH):16Tree location:entangled in fence right side backyardDescription of Tree:Picture of treeReason for Removal:Significant cavity/area of decayComments:Canker activity in impacted area along trunk. Previous damage with decay \n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):22Tree location:rear center backyard.Description of Tree:Picture of tree Reason for Removal:OtherComments:Unbalanced canopy towards home , irregular trunk growth pattern\n\t\t\n\t\t\n\t\t\tTree number:4Species:poplarTree Size (DBH):32Tree location:backyard right side fence line Description of Tree: Picture of treeReason for Removal:DiseasedComments:Diseased, fungal fruiting body on SRP \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02190001006 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Elm"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "ACA Pending",
         "date": "04/09/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Jeffrey L Harris",
+        "tree_dbh": "10",
+        "tree_location": "Back Yard",
+        "reason_removal": "Dead tree",
+        "tree_description": "Causing a threatReason for Removal:Dead treeComments:Tree about to fall\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):10.5Tree location:back YardDescription of Tree:Tree about to fallReason for Removal:Dying treeComments:Dead tree causing a threat\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):10.5Tree location:Back YardDescription of Tree:Dead tree causing a threatReason for Removal:Dead treeComments:causing a threat about to fall\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):15.5Tree location:Back YardDescription of Tree:Dead tree causing a threatReason for Removal:Dead treeComments:Tree about to fall\n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):15.5Tree location:Back YardDescription of Tree:Tree about to fallReason for Removal:Significant cavity/area of decayComments:Dead tree causing a threat\n\t\t\n\t\t\n\t\t\tTree number:6Species:PineTree Size (DBH):20.5Tree location:Back YardDescription of Tree:Dead tree causing a threatReason for Removal:DiseasedComments:Tree about to fall\n\t\t\n\t\t\n\t\t\tTree number:7Species:PineTree Size (DBH):15.5Tree location:Back YardDescription of Tree:Dead tree causing a threatReason for Removal:DiseasedComments:Back Yard\n\t\t\n\t\t\n\t\t\tTree number:8Species:PineTree Size (DBH):10.5Tree location:Back YardDescription of Tree:Dead tree causing a threatReason for Removal:Dead treeComments:Tree about to fall on house\n\t\t\n\t\t\n\t\t\tTree number:9Species:PineTree Size (DBH):15Tree location:back YardDescription of Tree:Dead tree causing a threatReason for Removal:Dead treeComments:Tree about to fall\n\t\t\n\t\t\n\t\t\tTree number:10Species:PineTree Size (DBH):10Tree location:Back YardDescription of Tree:Dead tree causing a threatReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01680006042 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
