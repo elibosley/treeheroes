@@ -2649,13 +2649,13 @@
         "status": "Accepted",
         "date": "04/10/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "GLORIEUX GILLES",
+        "tree_dbh": "12",
+        "tree_location": "left side rear of hosue",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Identified w/ pink tapeReason for Removal:Invasive/undesirable treeComments:In addition to being an invasive species, the tree has a significant lean.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00590001059 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Cherry Laurel"
       },
       "geometry": {
         "type": "Point",
@@ -2698,12 +2698,12 @@
         "date": "04/10/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "9",
+        "tree_location": "Front yard",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "9\" Hackberry, multi trunk, in the front yard, multiple cavities, growing toward home and streetReason for Removal:Significant cavity/area of decayComments:9\" Hackberry, multi trunk, in the front yard, multiple cavities, growing toward home and street\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01470001014 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hackberry"
       },
       "geometry": {
         "type": "Point",
@@ -2770,12 +2770,12 @@
         "date": "04/10/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "9",
+        "tree_location": "Rear of property",
+        "reason_removal": "Other",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Magnolia"
       },
       "geometry": {
         "type": "Point",
@@ -2793,13 +2793,13 @@
         "status": "Accepted",
         "date": "04/10/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "NIELSEN TROY OR NIELSEN LUCY T",
+        "tree_dbh": "15",
+        "tree_location": "back right between properties",
+        "reason_removal": "Dying tree",
+        "tree_description": "15\" Black Cherry, located back right between properties, boundary fence section around it, in decline, top dying/deadReason for Removal:Dying treeComments:15\" Black Cherry, located back right between properties, boundary fence section around it, in decline, top dying/dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 239 02 142 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Black Cherry"
       },
       "geometry": {
         "type": "Point",
