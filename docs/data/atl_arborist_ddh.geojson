@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "04/12/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "Marni Kravitz",
+        "tree_dbh": "15",
+        "tree_location": "side of backyard",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "0",
+        "species": "i don't know"
       },
       "geometry": {
         "type": "Point",
