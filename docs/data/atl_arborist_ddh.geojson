@@ -3106,12 +3106,12 @@
         "date": "04/18/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "16",
+        "tree_location": "back left corner of lot see site plan",
+        "reason_removal": "Dying tree",
+        "tree_description": "Hardwood approximately 16 inches DBH in poor condition with visible decline and structural weakness. Limited canopy vitality and potential internal decay present.",
+        "tree_number": "6",
+        "species": "Hardwood"
       },
       "geometry": {
         "type": "Point",
