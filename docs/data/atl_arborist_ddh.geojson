@@ -2361,13 +2361,13 @@
         "status": "Accepted",
         "date": "04/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "GARRISON ROSE M",
+        "tree_dbh": "23",
+        "tree_location": "Front Yard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "This tree in the front yard is showing signs of decay and girdling roots at the trunk flare. It has deadwood at the tip ends in part of the canopy (less than 10%). The homeowner is concerned that the roots of this tree will eventually cause issues with their water lines, water meter, and drainage Reason for Removal:Uncorrectable defectComments:The location of the tree is extremely close the water meter and the roots of the tree expand the front lawn where there is a water terracotta drainage system. This tree shows signs of boring insects entering from the trunk flare.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00600006007 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Tulip Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2385,13 +2385,13 @@
         "status": "Accepted",
         "date": "04/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Hope Paga",
+        "tree_dbh": "14",
+        "tree_location": "Back edge of the property in the alley outside the fence",
+        "reason_removal": "Other",
+        "tree_description": "Removal required to safely remove the client’s high risk 50” Water OakReason for Removal:OtherComments:Please refer to attached reference permit for the previously approved high risk Water Oak\n\t\t\n\t\t\n\t\t\tTree number:2Species:BoxelderTree Size (DBH):7Tree location:Back right corner of the property in the alley outside the fenceDescription of Tree:Hollow trunk, 2/3 of the tree previously broke from the topReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:HackberryTree Size (DBH):7Tree location:Back edge of the property in the alley outside the fenceDescription of Tree:Removal required to safely remove the client’s high risk 50” Water OakReason for Removal:OtherComments:Please refer to attached reference permit for the previously approved high risk Water Oak\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00530004030 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hackberry"
       },
       "geometry": {
         "type": "Point",
@@ -2409,13 +2409,13 @@
         "status": "Accepted",
         "date": "04/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Jennifer Goodson",
+        "tree_dbh": "75",
+        "tree_location": "back yard, leaning over neighbors yard/house",
+        "reason_removal": "Dying tree",
+        "tree_description": "tree leaning over kitchen Reason for Removal:Dying treeComments:we just had a horrible tree fall on our master bedroom and the city arborist that came out recommended. taking out. all suspect trees. \n\t\t\n\t\t\n\t\t\tTree number:2Species:oakTree Size (DBH):75Tree location:middle of back yard turfDescription of Tree:2. together. crowns are starting to thin out  I. dont know size Reason for Removal:Dying treeComments:see other. notes. tree fell on house. trying to avoid others falling \n\t\t\n\t\t\n\t\t\tTree number:3Species:oakTree Size (DBH):75Tree location:middle of back turf - there are 2Description of Tree:middle of back turf I dont know size.  both trees thinning out at the crown. Reason for Removal:Dying treeComments:see comments. trees look. like they.  might fall on the house\n\t\t\n\t\t\n\t\t\tTree number:4Species:oakTree Size (DBH):75Tree location:back yard by carport with chain around itDescription of Tree:has chain around it from a hammockReason for Removal:Dying treeComments:loooks suspect and may fall.    we had big tree fall on our house. 12/4\n\t\t\n\t\t\n\t\t\tTree number:5Species:oakTree Size (DBH):65Tree location:back yard, leaning over neighbors yard/houseDescription of Tree:has a huge arc of leaning over into the back neighbor yard/house\nlooks dead.   has ivy trailing. up it.  Reason for Removal:Dying treeComments:we had tree fall in december and aborist who came out then said these trees looked suspect and to apply. to have them taken out.  \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00650010024 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "hickory"
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "Issued",
         "date": "04/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "HOLLAND BETTY D",
+        "tree_dbh": "33",
+        "tree_location": "Front",
+        "reason_removal": "Other",
+        "tree_description": "None Reason for Removal:OtherComments:The subject tree is a 33\" White Oak located along the frontage of a private residence at 4418 Jett Road.",
+        "tree_number": "1",
+        "species": "White Oak"
       },
       "geometry": {
         "type": "Point",
