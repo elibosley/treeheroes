@@ -2001,13 +2001,13 @@
         "status": "Accepted",
         "date": "04/23/2026",
         "description": null,
-        "owner": "PEACHTREE PALISADES PTNRSHIP",
-        "tree_dbh": "14",
-        "tree_location": "rear of commercial property",
-        "reason_removal": "Other",
-        "tree_description": "14\" Ash, located at rear of commercial property, leaning directly over residence at 6 Montclair Dr, excessive lean, over power lines\n**Leaning over residential address at 6 Montclair Dr**Reason for Removal:OtherComments:14\" Ash, located at rear of commercial property, leaning directly over residence at 6 Montclair Dr, excessive lean, over power lines",
-        "tree_number": "1",
-        "species": "Ash"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2050,12 +2050,12 @@
         "date": "04/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "6",
-        "tree_location": "Backyard left side corner.",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Tree is causing unsightly issues with the fence.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Cherry Laurel Tree Size (DBH):6Tree location:Backyard left sideDescription of Tree:Tree is causing unsightly issues with the fence. Invasive species.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:Cherry LaurelTree Size (DBH):4.4Tree location:Backyard left sideDescription of Tree:Tree is causing unsightly issues with the fence. Invasive species.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:cherry laurelTree Size (DBH):8Tree location:Front yard right if the driveway.Description of Tree:Invasive species. Encroaching cars parked in the driveway.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:5Species:Hackberry Tree Size (DBH):9.2Tree location:Front yard right side of the driveway.Description of Tree:Tree is growing over crape Myrtle next to the street. Tree has a tropism that is entirely over the crape Myrtle. A pruning job to the hackberry tree to provide adequate space for the crape Myrtle will require removal of more than 35% of its branches (more than the recommend ANSI A300 standards).Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:6Species:HackberryTree Size (DBH):27.7Tree location:Backyard left side corner.Description of Tree:The tree has a one-sided canopy, with the majority of its limb weight extending in a single direction. This tree also has a lean in the same direction (towards neighbor’s yard).Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01040010024 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sugar Maple"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2506,12 +2506,12 @@
         "date": "04/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "21",
-        "tree_location": "backyard",
-        "reason_removal": "Dead tree",
-        "tree_description": "dead pineReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0213  LL090 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2529,13 +2529,13 @@
         "status": "ACA Pending",
         "date": "04/23/2026",
         "description": null,
-        "owner": "SWAIM MATTHEW SWAIM DAVINA",
-        "tree_dbh": "20",
-        "tree_location": "end of driveway",
-        "reason_removal": "Other",
-        "tree_description": "less than 5' from stuctureReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 209 03 045 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hardwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2553,13 +2553,13 @@
         "status": "ACA Pending",
         "date": "04/23/2026",
         "description": null,
-        "owner": "STERNE NANCY E",
-        "tree_dbh": "31",
-        "tree_location": "Front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "In declineReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01810005015 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2601,13 +2601,13 @@
         "status": "ACA Pending",
         "date": "04/23/2026",
         "description": null,
-        "owner": "Brendan Strong",
-        "tree_dbh": "29",
-        "tree_location": "Back right corner",
-        "reason_removal": "Dead tree",
-        "tree_description": "just a sparReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02150001006 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2626,12 +2626,12 @@
         "date": "04/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "37",
-        "tree_location": "front yard left",
-        "reason_removal": "Other",
-        "tree_description": "37\" Oak, front yard left side, owners request to remove, scared trees might fall on home",
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2722,12 +2722,12 @@
         "date": "04/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "26",
+        "tree_location": "Back center near new retaining wall",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Long term impact on wall - 32.1% root impact during wall buildReason for Removal:OtherComments:Builder was stopped after given permission to build footer wall. Root zone was impacted to borderline. Recommending removal due to future limited root base.\n\t\t\n\t\t\n\t\t\tTree number:2Species:PoplarTree Size (DBH):14Tree location:Back right near new retaining wallDescription of Tree:Long term impact on wallReason for Removal:OtherComments:Builder was stopped after given permission to build footer wall. Root zone was impacted to borderline. Recommending removal due to future limited root base.\n\t\t\n\t\t\n\t\t\tTree number:3Species:White OakTree Size (DBH):24Tree location:Back right of lotDescription of Tree:90% of canopy mass is more than 20 feet off center lineReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:4Species:HickoryTree Size (DBH):20Tree location:Back right down embankmentDescription of Tree:newly exposed heavy lean - targeting neighborReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:5Species:BeechTree Size (DBH):19Tree location:Back Left at old chain linkDescription of Tree:chain link fence embedded in base of tree by more than 6:Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00020002059 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2769,7 +2769,7 @@
         "status": "Issued",
         "date": "04/23/2026",
         "description": "DDH 30\" Pine in front yard.",
-        "owner": null,
+        "owner": "Eric French",
         "tree_dbh": null,
         "tree_location": null,
         "reason_removal": null,
