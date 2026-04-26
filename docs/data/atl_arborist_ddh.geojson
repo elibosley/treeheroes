@@ -3009,13 +3009,13 @@
         "status": "ACA Pending",
         "date": "04/25/2026",
         "description": null,
-        "owner": "HAWASLI NABILA",
-        "tree_dbh": "31",
-        "tree_location": "on the left side of lot",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead hardwood tree.Reason for Removal:Dead treeComments:DDH tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01490002011 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hardwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
