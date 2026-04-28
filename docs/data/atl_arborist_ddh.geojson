@@ -1953,13 +1953,13 @@
         "status": "ACA Pending",
         "date": "04/27/2026",
         "description": null,
-        "owner": "SMITH FRANCES H",
-        "tree_dbh": "38",
-        "tree_location": "North corner of house - left when viewed from street",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Tree is two trunk codominant form with 30 degree lean in smaller trunk.  Small branch dieback is visible throughout canopy. Neighbor's fence and driveway in failure zone.Reason for Removal:Uncorrectable defectComments:Tree cannot be pruned without destroying tree.  Is not a viable candidate for support system installation due to span and angle between trunks at appropriate location for effective support.\n\t\t\n\t\t\n\t\t\tTree number:2Species:Ligustrum lucidumTree Size (DBH):21Tree location:North corner of house - left when viewed from streetDescription of Tree:Multi stem shrub form of nuisance speciesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010006032 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Magnolia grandiflora"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2241,13 +2241,13 @@
         "status": "Accepted",
         "date": "04/27/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Anniece Bailey",
+        "tree_dbh": "50",
+        "tree_location": "Near shed",
+        "reason_removal": "Diseased",
+        "tree_description": "UnknownReason for Removal:DiseasedComments:Dying and disease tree. Need removal.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00040001024 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Unknown/oak"
       },
       "geometry": {
         "type": "Point",
