@@ -1978,12 +1978,12 @@
         "date": "04/29/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "85",
+        "tree_location": "backyard, left corner of house next to fence",
+        "reason_removal": "Other",
+        "tree_description": "Approx. 85\" circumference",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "04/29/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "ADEDOYIN ADEBAYO B",
+        "tree_dbh": "18",
+        "tree_location": "left",
+        "reason_removal": "Diseased",
+        "tree_description": "Tree is covered in ivy, within 5' of house, Co-Dominate StemReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01050005091 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "miscellaneous"
       },
       "geometry": {
         "type": "Point",
@@ -2218,12 +2218,12 @@
         "date": "04/29/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "14",
-        "tree_location": "next to garage",
-        "reason_removal": "Dying tree",
-        "tree_description": "14\" Pin Oak, next to garage, DyingReason for Removal:Dying treeComments:14\" Pin Oak, next to garage, Dying\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01090002004 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pin Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2241,13 +2241,13 @@
         "status": "Accepted",
         "date": "04/29/2026",
         "description": null,
-        "owner": "WARREN LIZZIE P",
-        "tree_dbh": "18",
-        "tree_location": "center",
-        "reason_removal": "Dead tree",
-        "tree_description": "Fallen, decay at baseReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01150002024 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
