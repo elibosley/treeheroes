@@ -1905,13 +1905,13 @@
         "status": "ACA Pending",
         "date": "05/01/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SMALL SCOTT JEFFREY",
+        "tree_dbh": "6",
+        "tree_location": "rear side left",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "The trunk of the tree has an uncorrectable defect Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:HackberryTree Size (DBH):6Tree location:rear side leftDescription of Tree:The tree trunk has an uncorrectable defect and is twisting. It does not show sign of a quality canopy and the canopy is intertangling a quality beech treeReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00540001022 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Cherry Laurel"
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "ACA Pending",
         "date": "05/01/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "NG JOHN",
+        "tree_dbh": "8",
+        "tree_location": "back",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree has fallenReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:mulberryTree Size (DBH):9Tree location:backDescription of Tree:Tree has excessive lean towards house, branches and main stem are tangled in 12\" Mulberry. Neighboring tree has uprooted.",
+        "tree_number": "1",
+        "species": "mulberry"
       },
       "geometry": {
         "type": "Point",
@@ -2025,13 +2025,13 @@
         "status": "ACA Pending",
         "date": "05/01/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SCHNEIDER KENT R",
+        "tree_dbh": "7",
+        "tree_location": "Back left setback",
+        "reason_removal": "Dying tree",
+        "tree_description": "Large vertical decay column above DBH.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:DogwoodTree Size (DBH):6Tree location:Back left setbackDescription of Tree:More than 30% Canopy dieback.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 237 13 016 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "dogwood"
       },
       "geometry": {
         "type": "Point",
