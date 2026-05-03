@@ -2050,12 +2050,12 @@
         "date": "05/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "10",
-        "tree_location": "far rear left above stone retaining wall",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "DEADReason for Removal:Dead treeComments:Only the trunk remains with bifurcated short leads\n\t\t\n\t\t\n\t\t\tTree number:2Species:Purple leaf plumTree Size (DBH):9Tree location:left sideDescription of Tree:Multi-trunked, several dead leads, decliningReason for Removal:Dying treeComments:poor condition\n\t\t\n\t\t\n\t\t\tTree number:3Species:SweetgumTree Size (DBH):11Tree location:rear left sideDescription of Tree:Large basal wound with decayReason for Removal:Significant cavity/area of decayComments:weak tree with weight toward neighbor's house\n\t\t\n\t\t\n\t\t\tTree number:4Species:HackberryTree Size (DBH):18Tree location:far rear left above stone retaining wallDescription of Tree:Leaning toward neighbor's home with all weight past vertical.  Compromised root system, SRP exposedReason for Removal:Uncorrectable defectComments:High risk of failure with target\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00200005052 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Purple leaf plum"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
