@@ -1713,13 +1713,13 @@
         "status": "ACA Pending",
         "date": "05/03/2026",
         "description": null,
-        "owner": "AURORA LOAN SERVICES LLC",
-        "tree_dbh": "30",
-        "tree_location": "rear left by street",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "tagged\n20x20\" dbhReason for Removal:Uncorrectable defectComments:see report\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01420001002 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
