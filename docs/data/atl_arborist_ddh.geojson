@@ -1545,13 +1545,13 @@
         "status": "ACA Pending",
         "date": "05/05/2026",
         "description": null,
-        "owner": "FITCH JEUDIFFIE PITTS",
-        "tree_dbh": "37",
-        "tree_location": "Backyard Center",
-        "reason_removal": "Dead tree",
-        "tree_description": "Remove a dying oak tree on the left side behind the house. With a DBH of 37in.  Has holes alongside the trunk and has crack bark Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 208 04 018 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1618,12 +1618,12 @@
         "date": "05/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "10",
-        "tree_location": "back by trampoline",
-        "reason_removal": "Other",
-        "tree_description": "10\" Cherry Laurel, undesirable speciesReason for Removal:Invasive/undesirable treeComments:10\" Cherry Laurel, undesirable species\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):17Tree location:back by playgroundDescription of Tree:17\" Pine, 20% leaning, majority canopy over houseReason for Removal:OtherComments:17\" Pine, 20% leaning, majority of canopy over house \n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):24Tree location:backyardDescription of Tree:24\" Pine, in backyard with small canker, majority of canopy on leaning sideReason for Removal:Significant cavity/area of decayComments:24\" Pine, in backyard with small canker, majority of canopy on leaning side\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):26Tree location:back center of backyardDescription of Tree:26\" Pine, majority of canopy distribution on one sideReason for Removal:OtherComments:26\" Pine, majority of canopy distribution on one side\n\t\t\n\t\t\n\t\t\tTree number:5Species:Water OakTree Size (DBH):14Tree location:left side of playgroundDescription of Tree:14\" Water Oak, 15% lean over playgroundReason for Removal:OtherComments:14\" Water Oak, 15% lean over playground\n\t\t\n\t\t\n\t\t\tTree number:6Species:PoplarTree Size (DBH):16Tree location:left side of backyardDescription of Tree:16\" Poplar, 1 ft cavity at base of trunkReason for Removal:Significant cavity/area of decayComments:16\" Poplar, 1 ft cavity at base of trunk\n\t\t\n\t\t\n\t\t\tTree number:7Species:SweetgumTree Size (DBH):13Tree location:left side of backyardDescription of Tree:13\" Sweetgum, exposed root systemReason for Removal:OtherComments:13\" Sweetgum, exposed root system\n\t\t\n\t\t\n\t\t\tTree number:8Species:MapleTree Size (DBH):14Tree location:right side backyardDescription of Tree:14\" Maple, 15% lean towards neighboring propertyReason for Removal:OtherComments:14\" Maple, 15% lean towards neighboring property\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00080002043 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Cherry Laurel"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1642,12 +1642,12 @@
         "date": "05/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "32",
-        "tree_location": "back right of home",
-        "reason_removal": "Dead tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1690,12 +1690,12 @@
         "date": "05/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "24",
-        "tree_location": "Left Rear",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Multiple large leaders broken during tree falling, pruning would drastically reduce the amount of canopy coverage and create one-sided crownReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010003019 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Tulip Poplar"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1713,13 +1713,13 @@
         "status": "ACA Pending",
         "date": "05/05/2026",
         "description": null,
-        "owner": "JAMES EARTHA",
-        "tree_dbh": "10",
-        "tree_location": "front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "Tree is dyingReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:unknownTree Size (DBH):12Tree location:back yardDescription of Tree:tree is dyingReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):14Tree location:back yardDescription of Tree:tree is dangerousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:oakTree Size (DBH):20Tree location:front yardDescription of Tree:Tree is dying diseased and dangerousReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0236  LL039 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "unknown"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1738,12 +1738,12 @@
         "date": "05/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "20",
-        "tree_location": "Right side of home",
-        "reason_removal": "Dead tree",
-        "tree_description": "2-trunk (14\"/13\") - the 14\" trunk is dead and the other is decliningReason for Removal:Dying treeComments:Poor condition\n\t\t\n\t\t\n\t\t\tTree number:2Species:AZ CypressTree Size (DBH):11Tree location:Right side of homeDescription of Tree:DeadReason for Removal:Dead treeComments:Dead\n\t\t\n\t\t\n\t\t\tTree number:3Species:AZ CypressTree Size (DBH):12Tree location:Right side of homeDescription of Tree:DeadReason for Removal:Dead treeComments:Dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02300003189 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "AZ Cypress"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1761,13 +1761,13 @@
         "status": "ACA Pending",
         "date": "05/05/2026",
         "description": null,
-        "owner": "JUSTINE GREEN",
-        "tree_dbh": "35",
-        "tree_location": "Back left",
-        "reason_removal": "Dying tree",
-        "tree_description": "Dying White Oak.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00600006015 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "White Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
