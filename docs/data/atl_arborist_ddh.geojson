@@ -1905,13 +1905,13 @@
         "status": "ACA Pending",
         "date": "05/06/2026",
         "description": null,
-        "owner": "ANSLEY MONROE CORP THE",
-        "tree_dbh": "16",
-        "tree_location": "Bldg. W: Unit 11",
-        "reason_removal": "Dying tree",
-        "tree_description": "Bldg. W: In terrace level; 16\" Cherry Laurel with decay and trunk cavity.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00560012040 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Cherry Laurel"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "ACA Pending",
         "date": "05/06/2026",
         "description": null,
-        "owner": "PONTZ EVAN H TAYLOR ELAINE G",
-        "tree_dbh": "13",
-        "tree_location": "back left",
-        "reason_removal": "Other",
-        "tree_description": "1. 13” DBH sweet gum- DDH decay/ loss of leader on the crown. Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:sweetgumTree Size (DBH):17Tree location:back leftDescription of Tree:Removal of the DDH 17” DBH sweet gum located near the back left corner of the home. *Decay on the crown. Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:sweetgumTree Size (DBH):14Tree location:front rightDescription of Tree:Removal of the 14” DBH sweet gum located on the right side of the front yard. Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00430003051 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2073,13 +2073,13 @@
         "status": "ACA Pending",
         "date": "05/06/2026",
         "description": null,
-        "owner": "Waters Grocery Lofts",
-        "tree_dbh": "22",
-        "tree_location": "Right side of building",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Significant canopy failureReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00440007155 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2098,12 +2098,12 @@
         "date": "05/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "11",
-        "tree_location": "Front left corner of home",
-        "reason_removal": "Other",
-        "tree_description": "11\" Arborvitae, front left corner of house, within 3 ft of structure, growing into home, gutters etcReason for Removal:OtherComments:11\" Arborvitae, front left corner of house, within 3 ft of structure, growing into home, gutters etc\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00440002085 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Arborvitae"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "ACA Pending",
         "date": "05/06/2026",
         "description": null,
-        "owner": "Spencer Brumfield",
-        "tree_dbh": "4",
-        "tree_location": "Back Yard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "This is a dead sweet gum not far from my houseReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):2Tree location:Back YardDescription of Tree:This is a pine tree directly next to the dead sweet gum and is leaning over the houseReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100007037 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2194,12 +2194,12 @@
         "date": "05/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "19",
-        "tree_location": "back right",
-        "reason_removal": "Dead tree",
-        "tree_description": "This pine tree has pine beetles. no live canopy. Tree is dead. Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00430003041 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2241,13 +2241,13 @@
         "status": "ACA Pending",
         "date": "05/06/2026",
         "description": null,
-        "owner": "AboveRock properties",
-        "tree_dbh": "0",
-        "tree_location": "Right side of house",
-        "reason_removal": "Diseased",
-        "tree_description": "Tree hanging over roof, on right side,  diseased among power lines Reason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:3Species:Unknown Tree Size (DBH):0Tree location:Right side of house Description of Tree:Tree hanging over roof, on right side,  diseased among power lines Reason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01740004035 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Unknown"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2266,12 +2266,12 @@
         "date": "05/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "16",
-        "tree_location": "Carr Cir NW directly next to client's home: 1614 Gates Pl NW, Atlanta, GA 30318",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Remove mostly dead Oak infected with Hypoxylon cankerReason for Removal:Uncorrectable defectComments:per DPR Arborist, tree is located on private property\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0229  LL133 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Red Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2289,13 +2289,13 @@
         "status": "ACA Pending",
         "date": "05/06/2026",
         "description": null,
-        "owner": "MEALOR RUSSELL ANN H MRS",
-        "tree_dbh": "16",
-        "tree_location": "back right",
-        "reason_removal": "Dead tree",
-        "tree_description": "dead tree Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01210002050 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "dead tree"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2314,12 +2314,12 @@
         "date": "05/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "34",
-        "tree_location": "front right",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "leaning, decay at baseReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0216  LL032 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
