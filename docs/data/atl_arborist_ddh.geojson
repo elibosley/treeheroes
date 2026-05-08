@@ -2146,12 +2146,12 @@
         "date": "05/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "13",
+        "tree_location": "Right of garage, UNIT 504",
+        "reason_removal": "Dead tree",
+        "tree_description": "DeadReason for Removal:Dead treeComments:UNIT 504\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F0009  LL306 *Block:--Lot:--Subdivision:SOUTH OAKS AT CASCADE",
+        "tree_number": "1",
+        "species": "Hornbeam"
       },
       "geometry": {
         "type": "Point",
@@ -2170,12 +2170,12 @@
         "date": "05/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "4",
+        "tree_location": "Left of driveway",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "10 feet tall with multiple trunks that are 4 - 5\" in diameterReason for Removal:Invasive/undesirable treeComments:This tree is blocking our view of the road when exiting our driveway which makes it very dangerous to pull onto the road since we might get hit by a car that we cannot see.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T14 00180008022 03 *Block:--Lot:03Subdivision:SD-16-004 Ashley Point Subdivision",
+        "tree_number": "1",
+        "species": "Unknown"
       },
       "geometry": {
         "type": "Point",
@@ -2218,12 +2218,12 @@
         "date": "05/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "20",
+        "tree_location": "back",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -2241,13 +2241,13 @@
         "status": "ACA Pending",
         "date": "05/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Jodi Harvey",
+        "tree_dbh": "10",
+        "tree_location": "left side of the backyard",
+        "reason_removal": "Dying tree",
+        "tree_description": "undesirable speciesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Leyland CypressTree Size (DBH):10Tree location:Left side of the house and backyardDescription of Tree:undesirable speciesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:Leyland CypressTree Size (DBH):10Tree location:Left side of the house and backyardDescription of Tree:undesirable speciesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:Leyland CypressTree Size (DBH):10Tree location:Left side of the house and backyardDescription of Tree:undesirable speciesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:5Species:HemlockTree Size (DBH):16Tree location:left side of the backyardDescription of Tree: Greater than 20 degree leanReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:6Species:HemlockTree Size (DBH):11Tree location:left side of the backyardDescription of Tree:Greater than 30% canopy die-backReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:7Species:Co-dominant HemlockTree Size (DBH):21Tree location:left side of the backyardDescription of Tree:Greater than 30% canopy die-backReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00030007003 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Leyland Cypress"
       },
       "geometry": {
         "type": "Point",
@@ -2265,13 +2265,13 @@
         "status": "ACA Pending",
         "date": "05/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "WILKINS MARIA ELENA",
+        "tree_dbh": "24",
+        "tree_location": "As entering ous main drive way, outside our gates,  the pine tree will be on the left about 50 feet down left and 10-15 feet off street WPF.",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Tree has large vertical crack along the trunk.Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0158  LL132 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Loblolly Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2289,13 +2289,13 @@
         "status": "ACA Pending",
         "date": "05/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "LEVETAN JERRILYN",
+        "tree_dbh": "12",
+        "tree_location": "back",
+        "reason_removal": "Invasive/undesirable tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "mimosa"
       },
       "geometry": {
         "type": "Point",
@@ -2337,13 +2337,13 @@
         "status": "ACA Pending",
         "date": "05/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SUNIT PATEL",
+        "tree_dbh": "22",
+        "tree_location": "Half Yard / Front Downwill Edge",
+        "reason_removal": "Dying tree",
+        "tree_description": "22\" DBH mature pine located at the front/downhill half-yard edge of the property. Tree has heavy ivy/vine growth from the base up the trunk and into the crown, with a sparse/asymmetrical live crown and apparent upper-crown dieback/deadwood.Reason for Removal:Dying treeComments:Applicant requests DDH inspection and removal approval. Tree is located on a slope near the street, driveway, utility lines. Dense ivy/vine growth obscures the trunk and limits visual inspection of the stem. Based on visible crown decline, vine load, and proximity to targets, the tree appears to be in declining condition and presents a potential hazard.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01040009022 *Block:--Lot:--Subdivision:--",
+        "tree_number": "11",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2361,13 +2361,13 @@
         "status": "Accepted",
         "date": "05/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "David Watson",
+        "tree_dbh": "32",
+        "tree_location": "Back right (just through double gate off driveway)",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "missing bark and loss of cambium greater than 1/3 the circumference of the trunk at 40' above grade on 32\" leader",
+        "tree_number": "1",
+        "species": "Tulip Poplar"
       },
       "geometry": {
         "type": "Point",
