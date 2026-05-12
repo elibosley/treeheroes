@@ -1521,13 +1521,13 @@
         "status": "ACA Pending",
         "date": "05/11/2026",
         "description": null,
-        "owner": "Sam Beydoun",
-        "tree_dbh": "15",
-        "tree_location": "Near Fence. Left Of House",
-        "reason_removal": "Dying tree",
-        "tree_description": "Dying Oak Tree with the DBH of 15inches. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01570001053 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak Tree"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1545,13 +1545,13 @@
         "status": "ACA Pending",
         "date": "05/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Andrew Reifman",
+        "tree_dbh": "3",
+        "tree_location": "Backyard behind fence on property line",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree is in the front yard located next to the driveway of the neighbor to the right of the house.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PecanTree Size (DBH):3Tree location:Behind fence in backyard on property lineDescription of Tree:Tree is in the backyard behind the fence on the right side of the property.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:PecanTree Size (DBH):3Tree location:Backyard behind fence on property lineDescription of Tree:Tree is in the backyard behind the fence on the right side of the property.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 208 04 070 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pecan"
       },
       "geometry": {
         "type": "Point",
@@ -1666,12 +1666,12 @@
         "date": "05/11/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "16",
-        "tree_location": "Left rear",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "lean and unbalanced canopyReason for Removal:Uncorrectable defectComments:Green ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00960005058 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "Accepted",
         "date": "05/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "DESPARD LAURA M",
+        "tree_dbh": "70",
+        "tree_location": "Backyard",
+        "reason_removal": "Dying tree",
+        "tree_description": "DyingReason for Removal:Dying treeComments:Tree is dropping dead limbs on neighbor's yard and house.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 239 01 018 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Unknown"
       },
       "geometry": {
         "type": "Point",
