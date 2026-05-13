@@ -1569,13 +1569,13 @@
         "status": "ACA Pending",
         "date": "05/12/2026",
         "description": null,
-        "owner": "WESTMORELAND JOHN R",
-        "tree_dbh": "30",
-        "tree_location": "Right of front yard in wooded area",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead SycamoreReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0116  LL147 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sycamore"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1666,12 +1666,12 @@
         "date": "05/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "18",
+        "tree_location": "front left of home",
+        "reason_removal": "Diseased",
+        "tree_description": "18\" Maple, front left of home, tree is in decline, mushrooms on lower trunk and root zone, brittle cinder fungus on lower trunkReason for Removal:DiseasedComments:18\" Maple, front left of home, tree is in decline, mushrooms on lower trunk and root zone, brittle cinder fungus on lower trunk\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010010075 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -1713,13 +1713,13 @@
         "status": "ACA Pending",
         "date": "05/12/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "PHILLIPS JAYNE L",
+        "tree_dbh": "20",
+        "tree_location": "front yard",
+        "reason_removal": "Dead tree",
+        "tree_description": "tree is dead Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01560004003 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "maple"
       },
       "geometry": {
         "type": "Point",
@@ -1786,12 +1786,12 @@
         "date": "05/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "13",
+        "tree_location": "Back yard",
+        "reason_removal": "Uncorrectable defect",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -1834,12 +1834,12 @@
         "date": "05/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "32",
+        "tree_location": "Back Yard Right Side",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Hardwood"
       },
       "geometry": {
         "type": "Point",
