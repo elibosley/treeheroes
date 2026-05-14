@@ -1545,13 +1545,13 @@
         "status": "ACA Pending",
         "date": "05/13/2026",
         "description": null,
-        "owner": "Richard M Shirley",
-        "tree_dbh": "24",
-        "tree_location": "North side of house along public sidewalk",
-        "reason_removal": "Dead tree",
-        "tree_description": "Large Hickory - Confirmed dead by multiple professionals. Brittle condition and requiring immediate removal.Reason for Removal:Dead treeComments:This tree hangs over the sidewalk and road. We just realized it was dead when no leaves came this spring, but it looks like a danger to passersby. Would like to remove ASAP.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 176 03 064 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "ACA Pending",
         "date": "05/13/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "FARRIOR CHARLENE",
+        "tree_dbh": "24",
+        "tree_location": "Front Yard. Left side. Next to House",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "24.6” Sweetgum in the front yard. Tree has dead tip ends at the top of the crown. Covered with ivy from trunk flare up 20+ feet. Tree is very close to the house.Reason for Removal:Uncorrectable defectComments:Uncorrectable defect is the tree’s location. It is extremely close to the house and is showing signs of stress (dead tip ends in the top of crown).\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01680001007 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Sweetgum"
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "ACA Pending",
         "date": "05/13/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Michael Smith",
+        "tree_dbh": "1",
+        "tree_location": "front yard along fence line",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Tree is covered in ivy and the similar trees next to it have died. Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01120010032 *Block:--Lot:--Subdivision:--",
+        "tree_number": "2",
+        "species": "n/a"
       },
       "geometry": {
         "type": "Point",
@@ -2194,12 +2194,12 @@
         "date": "05/13/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "37",
+        "tree_location": "Rightside Property along fence line",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Tulip poplar, 37\" dbh, located rightside of property along fence line.  Tree has extensive hollow cavity with significant rot/decay within cavity, the opening of hollow on fence-side of the lower trunk with approximately 60% of canopy broken away and large open wound with decay approx 25 feet up mainstream.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00110005038 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Tulip Poplar"
       },
       "geometry": {
         "type": "Point",
