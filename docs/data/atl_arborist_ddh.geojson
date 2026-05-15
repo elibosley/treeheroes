@@ -2049,13 +2049,13 @@
         "status": "Accepted",
         "date": "05/14/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Kelsey and William Cole",
+        "tree_dbh": "10",
+        "tree_location": "near home",
+        "reason_removal": "Diseased",
+        "tree_description": "This tree has been a source of great anxiety for our family as branches keep snapping off and falling into the area that our toddler plays in every day. You can even see in the photo some of the broken limbs that haven't fallen yet, but larger branches than shown have fallen at regular intervals. The larger tree next to it also concerns us, especially during storms, as it's huge branches hang over our baby's nursery and our own bed. I adore our city's tree cover, and am greatly saddened to consider removing any tree, but my baby's safety is obviously top priority. I plan to plant at LEAST 4 trees over the next year in our backyard farther around the perimeter of the lot and would be happy to send the city photos of the new trees to eventually replace the dangerous trees so close to the home.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:1Species:no clueTree Size (DBH):15Tree location:near homeDescription of Tree:This tree has been a source of great anxiety for our family as branches keep snapping off and falling into the area that our toddler plays in every day. You can even see in the photo some of the broken limbs that haven't fallen yet, but larger branches than shown have fallen at regular intervals. The larger tree next to it also concerns us, especially during storms, as it's huge branches hang over our baby's nursery and our own bed. I adore our city's tree cover, and am greatly saddened to consider removing any tree, but my baby's safety is obviously top priority. I plan to plant at LEAST 4 trees over the next year in our backyard farther around the perimeter of the lot and would be happy to send the city photos of the new trees to eventually replace the dangerous trees so close to the home.Reason for Removal:DiseasedComments:The larger tree looks like it may be diseased with a large streak of discoloration\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00150002031 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "No clue?"
       },
       "geometry": {
         "type": "Point",
@@ -2073,13 +2073,13 @@
         "status": "Accepted",
         "date": "05/14/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "HARRIS SARA S",
+        "tree_dbh": "18",
+        "tree_location": "Front right",
+        "reason_removal": "Uncorrectable defect",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Sweetgum"
       },
       "geometry": {
         "type": "Point",
@@ -2146,12 +2146,12 @@
         "date": "05/14/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "16",
-        "tree_location": "front",
-        "reason_removal": "Dead tree",
-        "tree_description": "Tree split on house, decay present at split. Needed emergency removal. Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0248  LL046 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "red oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
