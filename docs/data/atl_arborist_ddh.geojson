@@ -2529,13 +2529,13 @@
         "status": "Accepted",
         "date": "05/15/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "SCHMID LAURA M",
+        "tree_dbh": "23",
+        "tree_location": "Across from 1201",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Birch Tree"
       },
       "geometry": {
         "type": "Point",
