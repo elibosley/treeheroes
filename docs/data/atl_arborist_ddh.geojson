@@ -1929,13 +1929,13 @@
         "status": "Accepted",
         "date": "05/18/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "GEORGE MARY BUDD",
+        "tree_dbh": "25",
+        "tree_location": "rear left",
+        "reason_removal": "Dead tree",
+        "tree_description": "Lightning Struck - deadReason for Removal:Dead treeComments:Tree has now completely died\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01120004033 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Loblolly Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2265,13 +2265,13 @@
         "status": "Accepted",
         "date": "05/18/2026",
         "description": null,
-        "owner": "DIXON BRADLEY E",
-        "tree_dbh": "36",
-        "tree_location": "Front row",
-        "reason_removal": "Diseased",
-        "tree_description": "Very tall tree that's only about a foot from house. I'm unsure of its health. But a Runkle Engineering expert determined that it's causing major foundation damage (letter attached in application)Reason for Removal:Invasive/undesirable treeComments:I have huge concerns about this tree in a bad storm, giving how close it is to home. Also, I got fix my foundation damage until it's removed.\n\t\t\n\t\t\n\t\t\tTree number:2Species:Lobolly pineTree Size (DBH):24Tree location:Front rowDescription of Tree:A tree expert pointed out to me a spot near the base of the tree indicated viral infection (pictured attached).Reason for Removal:DiseasedComments:If this tree has internal rot from a virus, it's a big risk.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100007024 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Lolbolly pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2290,12 +2290,12 @@
         "date": "05/18/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "Front Yard",
-        "reason_removal": "Dead tree",
-        "tree_description": "Picture of tree in summer no leaves. Branches are dying and falling into the right of wayReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00610002040 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
