@@ -2073,13 +2073,13 @@
         "status": "ACA Pending",
         "date": "05/19/2026",
         "description": null,
-        "owner": "JACKSON SAMUEL  ET AL",
-        "tree_dbh": "14",
-        "tree_location": "behind the house",
-        "reason_removal": "Invasive/undesirable tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Mimosa"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2098,12 +2098,12 @@
         "date": "05/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "18",
-        "tree_location": "back left behind sports court",
-        "reason_removal": "Dead tree",
-        "tree_description": "18\" Pine, back left behind sports court, DeadReason for Removal:Dead treeComments:18\" Pine, back left behind sports court, Dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0117  LL047 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "ACA Pending",
         "date": "05/19/2026",
         "description": null,
-        "owner": "Robin Sangston",
-        "tree_dbh": "36",
-        "tree_location": "Rear right near garage",
-        "reason_removal": "Other",
-        "tree_description": "36.5\" DBH DDH Poplar with an extremely hard lean towards and over the neighboring house.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):26Tree location:Front left near streetDescription of Tree:26\" DBH DDH Pine with an extremely large decay cavity located in the lower trunk, root flare area on the back side of the tree. Cavity extends up the trunk and down below ground level Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00110001035 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2146,12 +2146,12 @@
         "date": "05/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "13",
-        "tree_location": "Backyard",
-        "reason_removal": "Dying tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Hardwood"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2169,13 +2169,13 @@
         "status": "ACA Pending",
         "date": "05/19/2026",
         "description": null,
-        "owner": "Kevin Grieco",
-        "tree_dbh": "30",
-        "tree_location": "Backyard right side",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "uprooting treeReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00430002068 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "05/19/2026",
         "description": null,
-        "owner": "Rachael Mccrosky",
-        "tree_dbh": "21",
-        "tree_location": "Front yard",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "21 codom mulberry engulfed in vines with lean over road.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PoplarTree Size (DBH):34Tree location:Front yardDescription of Tree:34in Poplar with loss of central leader and large decay column along stem.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00740008099 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
