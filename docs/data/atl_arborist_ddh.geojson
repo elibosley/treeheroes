@@ -1785,13 +1785,13 @@
         "status": "Accepted",
         "date": "05/20/2026",
         "description": null,
-        "owner": "PICKET FENCE HOLDINGS LLC",
-        "tree_dbh": "25",
-        "tree_location": "Back right",
-        "reason_removal": "Other",
-        "tree_description": "25\" Oak, back right of property, tree has 25% lean and is directly over the neighboring townhomes, covered in ivyReason for Removal:OtherComments:25\" Oak, back right of property, tree has 25% lean and is directly over the neighboring townhomes, covered in ivy\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01020003059 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "Accepted",
         "date": "05/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Catherine Memmolo",
+        "tree_dbh": "24",
+        "tree_location": "right side of home",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "dieback/decline exceeding 1/3 total canopyReason for Removal:Uncorrectable defectComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 208 01 015 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Black Cherry"
       },
       "geometry": {
         "type": "Point",
@@ -1954,12 +1954,12 @@
         "date": "05/20/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "27",
-        "tree_location": "Rear right corner of home",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "located along front of home in planting bed area Reason for Removal:Significant cavity/area of decayComments:Decay on stem with an overall decline/ die back in upper canopy. Heart wood rot on previous pruning cut into main parent stem. \n\t\t\n\t\t\n\t\t\tTree number:2Species:Cherry LaurelTree Size (DBH):10Tree location:Rear right corner of homeReason for Removal:Invasive/undesirable treeComments:Invasive or undesirable. Within 5ft of the structure. \n\t\t\n\t\t\n\t\t\tTree number:18Species:Sugar HackberryTree Size (DBH):18Tree location:Rear left of property Reason for Removal:Dying treeComments:canopy declining/ die back loss of vigor affecting of over 45%\n\t\t\n\t\t\n\t\t\tTree number:4Species:Chery LaurelTree Size (DBH):7Tree location:Rear right corner of homeReason for Removal:Invasive/undesirable treeComments:Invasive or undesirable\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01050002014 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2025,13 +2025,13 @@
         "status": "Accepted",
         "date": "05/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "NATASHA HIBBERT",
+        "tree_dbh": "40",
+        "tree_location": "backyard",
+        "reason_removal": "Dying tree",
+        "tree_description": "both homeowner and neighbor want to remove this tree due to concerns over its overall health as it has dropped a large limb and they are afraid it might drop another and cause sever damage Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100007023 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "tulip poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2049,13 +2049,13 @@
         "status": "Accepted",
         "date": "05/20/2026",
         "description": null,
-        "owner": "DAVE DHAVAL",
-        "tree_dbh": "24",
-        "tree_location": "Driveway area",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Oak tree with trunk split into 2 branchesReason for Removal:Uncorrectable defectComments:Main trunk cracked and fell onto driveway and public street.  Trunk was cut and removed, and is now potentially exposed to water intrusion.  Remaining part of tree is growing in the opposite direction and there may be a weight imbalance.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00590003008 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
