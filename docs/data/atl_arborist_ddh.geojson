@@ -2218,12 +2218,12 @@
         "date": "05/22/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "49",
+        "tree_location": "back left of house",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Hazardous.  Sonic Scan revealed internal decay.  Upper canopy inspection revealed widespread decay and cavities affecting the tree’s structural integrity.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01120001015 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Southern Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2337,13 +2337,13 @@
         "status": "ACA Pending",
         "date": "05/22/2026",
         "description": null,
-        "owner": "Ali Supariwala",
-        "tree_dbh": "46",
-        "tree_location": "Right Corner behind House",
-        "reason_removal": "Diseased",
-        "tree_description": "Large Oak tree located left side of house. DBH 46\". Up-rooting the sidewalk. will cause foundation issues later on.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:American Elm TreeTree Size (DBH):31Tree location:Right Corner behind HouseDescription of Tree:Dangerous/ Hazardous elm tree. Located in the back of house on the right hand side. Tree is covered in ivy, Visual dead limbs/branches. Reason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01760009044 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "American Elm Tree"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2385,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "05/22/2026",
         "description": null,
-        "owner": "SOOKHAI DEEPCHAND",
-        "tree_dbh": "32",
-        "tree_location": "Back Right",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "32\" Water Oak, back right, Declining, large decaying cavity where tree splitsReason for Removal:Significant cavity/area of decayComments:32\" Water Oak, back right, Declining, large decaying cavity where tree splits\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00470009006 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
