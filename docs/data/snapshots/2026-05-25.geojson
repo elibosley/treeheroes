@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "26TMP-033947",
+        "address": "659 HAMILTON E HOLMES DR NW, ATLANTA GA 30318",
+        "status": "",
+        "date": "05/25/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47349942144,
+          33.773033294461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202602342",
+        "address": "457 PATTERSON AVE SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "05/25/2026",
+        "description": null,
+        "owner": "ELIAS MARY",
+        "tree_dbh": "21",
+        "tree_location": "right front",
+        "reason_removal": "Dying tree",
+        "tree_description": "Oak tree with excessive dieback at crownReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 177 02 165 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34296549198,
+          33.741186053756
+        ]
+      }
+    }
+  ]
+}
