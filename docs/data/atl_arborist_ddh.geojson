@@ -1593,13 +1593,13 @@
         "status": "ACA Pending",
         "date": "05/26/2026",
         "description": null,
-        "owner": "TOMOND JACK",
-        "tree_dbh": "7",
-        "tree_location": "see plan",
-        "reason_removal": "Dead tree",
-        "tree_description": "dead tree.Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:8Species:sweetgumTree Size (DBH):10Tree location:see planDescription of Tree:dead tree.Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:9Species:sugar mapleTree Size (DBH):7Tree location:see planDescription of Tree:dead tree.Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:15Species:black cherryTree Size (DBH):12Tree location:see planDescription of Tree:dead and failed.Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T14 01200003005 *Block:--Lot:18Subdivision:25-O-1499 / 1317 BREWSTER ST SW",
-        "tree_number": "4",
-        "species": "sugar maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1617,13 +1617,13 @@
         "status": "ACA Pending",
         "date": "05/26/2026",
         "description": null,
-        "owner": "Tom Appleton",
-        "tree_dbh": "24",
-        "tree_location": "right side in between homes",
-        "reason_removal": "Dying tree",
-        "tree_description": "24in Sweetgum  with basal decay and dying canopy.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01190005054 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1641,13 +1641,13 @@
         "status": "ACA Pending",
         "date": "05/26/2026",
         "description": null,
-        "owner": "VISMALE TESS",
-        "tree_dbh": "46",
-        "tree_location": "Left side backyard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Final bodies at base, necrotic canopy, irregular trunk growth consistent with decay Reason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):29Tree location:Left side backyardDescription of Tree:Trunk lean greater 20 degrees, load on house side Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01210008039 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
