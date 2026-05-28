@@ -1426,12 +1426,12 @@
         "date": "05/27/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "18",
-        "tree_location": "back left corner",
-        "reason_removal": "Dying tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "sweet gum"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
