@@ -1185,13 +1185,13 @@
         "status": "ACA Pending",
         "date": "05/28/2026",
         "description": null,
-        "owner": "WALKER COLLEEN W",
-        "tree_dbh": "44",
-        "tree_location": "Front Center of the house, Near mailbox",
-        "reason_removal": "Dying tree",
-        "tree_description": "This mature tree exhibits severe physiological stress and decline. Observable symptoms include crown thinning, epicormic sprouting along the trunk, distal branch dieback, premature leaf senescence. The presence of dead scaffold limbs and probable internal decay suggests reduced structural integrity and declining vitalityReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02300005020 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak tree"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1209,13 +1209,13 @@
         "status": "ACA Pending",
         "date": "05/28/2026",
         "description": null,
-        "owner": "MILAM ERIN B",
-        "tree_dbh": "18",
-        "tree_location": "Left front yard",
-        "reason_removal": "Other",
-        "tree_description": "Pink paint spot hazard Reason for Removal:OtherComments:Hazard \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0116  LL148 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hictory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1282,12 +1282,12 @@
         "date": "05/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "10",
+        "tree_location": "Front yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "DecliningReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00800001066 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -1305,13 +1305,13 @@
         "status": "ACA Pending",
         "date": "05/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Stacy Miller",
+        "tree_dbh": "17",
+        "tree_location": "Left front of property",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Severe vascular disease and Phytophthora stem canker lower stem, significant failure of (1) major scaffold limbReason for Removal:Uncorrectable defectComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100010077 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Silver Maple"
       },
       "geometry": {
         "type": "Point",
@@ -1378,12 +1378,12 @@
         "date": "05/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "20",
+        "tree_location": "Back Right",
+        "reason_removal": "Other",
+        "tree_description": "20\" Riverbirch, multi trunk, back right next to stairs and deck, growing over stairs and deckReason for Removal:OtherComments:20\" Riverbirch, multi trunk, back right next to stairs and deck, growing over stairs and deck\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00960013006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Riverbirch"
       },
       "geometry": {
         "type": "Point",
