@@ -1834,12 +1834,12 @@
         "date": "05/30/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "30",
+        "tree_location": "left front corner of bldg 1100",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "river birch"
       },
       "geometry": {
         "type": "Point",
