@@ -2481,13 +2481,13 @@
         "status": "ACA Pending",
         "date": "06/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "LATANYA ROBINSON",
+        "tree_dbh": "8",
+        "tree_location": "front of house",
+        "reason_removal": "Dying tree",
+        "tree_description": "Large Tree in front yard with major limb broken and hanging across cable lines. Reason for Removal:Dying treeComments:I do not know the size of the tree, so I just put a number in to complete the section.  Please view the photos.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 181 02 025 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Tulip"
       },
       "geometry": {
         "type": "Point",
@@ -2529,13 +2529,13 @@
         "status": "ACA Pending",
         "date": "06/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "WILLIAMS MARGARET L",
+        "tree_dbh": "50",
+        "tree_location": "driveway",
+        "reason_removal": "Dying tree",
+        "tree_description": "dyingReason for Removal:Dying treeComments:limb breakiung off on neighbor prperty\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02110002023 *Block:--Lot:--Subdivision:--",
+        "tree_number": "6279",
+        "species": "pine tree"
       },
       "geometry": {
         "type": "Point",
