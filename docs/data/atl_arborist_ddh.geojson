@@ -1761,13 +1761,13 @@
         "status": "ACA Pending",
         "date": "06/08/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SMALLEY CHARLES LEE",
+        "tree_dbh": "22",
+        "tree_location": "Front Left",
+        "reason_removal": "Dead tree",
+        "tree_description": "DEADReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00960001027 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -1809,13 +1809,13 @@
         "status": "ACA Pending",
         "date": "06/08/2026",
         "description": null,
-        "owner": "STROZIER ALLENE",
-        "tree_dbh": "84",
-        "tree_location": "backyard",
-        "reason_removal": "Dead tree",
-        "tree_description": "pine tree appears to be \nbetween 60 or 80ft tall \nand appears to be completely dead, most of the limbs have broken off.Reason for Removal:Dead treeComments:come as soon as possible\n\t\t\n\t\t\n\t\t\tTree number:1Species:pineTree Size (DBH):84Tree location:backyardReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00490001100 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1857,13 +1857,13 @@
         "status": "ACA Pending",
         "date": "06/08/2026",
         "description": null,
-        "owner": "DAHM NICHOLAS",
-        "tree_dbh": "22",
-        "tree_location": "back center",
-        "reason_removal": "Dying tree",
-        "tree_description": "Fungal activity throughout base of tree, Weeping sap, active insect infestation, DDHReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100009022 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1882,12 +1882,12 @@
         "date": "06/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "24",
-        "tree_location": "Right back corner of the home",
-        "reason_removal": "Dying tree",
-        "tree_description": "Remove a dying mimosa tree on the right corner behind the house with a DBH of 24.5in.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00440002010 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Mimosa"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1930,12 +1930,12 @@
         "date": "06/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "21",
-        "tree_location": "Within close proximity to the road, located off the right hand side of the driveway",
-        "reason_removal": "Dying tree",
-        "tree_description": "21-inch DBH tulip poplar is located toward the front left side of the property adjacent to a stone retaining wall. The tree exhibits a significant basal cavity (BACK SIDE of the retaining wall) with visible decay above the root flare around the lower trunk. Root growth associated with the tree appears to be contributing to displacement, cracking, and localized failure of the retaining wall. Based on the observed structural defects and surrounding site conditions, removal is recommended.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:Pine (Pinaceae)Tree Size (DBH):26Tree location:Within close proximity to the road, located off the right hand side of the drivewayDescription of Tree:26 DBH pine is located near the front of the property adjacent to the driveway and roadway. (right hand side of drive, in water mitigation bed) The tree exhibits significant canopy decline with extensive deadwood, upper crown dieback, and reduced foliage density throughout the canopy.The tree exhibits a pronounced lean toward the roadway and neighboring driveway, placing occupied areas and potential targets within the anticipated failure zone. Based on the observed decline and proximity to potential targets, removal is recommended.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0199  LL050 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine (Pinaceae)"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1954,12 +1954,12 @@
         "date": "06/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "21",
-        "tree_location": "Reference Tree Location Map",
-        "reason_removal": "Dying tree",
-        "tree_description": "TAG # 285 / Dieback in CanopyReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Flowering DogwoodTree Size (DBH):17Tree location:Reference Tree Location MapDescription of Tree:TAG#296 /",
-        "tree_number": "1",
-        "species": "Black Cherry"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1977,13 +1977,13 @@
         "status": "ACA Pending",
         "date": "06/08/2026",
         "description": null,
-        "owner": "WIDMER CAROLINE I",
-        "tree_dbh": "26",
-        "tree_location": "Right side of driveway infront of garage",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "MagnoliaReason for Removal:Invasive/undesirable treeComments:Requesting permission to remove this tree as hazardous bc of the surface root system and lean over the house. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00080006022 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Magnolia"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
