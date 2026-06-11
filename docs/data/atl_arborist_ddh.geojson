@@ -1618,12 +1618,12 @@
         "date": "06/10/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "32",
-        "tree_location": "Right rear of house.",
-        "reason_removal": "Dead tree",
-        "tree_description": "Rear of home off right corner.Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01560006024 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Red Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1665,13 +1665,13 @@
         "status": "ACA Pending",
         "date": "06/10/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "PORCHE BERNARD M",
+        "tree_dbh": "36",
+        "tree_location": "Front Right",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -1689,13 +1689,13 @@
         "status": "ACA Pending",
         "date": "06/10/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "OAK POINTE ASSOCIATES L L C",
+        "tree_dbh": "20",
+        "tree_location": "Rear of Bldg. 469",
+        "reason_removal": "Dying tree",
+        "tree_description": "Rear of building 469 atop stone wall in parking area.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 240 02 010 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Maple"
       },
       "geometry": {
         "type": "Point",
@@ -1714,12 +1714,12 @@
         "date": "06/10/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "30",
+        "tree_location": "back left",
+        "reason_removal": "Dying tree",
+        "tree_description": "Has a fusiform canker that covers approximately 40% of the circumference of the trunk.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00600002052 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -1737,13 +1737,13 @@
         "status": "ACA Pending",
         "date": "06/10/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Antoinette Battle",
+        "tree_dbh": "28",
+        "tree_location": "Front yard adjacent to the residence/front porch at 1466 Lakewood Ave SE, Atlanta, GA 30315",
+        "reason_removal": "Dead tree",
+        "tree_description": "Mature 28-inch DBH Water Oak located immediately adjacent to the residence and front entry walkway. The tree exhibits fungal fruiting bodies emerging from the lower trunk, indicating internal decay and compromised structural integrity. Large dead branches are present throughout the canopy, increasing the likelihood of limb failure. Due to the extent of decay and the tree's close proximity to the dwelling and occupied areas, the tree poses a significant hazard to life and property and qualifies for removal under DDH provisions.Reason for Removal:Dead treeComments:Certified Arborist Cesar Martinez (ISA Certified Arborist #GO-0014A) assessed Tree #661 and classified it as being in Poor condition due to fungal fruiting bodies on the lower trunk and large dead branches in the canopy. Supplemental photographs documenting basal decay and canopy defects have been attached to this application.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00560012070 *Block:--Lot:--Subdivision:--",
+        "tree_number": "661",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -1785,13 +1785,13 @@
         "status": "ACA Pending",
         "date": "06/10/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "BRIGHT RUBY R",
+        "tree_dbh": "26",
+        "tree_location": "front of house",
+        "reason_removal": "Significant cavity/area of decay",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "magnolia"
       },
       "geometry": {
         "type": "Point",
@@ -1809,13 +1809,13 @@
         "status": "ACA Pending",
         "date": "06/10/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SMITH CLIFFORD A",
+        "tree_dbh": "30",
+        "tree_location": "Back, right corner of house",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Tree has dense ivy coverage enveloping canopy. After clearing a portion from around the base a cavity was observed. The teee is located within 5 feet of a shed and is within failing distance to the target (house).Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00340002070 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Acer rubrum"
       },
       "geometry": {
         "type": "Point",
@@ -2026,12 +2026,12 @@
         "date": "06/10/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "32",
-        "tree_location": "Center rear",
-        "reason_removal": "Dying tree",
-        "tree_description": "Center rear in parking lot between fence and concrete.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 001 13 046 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Silver Maple"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2097,13 +2097,13 @@
         "status": "ACA Pending",
         "date": "06/10/2026",
         "description": null,
-        "owner": "MORNINGSIDE PRESBYTERIAN CH",
-        "tree_dbh": "27",
-        "tree_location": "right side of main parking lot",
-        "reason_removal": "Dying tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
