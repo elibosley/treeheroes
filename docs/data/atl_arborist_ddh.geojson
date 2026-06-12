@@ -1785,13 +1785,13 @@
         "status": "ACA Pending",
         "date": "06/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "BOYD DARION",
+        "tree_dbh": "25",
+        "tree_location": "right side",
+        "reason_removal": "Diseased",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -1857,13 +1857,13 @@
         "status": "ACA Pending",
         "date": "06/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "PEACHTREE ROAD PRESBY CHURCH INC",
+        "tree_dbh": "14",
+        "tree_location": "north side of parking lot",
+        "reason_removal": "Dead tree",
+        "tree_description": "dead, ddh - overhanging parking lot Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0098  LL043 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "sweetgum"
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "ACA Pending",
         "date": "06/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "KALU VALDA D",
+        "tree_dbh": "30",
+        "tree_location": "back right",
+        "reason_removal": "Dead tree",
+        "tree_description": "Fell onto structured Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00930003066 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "ACA Pending",
         "date": "06/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Steve Edelkind",
+        "tree_dbh": "10",
+        "tree_location": "Right front corner of 835 Yorkshire",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "tree needs to be removed for emergency plumbing repairReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00520002071 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
@@ -1977,13 +1977,13 @@
         "status": "ACA Pending",
         "date": "06/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "THOMPSON CRAIG",
+        "tree_dbh": "48",
+        "tree_location": "right side of the house",
+        "reason_removal": "Dying tree",
+        "tree_description": "Large dying oak with co-dominant stem and visible root heaving.  Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01450006028 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2002,12 +2002,12 @@
         "date": "06/11/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "28",
+        "tree_location": "Front, right",
+        "reason_removal": "Other",
+        "tree_description": "Denselynivy covered - ddhReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:pineTree Size (DBH):27Tree location:Front, left side of houseDescription of Tree:Densely ivy coveredReason for Removal:OtherComments:Client wants the tree removed. Says it drops dead or heavy branches.\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):27Tree location:Back, leftDescription of Tree:Denselynivy covered, with moderate -bheavy lean toward the hose. The added ivy density and weight creates an increased risk of failure toward the hose, ivy around the upper trunk can add sail weight and hide defects.Reason for Removal:OtherComments:Lean, ivy and clients fear of hidden defects and failure prompts the request for removal\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):27Tree location:Back rightDescription of Tree:Same as for #3Reason for Removal:OtherComments:Client is very concerned about failure toward the house.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00160001036 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2025,13 +2025,13 @@
         "status": "ACA Pending",
         "date": "06/11/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "KONRAD ROBERT KONRAD MIRIAM",
+        "tree_dbh": "42",
+        "tree_location": "Middle backyard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "extensive decay at base and in one main leader that is cracked and leaning toward the houseReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 211 04 024 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Silver Maple"
       },
       "geometry": {
         "type": "Point",
@@ -2098,12 +2098,12 @@
         "date": "06/11/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "50",
-        "tree_location": "Side of house",
-        "reason_removal": "Dying tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Old"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
