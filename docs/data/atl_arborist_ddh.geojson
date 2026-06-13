@@ -2433,13 +2433,13 @@
         "status": "ACA Pending",
         "date": "06/12/2026",
         "description": null,
-        "owner": "CHILDERS DAVID F",
-        "tree_dbh": "9",
-        "tree_location": "Front of House, Right Side of Driveway",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Tree has deadwood throughout the top, Has a crack that runs from the base up to 20ft high in the trunk. Large cavity at the base of trunkReason for Removal:Significant cavity/area of decayComments:Large cavity at the base of trunk, Hollow at the base of trunk. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01860003208 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2458,12 +2458,12 @@
         "date": "06/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "17",
+        "tree_location": "front",
+        "reason_removal": "Other",
+        "tree_description": "hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:pineTree Size (DBH):19Tree location:frontDescription of Tree:hazardouasReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):21Tree location:frontDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:pineTree Size (DBH):20Tree location:frontDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:5Species:pineTree Size (DBH):19Tree location:frontDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:6Species:pineTree Size (DBH):20Tree location:frontDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:7Species:pineTree Size (DBH):22Tree location:frontDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:8Species:pineTree Size (DBH):31Tree location:frontDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:9Species:pineTree Size (DBH):26Tree location:frontDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:10Species:pineTree Size (DBH):26Tree location:rear leftDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:11Species:pineTree Size (DBH):15Tree location:rear poolDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:12Species:pineTree Size (DBH):14Tree location:rear pool Description of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:13Species:pineTree Size (DBH):16Tree location:rear poolDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:14Species:pineTree Size (DBH):20Tree location:rear poolDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:15Species:pineTree Size (DBH):16Tree location:rear poolDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:16Species:elmTree Size (DBH):9Tree location:rear poolDescription of Tree:hazardousReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:17Species:white oakTree Size (DBH):14Tree location:rear poolDescription of Tree: deadReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:18Species:cherryTree Size (DBH):19Tree location:rear poolDescription of Tree:hazardousReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0155  LL048 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -2481,13 +2481,13 @@
         "status": "ACA Pending",
         "date": "06/12/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Ambrish Baisiwala",
+        "tree_dbh": "20",
+        "tree_location": "Above Retaining Wall on the Left Side of the Property",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Confined Root Zone on the Compression Side/Leaning Over Client's HouseReason for Removal:Uncorrectable defectComments:Tree is now tagged\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01580003030 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2553,13 +2553,13 @@
         "status": "ACA Pending",
         "date": "06/12/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "GREENSTEIN AMY",
+        "tree_dbh": "40",
+        "tree_location": "Rear",
+        "reason_removal": "Diseased",
+        "tree_description": "40\" Water Oak 80% Crown Loss with hypoxylon cankerReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00470006026 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2577,13 +2577,13 @@
         "status": "ACA Pending",
         "date": "06/12/2026",
         "description": null,
-        "owner": "CLARK CHARLES S",
-        "tree_dbh": "16",
-        "tree_location": "far end of driveway",
-        "reason_removal": "Invasive/undesirable tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Leyland cypress"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
