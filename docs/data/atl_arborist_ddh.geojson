@@ -2673,13 +2673,13 @@
         "status": "ACA Pending",
         "date": "06/13/2026",
         "description": null,
-        "owner": "DENNIS CHERYL L",
-        "tree_dbh": "22",
-        "tree_location": "Front left of home",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Once was 3-trunks, now 2 trunked with included bark and decay in 3rd old trunk cut.  Weak tree with the house as primary target.Reason for Removal:Significant cavity/area of decayComments:Gated driveway - call ahead 678-361-7006\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01610005004 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Silver Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
