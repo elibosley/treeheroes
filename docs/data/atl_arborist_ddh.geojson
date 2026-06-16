@@ -1953,13 +1953,13 @@
         "status": "Accepted",
         "date": "06/15/2026",
         "description": null,
-        "owner": "PINEYRO HECTOR",
-        "tree_dbh": "18",
-        "tree_location": "Mid-right (south) side of lot",
-        "reason_removal": "Dying tree",
-        "tree_description": "Multiple scaffold limb failures, loss of >50% of canopyReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 208 04 037 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "red oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2001,13 +2001,13 @@
         "status": "ACA Pending",
         "date": "06/15/2026",
         "description": null,
-        "owner": "TURNER MIRIAM J",
-        "tree_dbh": "30",
-        "tree_location": "Mid Left",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead TreeReason for Removal:Dead treeComments:not marked with X\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00230010044 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2169,13 +2169,13 @@
         "status": "ACA Pending",
         "date": "06/15/2026",
         "description": null,
-        "owner": "CANNON CLAY E",
-        "tree_dbh": "25",
-        "tree_location": "In the front of unit 3514.",
-        "reason_removal": "Dying tree",
-        "tree_description": "fruiting mushroom body and girdling roots.Reason for Removal:Dying treeComments:Gate code is #2622\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01980003013 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
