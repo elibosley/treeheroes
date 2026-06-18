@@ -1665,13 +1665,13 @@
         "status": "ACA Pending",
         "date": "06/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Jacquelyn Hughes",
+        "tree_dbh": "52",
+        "tree_location": "RT corner of back yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "Large hardwood treeReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:HardwoodTree Size (DBH):36Tree location:RT corner of back yardDescription of Tree:Large hardwood treeReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00460003042 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hardwood"
       },
       "geometry": {
         "type": "Point",
@@ -1689,13 +1689,13 @@
         "status": "Issued",
         "date": "06/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Ari Kowalsky",
+        "tree_dbh": "16",
+        "tree_location": "right side",
+        "reason_removal": "Other",
+        "tree_description": "All weight one-sided past vertical toward neighboring house, mushrooms at baseReason for Removal:Uncorrectable defectComments:Vulnerable tree with target\n\t\t\n\t\t\n\t\t\tTree number:2Species:Black CherryTree Size (DBH):25Tree location:right sideDescription of Tree:Trifurcated (3 upper trunks) with one  broken trunk, Hollow portion of trunk 7' long below dead/broken trunkReason for Removal:Significant cavity/area of decayComments:Poor condition, weight toward neighbors\n\t\t\n\t\t\n\t\t\tTree number:3Species:SweetgumTree Size (DBH):11Tree location:right sideDescription of Tree:Unbalanced crown, root damageReason for Removal:OtherComments:Outcompeting the 11\" elm next to it\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T14 00420002034 02 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Black Cherry"
       },
       "geometry": {
         "type": "Point",
@@ -1737,13 +1737,13 @@
         "status": "ACA Pending",
         "date": "06/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "CANTWELL JOHN T",
+        "tree_dbh": "15",
+        "tree_location": "rear left",
+        "reason_removal": "Dying tree",
+        "tree_description": "DyingReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 239 02 016 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Dawn Redwood"
       },
       "geometry": {
         "type": "Point",
@@ -1786,12 +1786,12 @@
         "date": "06/17/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "19",
+        "tree_location": "Bus Stop Ralph Mcgill Blvd NE @ Piedmont Ave",
+        "reason_removal": "Dead tree",
+        "tree_description": "DeadReason for Removal:Dead treeComments:Already confirmed that this is not a DPR tree, marked with orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0050  LL024 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -1857,13 +1857,13 @@
         "status": "ACA Pending",
         "date": "06/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "DOYLE DEBRA L",
+        "tree_dbh": "8",
+        "tree_location": "Right size",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Decay at baseReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:2Species:Cherry LaurelTree Size (DBH):18Tree location:Right sizeDescription of Tree:Decay at base",
+        "tree_number": "1",
+        "species": "Pecan"
       },
       "geometry": {
         "type": "Point",
@@ -1954,12 +1954,12 @@
         "date": "06/17/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "20",
-        "tree_location": "Backyard",
-        "reason_removal": "Dead tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2002,12 +2002,12 @@
         "date": "06/17/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "20",
-        "tree_location": "rear of property",
-        "reason_removal": "Dead tree",
-        "tree_description": "tree is deadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01390001030 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2025,13 +2025,13 @@
         "status": "Accepted",
         "date": "06/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Yean lay Lee",
+        "tree_dbh": "13",
+        "tree_location": "Right back of the house",
+        "reason_removal": "Other",
+        "tree_description": "Big Pine tree is too closed to the house and we are worried every time it rains and storms.Reason for Removal:OtherComments:This pine tree is way too closed to the house. And it’s hazardous every time it rains and storms. We are worried. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00500010077 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2073,13 +2073,13 @@
         "status": "ACA Pending",
         "date": "06/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "J WHITE AS TRUSTEE FOR HILL TOP MINISTRIES TRUST",
+        "tree_dbh": "6",
+        "tree_location": "Front yard on left side",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Several small limbs with one base.  Bush-like treeReason for Removal:Invasive/undesirable treeComments:Tree is blocking entry to house\n\t\t\n\t\t\n\t\t\tTree number:2Species:Crepe MyrtleTree Size (DBH):6Tree location:Front yard on left sideDescription of Tree:Several small limbs with one base.  Bush-like treeReason for Removal:Invasive/undesirable treeComments:Tree is blocking entry access to house from front yard\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00530003012 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Crepe Myrtle"
       },
       "geometry": {
         "type": "Point",
@@ -2169,13 +2169,13 @@
         "status": null,
         "date": "06/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "ZACHARY LLC",
+        "tree_dbh": "15",
+        "tree_location": "end of driveway",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Damage to lower trunk, located at front left of yard. Reason for Removal:Significant cavity/area of decayComments:Had tree company evaluate and given substantial damage, decay at the lower trunk recommended removing. \n\t\t\n\t\t\n\t\t\tTree number:2Species:Box ElderTree Size (DBH):12Tree location:North side of lot, on driveway edgeReason for Removal:Invasive/undesirable treeComments:Would like to remove to plant flowering bushes\n\t\t\n\t\t\n\t\t\tTree number:3Species:Glossy PrivetTree Size (DBH):12Tree location:end of drivewayDescription of Tree:Being strangled by a vineReason for Removal:Invasive/undesirable treeComments:Would like to remove to plant flowering bushes, had tree company evaluate and thought non salvageable given how tightly vine wrapped around trunk\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 242 01 043 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Box Elder"
       },
       "geometry": {
         "type": "Point",
