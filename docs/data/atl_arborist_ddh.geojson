@@ -2481,13 +2481,13 @@
         "status": "ACA Pending",
         "date": "06/19/2026",
         "description": null,
-        "owner": "Kellay Buckelew",
-        "tree_dbh": "30",
-        "tree_location": "Back left",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Prior improper spike pruning leaving tree with low LCR and poor compartmentalization of wound in main stems. Co-dominate main leader leaning over client's roofReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 207 01 171 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2601,13 +2601,13 @@
         "status": "ACA Pending",
         "date": "06/19/2026",
         "description": null,
-        "owner": "DRIGGS LISA A",
-        "tree_dbh": "8",
-        "tree_location": "back right",
-        "reason_removal": "Dying tree",
-        "tree_description": "Two 8'' declining Cherries located back right side of property. Reason for Removal:Dying treeComments:Two 8'' declining Cherries located back right side of property. \n\t\t\n\t\t\n\t\t\tTree number:2Species:cherryTree Size (DBH):8Tree location:back  rightDescription of Tree:Two 8'' declining Cherries located back right side of property. Reason for Removal:Dying treeComments:Two 8'' declining Cherries located back right side of property. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00460010006 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "cherry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2625,13 +2625,13 @@
         "status": "ACA Pending",
         "date": "06/19/2026",
         "description": null,
-        "owner": "NIXON MAURICE",
-        "tree_dbh": "36",
-        "tree_location": "Back right of house.",
-        "reason_removal": "Other",
-        "tree_description": "One hazardous leaning tree with structural defects and active branch failure. Limbs have fallen, while others have been previously lowered due to safety concerns. Tree exhibits an elevated risk of partial/complete failure and is recommended for removal.Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00270003064 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hard wood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
