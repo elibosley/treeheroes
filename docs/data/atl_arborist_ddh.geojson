@@ -1713,13 +1713,13 @@
         "status": "ACA Pending",
         "date": "06/23/2026",
         "description": null,
-        "owner": "Charlotte Marcus",
-        "tree_dbh": "30",
-        "tree_location": "left of neighbors driveway",
-        "reason_removal": "Dead tree",
-        "tree_description": "tall but uncertain of sizeReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01950001019 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "unknown"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1738,12 +1738,12 @@
         "date": "06/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "18",
-        "tree_location": "Front left",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Decay at base, lost central leader, tip diebackReason for Removal:Significant cavity/area of decayComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00610003076 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sweetgum"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1762,12 +1762,12 @@
         "date": "06/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "12",
-        "tree_location": "front",
-        "reason_removal": "Dying tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "poplar"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1833,13 +1833,13 @@
         "status": "ACA Pending",
         "date": "06/23/2026",
         "description": null,
-        "owner": "ROEPKE THOMAS C",
-        "tree_dbh": "24",
-        "tree_location": "Backyard",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead Pine TreeReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01530003002 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1857,13 +1857,13 @@
         "status": "ACA Pending",
         "date": "06/23/2026",
         "description": null,
-        "owner": "Liberty Park",
-        "tree_dbh": "16",
-        "tree_location": "Front of Unit 1533",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Tree has clogged the water/sewer lines. Plumber advises full removal.",
-        "tree_number": "1",
-        "species": "Crepe Myrtle"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "ACA Pending",
         "date": "06/23/2026",
         "description": null,
-        "owner": "SANDERS BETTY F MRS",
-        "tree_dbh": "7",
-        "tree_location": "BACK RIGHT SETBACK",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "UNDESIRABLE SPECIESReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:100Species:CHINESE HOLYTree Size (DBH):10Tree location:BACK RIGHT SETBACKDescription of Tree:UNDESIRABLE SPECIESReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0141  LL007 *Block:--Lot:--Subdivision:--",
-        "tree_number": "99",
-        "species": "CHINESE HOLY"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "ACA Pending",
         "date": "06/23/2026",
         "description": null,
-        "owner": "Will Stanley",
-        "tree_dbh": "36",
-        "tree_location": "Front left",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "large canopy failures with hollow scaffold limbs, orange paintReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100004094 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2097,13 +2097,13 @@
         "status": "ACA Pending",
         "date": "06/23/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Alice Limehouse",
+        "tree_dbh": "38",
+        "tree_location": "Rear right of home",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "large cavity and significant heartwood rot at base of treeReason for Removal:Significant cavity/area of decayComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01400003083 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pecan"
       },
       "geometry": {
         "type": "Point",
@@ -2122,12 +2122,12 @@
         "date": "06/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "12",
-        "tree_location": "Back right side of the house.",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Tree is growing into the neighboring pine tree. The concern is because the tree will become a hazard as it continues to grow into/around the pine and pressing into the pine tree. Reason for Removal:Uncorrectable defectComments:Tree is growing into the neighboring pine tree. The concern is because the tree will become a hazard as it continues to grow into/around the pine and pressing into the pine tree.",
-        "tree_number": "1",
-        "species": "Persimmon"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
