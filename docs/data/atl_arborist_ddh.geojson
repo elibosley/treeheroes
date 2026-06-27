@@ -2481,13 +2481,13 @@
         "status": "ACA Pending",
         "date": "06/26/2026",
         "description": null,
-        "owner": "HOPE DONNA",
-        "tree_dbh": "20",
-        "tree_location": "Back",
-        "reason_removal": "Other",
-        "tree_description": "Leaning and dying pineReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:MagnoliaTree Size (DBH):10Tree location:BackDescription of Tree:Magnolia has to come down to take Pine tree downReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00600006086 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2841,13 +2841,13 @@
         "status": "ACA Pending",
         "date": "06/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MARTIN LEE A D",
+        "tree_dbh": "10",
+        "tree_location": "Back right corner of lot",
+        "reason_removal": "Dead tree",
+        "tree_description": "10\" Ash tree, back right corner of lot, DeadReason for Removal:Dead treeComments:10\" Ash tree, back right corner of lot, Dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01820006011 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Ash tree"
       },
       "geometry": {
         "type": "Point",
@@ -2865,13 +2865,13 @@
         "status": "ACA Pending",
         "date": "06/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Micah Morgan",
+        "tree_dbh": "12",
+        "tree_location": "rear left of home, understory tree outside privacy fence",
+        "reason_removal": "Dead tree",
+        "tree_description": "DeadReason for Removal:Dead treeComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 176 04 054 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2889,13 +2889,13 @@
         "status": "ACA Pending",
         "date": "06/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "WESTVIEW CEMETERY INC",
+        "tree_dbh": "35",
+        "tree_location": "Plot 38",
+        "reason_removal": "Dead tree",
+        "tree_description": "DeadReason for Removal:Dead treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:2Species:Red OakTree Size (DBH):24Tree location:Plot 9Description of Tree:DeadReason for Removal:Dead treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):24Tree location:Plot 8Description of Tree:DeadReason for Removal:Dead treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:4Species:OakTree Size (DBH):40Tree location:Plot 8Description of Tree:Dead sparReason for Removal:Dead treeComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0149  LL002 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
