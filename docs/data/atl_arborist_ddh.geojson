@@ -3033,13 +3033,13 @@
         "status": "ACA Pending",
         "date": "06/27/2026",
         "description": null,
-        "owner": "Tyler Graff",
-        "tree_dbh": "23",
-        "tree_location": "Front side yard between our house and 2565 Bohler",
-        "reason_removal": "Dying tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
