@@ -2385,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "07/03/2026",
         "description": null,
-        "owner": "ROGERS JEAN CLARKSON MRS",
-        "tree_dbh": "22",
-        "tree_location": "rear of property",
-        "reason_removal": "Dead tree",
-        "tree_description": "believe its a hickory",
-        "tree_number": "1",
-        "species": "hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
