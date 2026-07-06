@@ -1881,13 +1881,13 @@
         "status": "ACA Pending",
         "date": "07/05/2026",
         "description": null,
-        "owner": "BRESLIN KATHRYN OR BRESLIN DAVID",
-        "tree_dbh": "30",
-        "tree_location": "back right",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "fungus indicative of decay/root rotReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 204 04 040 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "water oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1906,12 +1906,12 @@
         "date": "07/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "10",
-        "tree_location": "back right",
-        "reason_removal": "Invasive/undesirable tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "leyland"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
