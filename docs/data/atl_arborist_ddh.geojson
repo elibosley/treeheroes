@@ -1521,13 +1521,13 @@
         "status": "ACA Pending",
         "date": "07/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "WHATLEY ROBERT J WHATLEY IRENE",
+        "tree_dbh": "28",
+        "tree_location": "Front left corner of house",
+        "reason_removal": "Dead tree",
+        "tree_description": "DeclineReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):26Tree location:front left of house, closer to doorDescription of Tree:DeadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 204 04 077 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -1929,13 +1929,13 @@
         "status": "ACA Pending",
         "date": "07/06/2026",
         "description": null,
-        "owner": "DENNIS LYMAN N",
-        "tree_dbh": "45",
-        "tree_location": "Front Yard",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Rooting tap root Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:SweetgumTree Size (DBH):52Tree location:BackyardDescription of Tree:Major split at the point where the co-dominant trunks joinReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:OakTree Size (DBH):30.5Tree location:Front YardReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:OakTree Size (DBH):22Tree location:Front yardReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:5Species:OakTree Size (DBH):27Tree location:Front YardDescription of Tree:Near powerlinesReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:6Species:OakTree Size (DBH):29Tree location:Front YardReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0241  LL092 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "ACA Pending",
         "date": "07/06/2026",
         "description": null,
-        "owner": "KILLENS RACHELLE",
-        "tree_dbh": "29",
-        "tree_location": "Back of house",
-        "reason_removal": "Dying tree",
-        "tree_description": "80% tip dieback in canopy, poor health, strong lean towards homesReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01200005048 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2194,12 +2194,12 @@
         "date": "07/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "124",
-        "tree_location": "426 Springdale Drive NE",
-        "reason_removal": "Diseased",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Water Oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
