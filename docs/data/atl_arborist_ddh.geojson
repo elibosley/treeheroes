@@ -2097,13 +2097,13 @@
         "status": "ACA Pending",
         "date": "07/09/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "Sean Conway",
+        "tree_dbh": "20",
+        "tree_location": "Left side of house",
+        "reason_removal": "Other",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2361,13 +2361,13 @@
         "status": "Accepted",
         "date": "07/09/2026",
         "description": null,
-        "owner": "William Carter",
-        "tree_dbh": "30",
-        "tree_location": "Left rear of house",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Too close to foundation. Causing damage to house walls and foundation.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:HickoryTree Size (DBH):10Tree location:Left rear of houseDescription of Tree:20 degree uncorrected lean towards house.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:BoxelderTree Size (DBH):13Tree location:Left side of backyardDescription of Tree:20 degree uncorrected lean towards left neighbor's house.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:4Species:Black CherryTree Size (DBH):11Tree location:Left side backyardDescription of Tree:20 degree uncorrected lean towards house.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:5Species:HackberryTree Size (DBH):9Tree location:Right side backyardDescription of Tree:Decay at base, 20 degree uncorrected lean towards fence, parking area, alley.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:6Species:HickoryTree Size (DBH):10Tree location:Left rear backyardDescription of Tree:Grows out of the base of adjacent 40\" Pecan tree. Tree has a 20 degree lean towards the alley and fences.Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01070006033 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2386,12 +2386,12 @@
         "date": "07/09/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "22",
-        "tree_location": "side yard next to street",
-        "reason_removal": "Dying tree",
-        "tree_description": "it is the one that has bare limbs and a few dead leavesReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01540008036 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2410,12 +2410,12 @@
         "date": "07/09/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "40",
-        "tree_location": "back center",
-        "reason_removal": "Dying tree",
-        "tree_description": "The subject Sweetgum is located in the back center of the property and exhibits a significant pocket of decay on the home-facing side of the main trunk. The tree is codominant, with one primary stem exhibiting a pronounced lean toward the residence. Visible decay extends approximately halfway up the main trunk, indicating a high likelihood of significant internal structural deterioration. Due to the extent and location of the decay, selective removal of only one codominant stem is not considered a feasible mitigation option. In the event of partial or total tree failure, there is a high potential for severe damage to the residence and surrounding improvements. Based on the observed structural defects and elevated target exposure, removal of the tree is recommended to mitigate the risk of failure.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Multi-Stem River BirchTree Size (DBH):6Tree location: Right Side Property LineDescription of Tree:This multi-stem River Birch is located between the subject property and the neighboring property on the right side. Removal is requested to provide the necessary equipment access required to safely perform the removal of the hazardous 40-inch Sweetgum. Due to the size of the Sweetgum and the machinery required for its removal, retaining this River Birch would prevent safe and efficient access to the work area.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:River Birch Tree Size (DBH):7Tree location:front rightDescription of Tree:obstructs the required access route to the hazardous Sweetgum in the rear of the property. Removal of this tree is necessary to establish a safe equipment access corridor for the removal of the hazardous Sweetgum and to allow the work to be completed in accordance with ISA Best Management Practices.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 212 05 136 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "River Birch"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "Accepted",
         "date": "07/09/2026",
         "description": null,
-        "owner": "DAVIS L B AKA DAVIS LANE B",
-        "tree_dbh": "12",
-        "tree_location": "back left at alley",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "12\" Cherry, leaning over alley way and street light wires, hazardousReason for Removal:OtherComments:12\" Cherry, leaning over alley way and street light wires, hazardous\n\t\t\n\t\t\n\t\t\tTree number:2Species:Tree of HeavenTree Size (DBH):12Tree location:back left alleywayDescription of Tree:12\" Tree of heaven, undesirableReason for Removal:Invasive/undesirable treeComments:12\" Tree of Heaven, undesirable\n\t\t\n\t\t\n\t\t\tTree number:3Species:Tree of heavenTree Size (DBH):9Tree location:back left alleywayDescription of Tree:9\" Tree of heaven, undesirableReason for Removal:Invasive/undesirable treeComments:9\" Tree of heaven, undesirable\n\t\t\n\t\t\n\t\t\tTree number:4Species:Tree of HeavenTree Size (DBH):6Tree location:back left alleywayDescription of Tree:6\" Tree of heaven, undesirableReason for Removal:Invasive/undesirable treeComments:6\" Tree of Heaven, undesirable, all 4 trees previously submitted under BA2026-02936\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 240 03 038 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Cherry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2458,12 +2458,12 @@
         "date": "07/09/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "25",
-        "tree_location": "Front, left of driveway",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Split birch with roots disturbing the foundation of houseReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01850001054 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Birch"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2529,13 +2529,13 @@
         "status": "ACA Pending",
         "date": "07/09/2026",
         "description": null,
-        "owner": "FAZLOLLAHI AFAG S FAZLOLLAHI BIJAN",
-        "tree_dbh": "28",
-        "tree_location": "front left side of driveway",
-        "reason_removal": "Dead tree",
-        "tree_description": "dead tree  and its creating a hazardous Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 212 02 190 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "RED OAK"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
