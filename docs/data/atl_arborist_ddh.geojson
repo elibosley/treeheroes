@@ -2409,13 +2409,13 @@
         "status": "Accepted",
         "date": "07/15/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Todd Bowers",
+        "tree_dbh": "36",
+        "tree_location": "backyard",
+        "reason_removal": "Dying tree",
+        "tree_description": "dying water oak with severe lightning damage, bark fissures and insect infestation. Crown has rapidly collapsed in past 3 months. Reason for Removal:Dying treeComments:Tree is a serious hazard over the home as it continues to decay. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 207 01 155 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Quercus nigra"
       },
       "geometry": {
         "type": "Point",
@@ -2457,13 +2457,13 @@
         "status": "ACA Pending",
         "date": "07/15/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Maggie and Randy Wright",
+        "tree_dbh": "20",
+        "tree_location": "Front right corner of home",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Lean and weight toward homeReason for Removal:Uncorrectable defectComments:(Flagged orange)\n\t\t\n\t\t\n\t\t\tTree number:2Species:Water OakTree Size (DBH):41Tree location:Front right corner of homeDescription of Tree:1 large main limbs previously cut over home, bifurcated main trunk near but, included bark, 5' to house foundationReason for Removal:Uncorrectable defectComments:Weak tree close to home  (Flagged orange)\n\t\t\n\t\t\n\t\t\tTree number:20Species:So. MagnoliaTree Size (DBH):12Tree location:right side by storm drainDescription of Tree:Growing against concrete storm drain, significant black twig borer damage, leaningReason for Removal:OtherComments:(Flagged orange - #2a)\n\t\t\n\t\t\n\t\t\tTree number:3Species:Yellow-poplarTree Size (DBH):32Tree location:Rear right corner of homeDescription of Tree:Large live limb failure that punctured child's bedroomReason for Removal:OtherComments:Homeowner concern for additional limb failures.\n(Flagged orange)\n\t\t\n\t\t\n\t\t\tTree number:5Species:Yellow-poplarTree Size (DBH):17Tree location:Rear right of homeDescription of Tree:Close to home in ditchReason for Removal:OtherComments:(Flagged orange #5, but listed as Tree 4 in photos)\n\t\t\n\t\t\n\t\t\tTree number:8Species:Loblolly PineTree Size (DBH):32Tree location:Rear centerDescription of Tree:Large basal cavity with decay, decay conk on root, large trunk burlReason for Removal:Significant cavity/area of decayComments:(Flagged orange #8 but listed as Tree 5 in photos)\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01810001017 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
