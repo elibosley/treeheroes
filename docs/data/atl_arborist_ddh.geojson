@@ -2721,13 +2721,13 @@
         "status": "Issued",
         "date": "07/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MOKOTOFF BENJAMIN",
+        "tree_dbh": "30",
+        "tree_location": "Front yard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Trunk failure, stem resting on houseReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 211 01 034 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Multi-stem Maple"
       },
       "geometry": {
         "type": "Point",
@@ -2961,13 +2961,13 @@
         "status": "Accepted",
         "date": "07/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "DICKSON THOMAS I",
+        "tree_dbh": "20",
+        "tree_location": "2968 Level Rige Rd",
+        "reason_removal": "Diseased",
+        "tree_description": "It is a tree with a green ribbon tied to it. If you are facing the house it is on the left hand side behind the driveway. Tree is invasive and diseased.Reason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00360001068 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2985,13 +2985,13 @@
         "status": "Accepted",
         "date": "07/17/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MPM REVOCABLE TRUST THE",
+        "tree_dbh": "23",
+        "tree_location": "right property line",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "pink tag - internal cavity and decay at baseReason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:HickoryTree Size (DBH):18Tree location:right property lineDescription of Tree:pink tag - bowing over the property line. Tree's center of gravity is 30 feet off base over neighbor's garageReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:HickoryTree Size (DBH):15Tree location:right property lineDescription of Tree:pink tag - cavity at 25 feet above groundReason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:4Species:SweetgumTree Size (DBH):13Tree location:back rightDescription of Tree:pink tag - conjoined at base with restricted root plates for both trees Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):22Tree location:back rightDescription of Tree:pink tag - conjoined at base with restricted root plates for both trees Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0141  LL110 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -3010,12 +3010,12 @@
         "date": "07/17/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "37",
+        "tree_location": "Back yard - left corner",
+        "reason_removal": "Dying tree",
+        "tree_description": "A large white oak leaning towards neighbors property with multiple large dead limbs.  The tree is dying and has a beetle infestation.Reason for Removal:Dying treeComments:End of driveway has a locked gate.  You'll probably need to call ahead to get access.  Gretchen - 404.391.6557\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01120004017 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White Oak"
       },
       "geometry": {
         "type": "Point",
