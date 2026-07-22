@@ -2409,13 +2409,13 @@
         "status": "ACA Pending",
         "date": "07/21/2026",
         "description": null,
-        "owner": "WILLIAMS BRENNETTE",
-        "tree_dbh": "14",
-        "tree_location": "back yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "LeaningReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:unknownTree Size (DBH):14Tree location:back yardReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:unknownTree Size (DBH):14Tree location:back yardReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02100001049 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "unknown"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2457,13 +2457,13 @@
         "status": "ACA Pending",
         "date": "07/21/2026",
         "description": null,
-        "owner": "Dennis Mitchell",
-        "tree_dbh": "33",
-        "tree_location": "Right side of the house",
-        "reason_removal": "Other",
-        "tree_description": "Loblolly pine tree should be removed due to risk of base failure.Reason for Removal:OtherComments:Hazardous tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0065  LL098 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "loblolly pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2482,12 +2482,12 @@
         "date": "07/21/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "44",
+        "tree_location": "Front middle (#5 on tree survey)",
+        "reason_removal": "Significant cavity/area of decay",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Pecan"
       },
       "geometry": {
         "type": "Point",
@@ -2721,13 +2721,13 @@
         "status": "ACA Pending",
         "date": "07/21/2026",
         "description": null,
-        "owner": "MOSES DEREK",
-        "tree_dbh": "36",
-        "tree_location": "14 ft from ROW in front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "hardwood covered in invasive vineReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01690002016 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hardwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
