@@ -2506,12 +2506,12 @@
         "date": "07/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "10",
+        "tree_location": "Back Yard Along Property Line",
+        "reason_removal": "Dead tree",
+        "tree_description": "See picture.  All leaves are brownReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00130001069 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "?"
       },
       "geometry": {
         "type": "Point",
@@ -2529,13 +2529,13 @@
         "status": "ACA Pending",
         "date": "07/23/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Wilson Thaddeus",
+        "tree_dbh": "12",
+        "tree_location": "Front year",
+        "reason_removal": "Other",
+        "tree_description": "Tree was plated when house was built.Reason for Removal:OtherComments:Trees need to be removed as part of an emergency septic system repair, which requires a new septic tank to be installed.. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0217  LL118 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -2553,13 +2553,13 @@
         "status": "ACA Pending",
         "date": "07/23/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "PATTON DANIEL",
+        "tree_dbh": "55",
+        "tree_location": "See site map",
+        "reason_removal": "Other",
+        "tree_description": "Numbered flagging tape Reason for Removal:OtherComments:Tri-dominant stem structure. One of the three primary leaders is dead and decayed and persists\nas a snag with decay extending back to the main stem structure. Basal area facing Flowers",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -2602,12 +2602,12 @@
         "date": "07/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "10",
+        "tree_location": "Front Left Side",
+        "reason_removal": "Other",
+        "tree_description": "10\" White Oak on front left side of home. The retaining wall is showing signs of failure and will need to be rebuilt Reason for Removal:OtherComments:The tree is putting pressure on an existing retaining wall and is showing signs of failure. The retaining wall be need to be rebuilt. See attached structural engineering assessment. 3 of the 4 trees have already received a DDH approval\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010001074 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2649,13 +2649,13 @@
         "status": "ACA Pending",
         "date": "07/23/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Sam Crampton",
+        "tree_dbh": "26",
+        "tree_location": "Right of driveway - top of hill",
+        "reason_removal": "Dead tree",
+        "tree_description": "26\" DBH Dead pine.  Marked with ribbon.Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01190005052 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
