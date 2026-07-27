@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202603514",
+        "address": "3480 PACES VALLEY RD NW, ATLANTA GA 30327",
+        "status": "ACA Pending",
+        "date": "07/26/2026",
+        "description": null,
+        "owner": "SCHNEIDER TIMOTHY P",
+        "tree_dbh": "32",
+        "tree_location": "Back yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "Diseased/dying Beech tree which has been treated for Beech Leaf disease within the last 2 years.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01580003041 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Beech"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.411256244387,
+          33.850181217834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202603516",
+        "address": "1767 MOORES MILL RD NW, ATLANTA GA 30318",
+        "status": "ACA Pending",
+        "date": "07/26/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "19",
+        "tree_location": "right back",
+        "reason_removal": "Diseased",
+        "tree_description": "Exhibits bark beetle activity;advance state of decline/decay;increased of structural failureReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):19Tree location:right backDescription of Tree:Trunk exhiits extensive bark beetle activity advanced state of decline and decayReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:pineTree Size (DBH):23Tree location:right backDescription of Tree:crown decline;tip dieback;bark beetle activity along main stem;canopy extends directly over roofline;pruning to achieve acceptable clearance would require removal of significant portion of live crownReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):23Tree location:back rightDescription of Tree:canopy extends over roofline.property has established population of mature native trees, homeowner requesting removal of pine to reduce long-term risk; eliminate conflicts w/surrounding desirable trees. preserves existing tree canopyReason for Removal:DiseasedComments:Same tree\nrequesting removal\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02200001006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "2",
+        "species": "pine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.445551297666,
+          33.825247323477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "26TMP-048493",
+        "address": "1322 BEECH VALLEY RD NE, ATLANTA GA 30306",
+        "status": "",
+        "date": "07/26/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.34380351631,
+          33.797766149178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202603515",
+        "address": "1948 BROWNS MILL RD SE, ATLANTA GA 30315",
+        "status": "ACA Pending",
+        "date": "07/26/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.375878728754,
+          33.700906352878
+        ]
+      }
+    }
+  ]
+}
