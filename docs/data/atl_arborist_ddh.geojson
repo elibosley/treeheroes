@@ -1857,13 +1857,13 @@
         "status": "Accepted",
         "date": "07/29/2026",
         "description": null,
-        "owner": "REID GEORGE S",
-        "tree_dbh": "18",
-        "tree_location": "front yard",
-        "reason_removal": "Dead tree",
-        "tree_description": "pink tagReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01520011030 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1881,13 +1881,13 @@
         "status": "ACA Pending",
         "date": "07/29/2026",
         "description": null,
-        "owner": "BRUNSON COURTNEY",
-        "tree_dbh": "33",
-        "tree_location": "back center right now",
-        "reason_removal": "Dead tree",
-        "tree_description": "33 inch dead poplar in back center leftReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100005019 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1905,13 +1905,13 @@
         "status": "ACA Pending",
         "date": "07/29/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Bill Vann",
+        "tree_dbh": "19",
+        "tree_location": "Front left corner of home",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "prior improper electrical and house clearance pruning poor form and lean, decay in trunk and missing bark on major leaderReason for Removal:Significant cavity/area of decayComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:LigustrumTree Size (DBH):13Tree location:Left side of houseDescription of Tree:UndesirableReason for Removal:Invasive/undesirable treeComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:3Species:ElmTree Size (DBH):14Tree location:Left side of houseDescription of Tree:prior improper electrical and house clearance pruning poor form and lean, missing large sections of canopyReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:4Species:Water OakTree Size (DBH):10Tree location:Left side of houseDescription of Tree:prior improper electrical and house clearance pruning poor form and lean, decay in trunk",
+        "tree_number": "1",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
@@ -1977,13 +1977,13 @@
         "status": "ACA Pending",
         "date": "07/29/2026",
         "description": null,
-        "owner": "Andrew Jones",
-        "tree_dbh": "15",
-        "tree_location": "Front yard",
-        "reason_removal": "Dying tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Cedar"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2073,13 +2073,13 @@
         "status": "Accepted",
         "date": "07/29/2026",
         "description": null,
-        "owner": "Karibe Haynes",
-        "tree_dbh": "18",
-        "tree_location": "Rear left corner of house",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "UndesirableReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 209 04 202 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Multi-Stem Cherry Laurel"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2290,12 +2290,12 @@
         "date": "07/29/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "27",
-        "tree_location": "Northeast corner of property",
-        "reason_removal": "Dying tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "6",
-        "species": "Hackberry"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
