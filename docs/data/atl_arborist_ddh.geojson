@@ -2001,13 +2001,13 @@
         "status": "Accepted",
         "date": "07/30/2026",
         "description": null,
-        "owner": "ANSLEY GOLF CLUB",
-        "tree_dbh": "14",
-        "tree_location": "#6 Rest Rooms",
-        "reason_removal": "Dying tree",
-        "tree_description": "Red Maple. It has been in decline for the last 3 monthsReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0056  LL001 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2290,12 +2290,12 @@
         "date": "07/30/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "0",
-        "tree_location": "trees #3 - 92, 112, 113",
-        "reason_removal": "Other",
-        "tree_description": "see reportReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T17 02660002021 02 *Block:--Lot:BSubdivision:REP-18-073 3200 Atlanta Indust. Pkway",
-        "tree_number": "0",
-        "species": "multi"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2337,13 +2337,13 @@
         "status": "Accepted",
         "date": "07/30/2026",
         "description": null,
-        "owner": "COHEN ROBERT",
-        "tree_dbh": "18",
-        "tree_location": "eft corner of the home",
-        "reason_removal": "Dead tree",
-        "tree_description": "deadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00980001095 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2457,13 +2457,13 @@
         "status": "Accepted",
         "date": "07/30/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MALANGA ALBERT A JR",
+        "tree_dbh": "23",
+        "tree_location": "back right",
+        "reason_removal": "Other",
+        "tree_description": "1 double trunked Cherry tree covered in ivy that is leaning towards the neighbor's propertyReason for Removal:OtherComments:Homeowner wants to remove the tree to avoid issues with the neighbor\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00700007053 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Cherry"
       },
       "geometry": {
         "type": "Point",
