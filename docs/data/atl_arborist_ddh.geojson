@@ -2769,13 +2769,13 @@
         "status": "Accepted",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "PRITCHETT B TODD",
+        "tree_dbh": "18",
+        "tree_location": "15 ft from Ponce De Leon Place road between the driveways of 729 Virginia Circle NE and 933 Ponce De Leon Pl NE",
+        "reason_removal": "Dead tree",
+        "tree_description": "About 18 inches in diameter and 60 feet tall. Drops large limbs often which are a hazard to people and property. Completely covered in vines.Reason for Removal:Dead treeComments:Knowing whose property this tree is on would also be helpful. I can't tell if this is on my property, my neighbor's property, or is partially on both. It is literally a hazard to anyone around it, and one day will fall on a house. I would like the City Arborist to declare that this tree needs to be taken down so I can force my neighbor (assuming the tree is on or partially on his property) to talk to me about getting this removed.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00530013063 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak (unknown?)"
       },
       "geometry": {
         "type": "Point",
@@ -2817,13 +2817,13 @@
         "status": "Accepted",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Connor Hagerman",
+        "tree_dbh": "37",
+        "tree_location": "back yard along back fence.",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "37in Poplar with substantial internal decay in the main stem about 3ft from the ground.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01010012025 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2841,13 +2841,13 @@
         "status": "Accepted",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Tom Scardino",
+        "tree_dbh": "12",
+        "tree_location": "Left side front yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "30% dead canopyReason for Removal:Dying treeComments:Tape\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01560007003 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Mulberry"
       },
       "geometry": {
         "type": "Point",
@@ -2866,12 +2866,12 @@
         "date": "07/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "27",
+        "tree_location": "Left side of house in ravine",
+        "reason_removal": "Dead tree",
+        "tree_description": "Dead for over two yearsReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01840001027 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2889,13 +2889,13 @@
         "status": "Accepted",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "YOUNG PATRICIA A",
+        "tree_dbh": "26",
+        "tree_location": "front of home",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Removal of the DDH high risk 26” DBH pine located in front of the home.",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -2914,12 +2914,12 @@
         "date": "07/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "28",
+        "tree_location": "Backyard",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Sweetgum"
       },
       "geometry": {
         "type": "Point",
@@ -2938,12 +2938,12 @@
         "date": "07/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "28",
+        "tree_location": "Backyard",
+        "reason_removal": "Dying tree",
+        "tree_description": "dying & large cavity with decay in the upper canopyReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01950002015 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Sweetgum"
       },
       "geometry": {
         "type": "Point",
@@ -2961,13 +2961,13 @@
         "status": "Accepted",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SIMMONS THOMAS DUDLEY SIMMONS LAUREL DAVIS",
+        "tree_dbh": "22",
+        "tree_location": "back yard behind fence",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": ": BA-202603339One Maple located left side of 2553 Howell Mill Rd. Large cavity in upper canopy from an old failed leader. Reason for Removal:Significant cavity/area of decayComments:: BA-202603339One Maple located left side of 2553 Howell Mill Rd. Large cavity in upper canopy from an old failed leader.",
+        "tree_number": "1",
+        "species": "maple"
       },
       "geometry": {
         "type": "Point",
@@ -2985,13 +2985,13 @@
         "status": "Accepted",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Terre Gardens",
+        "tree_dbh": "18",
+        "tree_location": "Front",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "lean, low crown ratio, unbalance crownReason for Removal:Uncorrectable defectComments:Orange dot\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0141  LL106 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -3009,13 +3009,13 @@
         "status": "ACA Pending",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Amy Parker",
+        "tree_dbh": "27",
+        "tree_location": "Backyard to the right, near the fence",
+        "reason_removal": "Dying tree",
+        "tree_description": "Oak in the right rear growing over and close to the house to prevent future damage.",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -3034,12 +3034,12 @@
         "date": "07/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "33",
+        "tree_location": "front left",
+        "reason_removal": "Dying tree",
+        "tree_description": "This tree has fungal fruiting bodies found at the base. There is also flux coming out. One large branch has died. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00440003038 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "poplar"
       },
       "geometry": {
         "type": "Point",
@@ -3057,13 +3057,13 @@
         "status": "Accepted",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Buddy Faile",
+        "tree_dbh": "36",
+        "tree_location": "Between Resident and Neighbor",
+        "reason_removal": "Other",
+        "tree_description": "Tree is leaning towards the house and has large extended branches.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):36Tree location:Between Resident and NeighborDescription of Tree:Tree is leaning towards the house and has large extended branches.Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00090001028 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -3082,12 +3082,12 @@
         "date": "07/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "23",
+        "tree_location": "Left front corner of home",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "stress fractures in (2) major scaffold limbsReason for Removal:Uncorrectable defectComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00110003023 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Mulberry"
       },
       "geometry": {
         "type": "Point",
@@ -3105,13 +3105,13 @@
         "status": "Issued",
         "date": "07/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Caroline Goodman",
+        "tree_dbh": "23",
+        "tree_location": "backyard",
+        "reason_removal": "Dead tree",
+        "tree_description": "Posed threat to residence/play area\nlimb failureReason for Removal:Dead treeComments:Same 23\" Dead Elm",
+        "tree_number": "2",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
