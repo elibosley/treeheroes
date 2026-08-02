@@ -3250,12 +3250,12 @@
         "date": "08/01/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "53",
-        "tree_location": "0",
-        "reason_removal": "Dying tree",
-        "tree_description": "half the tree is dying and dropping branches. tree is located in front of houseReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00480008061 *Block:--Lot:--Subdivision:--",
-        "tree_number": "0",
-        "species": "Maple"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3321,13 +3321,13 @@
         "status": "ACA Pending",
         "date": "08/01/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Barbara D Jones",
+        "tree_dbh": "50",
+        "tree_location": "Backyard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Trees were Leaning a little with the first inspection a couple years ago.  They are now leaning more to the right and sway quite a bit with wind and rain  I fear damage to my neighbor's property and mine. Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01460010007 *Block:--Lot:--Subdivision:--",
+        "tree_number": "12",
+        "species": "Not sure, believe oak"
       },
       "geometry": {
         "type": "Point",
