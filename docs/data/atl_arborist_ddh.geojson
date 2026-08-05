@@ -2721,13 +2721,13 @@
         "status": "ACA Pending",
         "date": "08/04/2026",
         "description": null,
-        "owner": "HEAD STEVEN B OR HEAD EVETTE D",
-        "tree_dbh": "50",
-        "tree_location": "Backyard near neighbor's fence",
-        "reason_removal": "Dying tree",
-        "tree_description": "The trunk of a tree fell around July 4, 2026. We want to know whether or not the tree is dead and we would also like to know the risk the tree has on falling entirely. Reason for Removal:Dying treeComments:I don't know the tree number or the species. The trunk/limb of the tree fell. The tree is on the plot/land of 1566 Alder Court but it is easier to locate the tree by going through the yard of 1562 Alder Court. If you need access to the backyard, ask myself or the neighbor who lives in 1566 Alder Court. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 207 03 020 *Block:--Lot:--Subdivision:--",
-        "tree_number": "0",
-        "species": "Tulip Poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2793,13 +2793,13 @@
         "status": "ACA Pending",
         "date": "08/04/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MORRIS TILLMAN",
+        "tree_dbh": "26",
+        "tree_location": "Front yard left.",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Tree recently struck by lightning with exposed wood from trunk flare all the way up tree.Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00110004032 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Loblolly pine"
       },
       "geometry": {
         "type": "Point",
@@ -2841,13 +2841,13 @@
         "status": "Accepted",
         "date": "08/04/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Lynn Mills",
+        "tree_dbh": "28",
+        "tree_location": "Left side of backyard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "9\", 9\", 10\"",
+        "tree_number": "1",
+        "species": "Hackberry"
       },
       "geometry": {
         "type": "Point",
@@ -2866,12 +2866,12 @@
         "date": "08/04/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "14",
+        "tree_location": "Left side of house",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "White Pine is rested on another tree, partial uprootReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01370004036 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2889,13 +2889,13 @@
         "status": "Accepted",
         "date": "08/04/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "BIERNATH HANNELORE",
+        "tree_dbh": "17",
+        "tree_location": "front right",
+        "reason_removal": "Dying tree",
+        "tree_description": "This tree has a bifurcation with included bark and a union of the two resulting stems farther up the tree with decay in the union.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:white oakTree Size (DBH):28Tree location:front rightDescription of Tree:A resistograph reading was performed 2ft from the base and a significant area of decay was found.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):26Tree location:front right near streetDescription of Tree:large fusiform canker on the stem approximately 7ft long.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:4Species:silver mapleTree Size (DBH):21Tree location:back leftDescription of Tree:canopy decline in excess of 33%Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:5Species:red oakTree Size (DBH):19Tree location:front leftDescription of Tree:This tree has a bifurcation at the start of the canopy with included bark making the tree susceptible to damage from high winds.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:6Species:poplarTree Size (DBH):23Tree location:back rightDescription of Tree:area of decay from mechanical injuryReason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:7Species:poplarTree Size (DBH):25Tree location:back rightDescription of Tree:previous storm damage due to impact from fallen neighboring tree.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:8Species:pineTree Size (DBH):19Tree location:front leftDescription of Tree:19\" pine growing within magnolia tree in center of front yard. Tree is exhibiting canopy decline in excess of 33%.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01370003059 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -2938,12 +2938,12 @@
         "date": "08/04/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "40",
+        "tree_location": "back",
+        "reason_removal": "Dead tree",
+        "tree_description": "dead oakReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01150007036 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2961,13 +2961,13 @@
         "status": "Accepted",
         "date": "08/04/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SMITH SERELDA S",
+        "tree_dbh": "35",
+        "tree_location": "by retaining wall",
+        "reason_removal": "Other",
+        "tree_description": "Tree is pushing on and, in some areas, destroyed the retaining wall surrounding house.Reason for Removal:OtherComments:Tree is pushing on and, in some areas, destroyed the retaining wall surrounding house.\n\t\t\n\t\t\n\t\t\tTree number:2Species:PecanTree Size (DBH):8.5Tree location:Side yardDescription of Tree:Tree is pushing on and, in some areas, destroyed the retaining wall surrounding house.Reason for Removal:OtherComments:Tree is pushing on and, in some areas, destroyed the retaining wall surrounding house.\n\t\t\n\t\t\n\t\t\tTree number:3Species:Sweet GumTree Size (DBH):13.6Tree location:by retaining wallDescription of Tree:Tree is pushing on and, in some areas, destroyed the retaining wall surrounding house. The DBH of 1 side is 13.6\" and 11.7\" on other side.Reason for Removal:OtherComments:Tree is pushing on and, in some areas, destroyed the retaining wall surrounding house. The DBH of 1 side is 13.6\" and 11.7\" on other side.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01840015017 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2985,13 +2985,13 @@
         "status": "Accepted",
         "date": "08/04/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "RWTD Investments LLC",
+        "tree_dbh": "20",
+        "tree_location": "Side yard on Lillian",
+        "reason_removal": "Dying tree",
+        "tree_description": "20\" dying hickory tree 1/2 fell into the street a few months back.Reason for Removal:Dying treeComments:We were hoping it was a city tree, but the survey said otherwise.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01070010035 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hickory"
       },
       "geometry": {
         "type": "Point",
@@ -3009,13 +3009,13 @@
         "status": "ACA Pending",
         "date": "08/04/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "COMER JENNIFER",
+        "tree_dbh": "20",
+        "tree_location": "Backyard Fence Line",
+        "reason_removal": "Diseased",
+        "tree_description": "Diseased Tree, Splitting at unionReason for Removal:DiseasedComments:already had thick branch fall last month \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00240007063 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Bradford Pear"
       },
       "geometry": {
         "type": "Point",
@@ -3226,12 +3226,12 @@
         "date": "08/04/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "15",
-        "tree_location": "on retaining wall next to driveway",
-        "reason_removal": "Other",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3250,12 +3250,12 @@
         "date": "08/04/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "24",
-        "tree_location": "front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "dying tree in front yardReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 203 03 082 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
