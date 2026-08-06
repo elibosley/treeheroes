@@ -2770,12 +2770,12 @@
         "date": "08/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "7",
-        "tree_location": "front center",
-        "reason_removal": "Other",
-        "tree_description": "7\" dogwood tree with greater than 33% canopy decline.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Chinese privetTree Size (DBH):10Tree location:front rightDescription of Tree:10\" diameter Chinese privet tree at front right.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:water oakTree Size (DBH):8Tree location:back rightDescription of Tree:8\" DBH water oak tree at back right corner of the house within 5 feet of occupied dwelling.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:4Species:crape myrtleTree Size (DBH):15Tree location:back right cornerDescription of Tree:multi stem crape myrtle tree at the back right corner of the house within 5 feet of occupied dwelling.Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01540010029 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "dogwood"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2793,13 +2793,13 @@
         "status": "ACA Pending",
         "date": "08/05/2026",
         "description": null,
-        "owner": "ADAMS DANIEL M ADAMS RAE",
-        "tree_dbh": "28",
-        "tree_location": "Front yard",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Co dominant trunk with cavity at base between trunksReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 204 04 033 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2817,13 +2817,13 @@
         "status": "ACA Pending",
         "date": "08/05/2026",
         "description": null,
-        "owner": "DALLAS BERNARD L",
-        "tree_dbh": "32",
-        "tree_location": "Front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "Lighting strike in treeReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00420001068 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "dying"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2841,13 +2841,13 @@
         "status": "ACA Pending",
         "date": "08/05/2026",
         "description": null,
-        "owner": "BUCKHEAD  PLANTATION  HA LLC",
-        "tree_dbh": "24",
-        "tree_location": "Next to parking lot,sidewalk and building.",
-        "reason_removal": "Dying tree",
-        "tree_description": "One 24” DBH dying Maple tree close to the fence/parking lot and building with advanced dieback,heartwood rot and open cavitiesReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00070001053 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2866,12 +2866,12 @@
         "date": "08/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "18",
-        "tree_location": "front near street",
-        "reason_removal": "Dead tree",
-        "tree_description": "18\" Hickory, front left closest to driveway, lower base rotting, brittle cinder fungus lower trunkReason for Removal:DiseasedComments:18\" Hickory, front left closest to driveway, lower base rotting, brittle cinder fungus lower trunk\n\t\t\n\t\t\n\t\t\tTree number:2Species:HickoryTree Size (DBH):16Tree location:front near streetDescription of Tree:16\" Hickory, front near street, 2 trunks, 1 trunk dead, 2nd trunk rottingReason for Removal:Dying treeComments:16\" Hickory, front near street, 2 trunks, 1 trunk dead, 2nd trunk rotting\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):16Tree location:front middleDescription of Tree:16\" Pine, front middle, DeadReason for Removal:Dead treeComments:16\" Pine, front middle, Dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00420005013 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hickory"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2890,12 +2890,12 @@
         "date": "08/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "front yard",
-        "reason_removal": "Diseased",
-        "tree_description": "pine tree is dead in the front yardReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01710007008 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2913,13 +2913,13 @@
         "status": "ACA Pending",
         "date": "08/05/2026",
         "description": null,
-        "owner": "BROOKS BRYANT L OR BROOKS JOAN MARIE S",
-        "tree_dbh": "12",
-        "tree_location": "back right of property",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "12\" Black Cherry, back right or property, dead leader, canopy dieback, declining",
-        "tree_number": "1",
-        "species": "Black Cherry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2938,12 +2938,12 @@
         "date": "08/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "16",
-        "tree_location": "back left corner of house",
-        "reason_removal": "Other",
-        "tree_description": "dead tree Reason for Removal:Dead treeComments:Beetles killed the tree.\n\t\t\n\t\t\n\t\t\tTree number:1Species:ashTree Size (DBH):22Tree location:back left corner of house Description of Tree:the tree has cavities as well as pushing over the retaining wall and lifting the driveway.Reason for Removal:OtherComments:The tree has cavities as well as pushing over the retaining wall and lifting the driveway. Several large cracks in the driveway. Pictures show the retail wall buckling from the root system\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01830002009 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
