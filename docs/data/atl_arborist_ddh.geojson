@@ -2721,13 +2721,13 @@
         "status": "ACA Pending",
         "date": "08/06/2026",
         "description": null,
-        "owner": "Karla Paredes",
-        "tree_dbh": "38",
-        "tree_location": "Backyard",
-        "reason_removal": "Dead tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Cottonwood"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2745,13 +2745,13 @@
         "status": "Accepted",
         "date": "08/06/2026",
         "description": null,
-        "owner": "TEASLEY JOHN W",
-        "tree_dbh": "42",
-        "tree_location": "front",
-        "reason_removal": "Dying tree",
-        "tree_description": "More than 50% dieback. Trunk decay and conks present Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01510003029 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "water oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2842,12 +2842,12 @@
         "date": "08/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "38",
+        "tree_location": "back left",
+        "reason_removal": "Diseased",
+        "tree_description": "picture of tree",
+        "tree_number": "1",
+        "species": "white Oak"
       },
       "geometry": {
         "type": "Point",
@@ -3489,13 +3489,13 @@
         "status": "Accepted",
         "date": "08/06/2026",
         "description": null,
-        "owner": "NORWOOD W FELTON JR",
-        "tree_dbh": "32",
-        "tree_location": "Rear left of home",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead, wood boring beetlesReason for Removal:Dead treeComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01140001012 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Loblolly Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
