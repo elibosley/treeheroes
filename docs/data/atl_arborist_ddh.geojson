@@ -3394,12 +3394,12 @@
         "date": "08/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "36",
+        "tree_location": "Backyard",
+        "reason_removal": "Uncorrectable defect",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Water oak"
       },
       "geometry": {
         "type": "Point",
@@ -3417,13 +3417,13 @@
         "status": "ACA Pending",
         "date": "08/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Amy Jones",
+        "tree_dbh": "12",
+        "tree_location": "first tree off of east Paces Ferry",
+        "reason_removal": "Dying tree",
+        "tree_description": "DeadReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:HornbeamTree Size (DBH):10Tree location:along alley way, at dumpsterDescription of Tree:DeadReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:HornbeamTree Size (DBH):8Tree location:along  alley, first off buckhead aveDescription of Tree:dyingReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T17 00610009054 01 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hornbeam"
       },
       "geometry": {
         "type": "Point",
@@ -3442,12 +3442,12 @@
         "date": "08/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "23",
+        "tree_location": "back left",
+        "reason_removal": "Dying tree",
+        "tree_description": "Recently dropped limb on house, decay present at base, DDHReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00130011106 *Block:--Lot:--Subdivision:ZLL-17-039",
+        "tree_number": "1",
+        "species": "RED OAK"
       },
       "geometry": {
         "type": "Point",
