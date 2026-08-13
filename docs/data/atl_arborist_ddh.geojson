@@ -2385,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "08/12/2026",
         "description": null,
-        "owner": "Justin Mann",
-        "tree_dbh": "12",
-        "tree_location": "front yard, side of yard",
-        "reason_removal": "Dead tree",
-        "tree_description": "I'm unsure if its dead. I would need the city to check.Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00480003014 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "unsure"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2434,12 +2434,12 @@
         "date": "08/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "30",
+        "tree_location": "Property line to 345 Brentwood Terrace",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree is located on the property line between 335 and 345 Brentwood Terrace.Reason for Removal:Dying treeComments:Tree is dying and losing limbs falling on my neighbor's property, driveway and car. Tree has been sick for quite a while and neighbors asks to take it down since the tree is on the property line.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00600005042 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2482,12 +2482,12 @@
         "date": "08/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "17",
-        "tree_location": "front right on the property line",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "leaning toward neighbor's house. Center of gravity 25 feet from the baseReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):32Tree location:front right of houseDescription of Tree:leaning toward the house with center of gravity 32 feet from the baseReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):36Tree location:driveway entranceDescription of Tree:rotting, old lightning strike in the upper canopy (strike left the tree at 35 feet in a side strike to the power lineReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0141  LL071 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2505,13 +2505,13 @@
         "status": "Accepted",
         "date": "08/12/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Lisa Kim",
+        "tree_dbh": "39",
+        "tree_location": "front yard - right when facing house",
+        "reason_removal": "Other",
+        "tree_description": "Tree is dangerously dropping tree limbs repeatedly on neighbors' houses and cut through electrical lines as well as branches are towering over twin babies' room and causing trip hazards for elderly grandmother at houseReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 206 04 052 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "sweet gum"
       },
       "geometry": {
         "type": "Point",
@@ -2529,13 +2529,13 @@
         "status": "Accepted",
         "date": "08/12/2026",
         "description": null,
-        "owner": "Rachel Ooms",
-        "tree_dbh": "35",
-        "tree_location": "backyard",
-        "reason_removal": "Dying tree",
-        "tree_description": "documented history of limb failure, loss of several larger limbs/leads. has impacted neighboring property, behicles, fenceReason for Removal:OtherComments:located near drive contributing damage to paved surface\n\t\t\n\t\t\n\t\t\tTree number:2Species:SweetgumTree Size (DBH):15Tree location:backyardDescription of Tree:within 5ft of home. exhibits significant tip dieback, sparse canopy, pronouned lean, shedding limbsReason for Removal:Dying treeComments:Within striking distance of home\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 176 02 057 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2554,12 +2554,12 @@
         "date": "08/12/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "6",
+        "tree_location": "Right side of House",
+        "reason_removal": "Dying tree",
+        "tree_description": "close to the fence on the Right side of the houseReason for Removal:Dying treeComments:\nplease come around from the left side of the property it is open\n\t\t\n\t\t\n\t\t\tTree number:2Species:HardwoodTree Size (DBH):7Tree location:Right side of HouseDescription of Tree:close to the fence on the right side of the house,Reason for Removal:Dying treeComments:please come around from the left side of the property it is open\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 212 02 166 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Hardwood"
       },
       "geometry": {
         "type": "Point",
@@ -2745,13 +2745,13 @@
         "status": "Accepted",
         "date": "08/12/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Sarah and Joran Demeunynck",
+        "tree_dbh": "40",
+        "tree_location": "Rear right of property",
+        "reason_removal": "Dead tree",
+        "tree_description": "undesirable species, visible decay/mushrooms near baseReason for Removal:Significant cavity/area of decayComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:2Species:Tulip PoplarTree Size (DBH):12Tree location:Left side of homeDescription of Tree:significant decay/vascular disease near base from old mechanical injuryReason for Removal:Significant cavity/area of decayComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:3Species:Bradford PearTree Size (DBH):7Tree location:Rear right of propertyDescription of Tree:undesirable speciesReason for Removal:Invasive/undesirable treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:4Species:BoxelderTree Size (DBH):10Tree location:Rear right of propertyDescription of Tree:significant Ambrosia beetle borer damage near baseReason for Removal:DiseasedComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:5Species:BoxelderTree Size (DBH):12Tree location:Rear right corner of propertyDescription of Tree:DeadReason for Removal:Dead treeComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01830001026 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Bradford Pear"
       },
       "geometry": {
         "type": "Point",
