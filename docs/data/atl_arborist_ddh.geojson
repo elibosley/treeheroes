@@ -2241,13 +2241,13 @@
         "status": "ACA Pending",
         "date": "08/19/2026",
         "description": null,
-        "owner": "JAMES AZALENE",
-        "tree_dbh": "30",
-        "tree_location": "Front Yard",
-        "reason_removal": "Other",
-        "tree_description": "Large tree with several branches reaching towards the street and neighbors' house and one attached limb lying on the house.Reason for Removal:OtherComments:Significant canopy failure. Broken Elm tree.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01050007040 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Elm"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2361,13 +2361,13 @@
         "status": "ACA Pending",
         "date": "08/19/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SUMMER CREEK PARK HOMEOWNERS ASSOCIATION",
+        "tree_dbh": "26",
+        "tree_location": "Behind neighborhood entrance wall, on the south edge of driveway of 1387 Summer Lane Dr",
+        "reason_removal": "Dying tree",
+        "tree_description": "Co-dominant double trunk 22\" / 26\". Reason for Removal:Dying treeComments:Note: while very close by, this tree is NOT located on the property of 1387 Summer Lane Dr. It is located on the Summer Creek Park Homeowner's Association property, parcel 14 0009 LL1043.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0009  LL104 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water oak"
       },
       "geometry": {
         "type": "Point",
@@ -2385,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "08/19/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Brenton Strine",
+        "tree_dbh": "44",
+        "tree_location": "Backyard",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Large tree leaning over house near back parking padReason for Removal:Significant cavity/area of decayComments:Tree had an active/vigorous termite infestation in 2025, treated with termite bait stations.",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "ACA Pending",
         "date": "08/19/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Keith Neas",
+        "tree_dbh": "15",
+        "tree_location": "Right side of driveway",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Low LCR, 40% canopy is deadReason for Removal:Dying treeComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:HollyTree Size (DBH):17Tree location:Right side of drivewayDescription of Tree:Low LCR. Too close to driveway to prune for clearance without removing",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2458,12 +2458,12 @@
         "date": "08/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "14",
+        "tree_location": "right neighboring property",
+        "reason_removal": "Dead tree",
+        "tree_description": "A 14-inch DBH cherry tree is located on the right neighboring property. Upon inspection, the tree was observed to be completely dead with no viable live canopy remaining.",
+        "tree_number": "1",
+        "species": "cherry"
       },
       "geometry": {
         "type": "Point",
@@ -2481,13 +2481,13 @@
         "status": "ACA Pending",
         "date": "08/19/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Hugh Daniel Phillips",
+        "tree_dbh": "34",
+        "tree_location": "Backyard",
+        "reason_removal": "Dead tree",
+        "tree_description": "Dead dogwood in backyard hanging over walkway. Also some kind of invasive insect burrowing into base. Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00160011049 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Dogwood"
       },
       "geometry": {
         "type": "Point",
