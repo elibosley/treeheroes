@@ -2698,12 +2698,12 @@
         "date": "08/20/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "17",
+        "tree_location": "Left side of house",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Tree is ~3' from foundation with several limbs growing into the house. Client would like to replace tree with more site appropriate native plantsReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00580003010 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Boxelder"
       },
       "geometry": {
         "type": "Point",
@@ -2769,13 +2769,13 @@
         "status": "Accepted",
         "date": "08/20/2026",
         "description": null,
-        "owner": "Sally martinez",
-        "tree_dbh": "28",
-        "tree_location": "front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "maple canopy Die back in decline Reason for Removal:Dying treeComments:Front yard canopy die back \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01840004019 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
