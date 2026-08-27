@@ -2074,12 +2074,12 @@
         "date": "08/26/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "15",
-        "tree_location": "Left side of front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "dying Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01050005015 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Redbud"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2098,12 +2098,12 @@
         "date": "08/26/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "25",
-        "tree_location": "front of the house",
-        "reason_removal": "Dying tree",
-        "tree_description": "Oak is significantly leaning and dying. Hazard to dwellingReason for Removal:Dying treeComments:Located in front of the house\n\t\t\n\t\t\n\t\t\tTree number:2Species:oakTree Size (DBH):42Tree location:Front of the houseDescription of Tree:Double trunk oak tree has significant dieback. Please refer to pictures. The right fork of the oak has fallen in last recent rain storm.Reason for Removal:Dying treeComments:Front of the house\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02320001002 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "ACA Pending",
         "date": "08/26/2026",
         "description": null,
-        "owner": "Azizn Dhanani",
-        "tree_dbh": "40",
-        "tree_location": "front",
-        "reason_removal": "Dying tree",
-        "tree_description": "20\"x20\" codominant Sweetgum with canopy dieback and with basal decay. Wood decaying insects present.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01830002032 *Block:--Lot:--Subdivision:--",
-        "tree_number": "16",
-        "species": "Sweetgum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2145,13 +2145,13 @@
         "status": "ACA Pending",
         "date": "08/26/2026",
         "description": null,
-        "owner": "Nancy Reynolds",
-        "tree_dbh": "8",
-        "tree_location": "Left side of backyard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Suppressed/Growing into House/Cannot be pruned for clearance without removing 50% of the CanopyReason for Removal:Uncorrectable defectComments:Unit 16\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00130008054 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2169,13 +2169,13 @@
         "status": "ACA Pending",
         "date": "08/26/2026",
         "description": null,
-        "owner": "David Chen",
-        "tree_dbh": "6",
-        "tree_location": "Front yard near street, beside dogwood",
-        "reason_removal": "Diseased",
-        "tree_description": "Dogwood with extensive canopy dieback, bare limbs, and little to no live foliage.Reason for Removal:Dead treeComments:Removal requested because the tree is dead.\n\t\t\n\t\t\n\t\t\tTree number:1Species:PineTree Size (DBH):26Tree location:Front yard near street, beside dogwoodDescription of Tree:Mature pine with an elongated trunk canker and damaged, darkened bark extending toward the base.Reason for Removal:DiseasedComments:Removal requested because of the trunk canker and associated health and structural concerns.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01950004022 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Dogwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2265,13 +2265,13 @@
         "status": "ACA Pending",
         "date": "08/26/2026",
         "description": null,
-        "owner": "SANDY SPRINGS HOLDINGS LLC",
-        "tree_dbh": "60",
-        "tree_location": "back right",
-        "reason_removal": "Dying tree",
-        "tree_description": "dying hazardous tree in back right of property with rott at baseReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00750005044 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
