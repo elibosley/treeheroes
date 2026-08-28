@@ -2385,13 +2385,13 @@
         "status": "Accepted",
         "date": "08/27/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Bronson Katz",
+        "tree_dbh": "12",
+        "tree_location": "Adjacent cemetery property immediately behind restaurant, near rear property line.",
+        "reason_removal": "Dead tree",
+        "tree_description": "Large mature hardwood heavily covered with vines. Tree has multiple large broken/dead limbs and visible trunk/limb defects. Portions of the upper structure extend toward/over the adjacent occupied restaurant property. The tree is also leaning towards the property.Reason for Removal:Dead treeComments:Tree is located on adjacent historic cemetery property directly behind an occupied restaurant. The cemetery appears to have no readily identifiable active owner/representative or caretaker. The tree has large damaged/dead limbs and visible defects, and portions extend toward the restaurant and outdoor occupied areas. Requesting City Arborist inspection and determination of whether the tree qualifies as dead, dying, or hazardous.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0230  LL135 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Unkown Hardwood"
       },
       "geometry": {
         "type": "Point",
