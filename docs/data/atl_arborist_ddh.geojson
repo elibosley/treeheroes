@@ -3058,12 +3058,12 @@
         "date": "08/29/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "Rear of house (close to house)",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "30 inch water oak that overhangs significant portion of our home.Reason for Removal:Uncorrectable defectComments:Despite tending to the tree over the years, it still drops large branches in mild wind or rain. We have twin toddlers in the house and can't handle the unpredictable hazard. We feel unsafe and sadly need to remove the tree.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01100002073 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3094,6 +3094,30 @@
         "coordinates": [
           -84.34062682691,
           33.752022720287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604303",
+        "address": "661 VALLEY GREEN DR NE, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "08/29/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.366843705756,
+          33.874976569951
         ]
       }
     }
