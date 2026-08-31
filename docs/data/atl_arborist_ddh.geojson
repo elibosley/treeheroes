@@ -2625,13 +2625,13 @@
         "status": "ACA Pending",
         "date": "08/30/2026",
         "description": null,
-        "owner": "WILSON JAMES M",
-        "tree_dbh": "19",
-        "tree_location": "In front",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Tree is leaning forward and disrupting the power lines.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:UnknownTree Size (DBH):21Tree location:In the middle of the propertyReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00860009090 *Block:--Lot:--Subdivision:--",
-        "tree_number": "2",
-        "species": "Unknown"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2649,13 +2649,13 @@
         "status": "ACA Pending",
         "date": "08/30/2026",
         "description": null,
-        "owner": "BAXTER WILLIE J",
-        "tree_dbh": "32",
-        "tree_location": "Front Right",
-        "reason_removal": "Diseased",
-        "tree_description": "32\" DBH Pine with decay and fusiform rust and a phototropic lean towards the neighbors home.Reason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):30Tree location:Front RightDescription of Tree:30\" Pine with fusiform rust and decay and a phototropic lean towards the street and power linesReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00600005009 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2674,12 +2674,12 @@
         "date": "08/30/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "46",
-        "tree_location": "backyard",
-        "reason_removal": "Dead tree",
-        "tree_description": "Trunk has large area of decay from disease. Tree has dead branches. Tree is at risk of falling on our children's upstairs bedrooms. Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:ceder Tree Size (DBH):11Tree location:backyard Description of Tree:ceder tree. Tree appears dead. Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00430005023 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "ceder"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
