@@ -1977,13 +1977,13 @@
         "status": "ACA Pending",
         "date": "08/31/2026",
         "description": null,
-        "owner": "FULLER WILLIAM",
-        "tree_dbh": "25",
-        "tree_location": "back left side along fence line.",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "25in Poplar with extensive basal decay as determined by resistance recording drill.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00510002026 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2116,9 +2116,9 @@
     {
       "type": "Feature",
       "properties": {
-        "record": "BA-202604321",
-        "address": "776 WESLEY DR NW, ATLANTA GA 30305",
-        "status": "ACA Pending",
+        "record": "26TMP-057322",
+        "address": "3345 Valley Road NW, United States",
+        "status": null,
         "date": "08/31/2026",
         "description": null,
         "owner": null,
@@ -2128,6 +2128,30 @@
         "tree_description": null,
         "tree_number": null,
         "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.384542404195,
+          33.845762362984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604321",
+        "address": "776 WESLEY DR NW, ATLANTA GA 30305",
+        "status": "ACA Pending",
+        "date": "08/31/2026",
+        "description": null,
+        "owner": "Ruth Haile",
+        "tree_dbh": "32",
+        "tree_location": "Upper level backyard in center",
+        "reason_removal": "Dead tree",
+        "tree_description": "80% dead canopy. Ambrosia Beetles.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:AshTree Size (DBH):20Tree location:Upper level backyard in centerDescription of Tree:DeadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01540008040 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2146,12 +2170,12 @@
         "date": "08/31/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "100",
+        "tree_location": "close to the road",
+        "reason_removal": "Dead tree",
+        "tree_description": "tall dead tree Reason for Removal:Dead treeComments:I don't know how tall, but it's tall!~ Close to street and wires\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00970002032 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
