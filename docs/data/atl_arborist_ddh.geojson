@@ -2889,13 +2889,13 @@
         "status": "ACA Pending",
         "date": "09/06/2026",
         "description": null,
-        "owner": "Andrew Stephens",
-        "tree_dbh": "20",
-        "tree_location": "back yard",
-        "reason_removal": "Diseased",
-        "tree_description": "20 foot HickoryReason for Removal:DiseasedComments:Ambrosia bug?\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00110003015 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
