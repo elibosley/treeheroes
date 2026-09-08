@@ -1,0 +1,245 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604486",
+        "address": "195 ESTORIA ST SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": "PURVIS BRUCE O",
+        "tree_dbh": "32",
+        "tree_location": "195 Estoria St SE",
+        "reason_removal": "Other",
+        "tree_description": "Large, old tree within 6 feet of my house, large branch has fallen, many large branches on the other side of the tree Reason for Removal:OtherComments:Need an arborist to diagnose tree for disease or possible dying. I fear other branches falling and damaging my house\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00200008052 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pecan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.363130712598,
+          33.749050783006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604482",
+        "address": "75 PEACHTREE HILLS AVE NE, ATLANTA GA 30305",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": "ULRICI JILL D DURSTON DERYCK",
+        "tree_dbh": "36",
+        "tree_location": "backyard",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "36\" Maple. Backyard, Decay at base, DecliningReason for Removal:Significant cavity/area of decayComments:36\" Maple. Backyard, Decay at base, Declining\n\t\t\n\t\t\n\t\t\tTree number:2Species:MulberryTree Size (DBH):8Tree location:backyardDescription of Tree:8\" Mulberry, Backyard, Undesirable speciesReason for Removal:Invasive/undesirable treeComments:8\" Mulberry, Backyard, Undesirable species\n\t\t\n\t\t\n\t\t\tTree number:3Species:MulberryTree Size (DBH):8Tree location:backyardDescription of Tree:8\" Mulberry, Backyard, Undesirable speciesReason for Removal:Invasive/undesirable treeComments:8\" Mulberry, Backyard, Undesirable species\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01020004016 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Maple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.385797232345,
+          33.81749810541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604480",
+        "address": "4380 GLENGARY DR NE, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.363366007783,
+          33.873995918686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "26TMP-057694",
+        "address": "1779 SANDTOWN RD SW, ATLANTA GA 30311",
+        "status": "",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.446316452577,
+          33.717950334405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604483",
+        "address": "207 LAKE FORREST LN NE, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.382833199748,
+          33.873641656606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604481",
+        "address": "3929 WIEUCA RD NE, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.364698201329,
+          33.861725860936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604484",
+        "address": "2621 FAIRLANE DR SE, ATLANTA GA 30354",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.380400451674,
+          33.682553515861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604488",
+        "address": "2330 1ST AVE NE, ATLANTA GA 30317",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.311367793703,
+          33.754308439599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604485",
+        "address": "3958 NORTH STRATFORD RD NE, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.362611340374,
+          33.863581787178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604487",
+        "address": "305 EPPINGTON DR NW, ATLANTA GA 30327",
+        "status": "ACA Pending",
+        "date": "09/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.39838396617,
+          33.878917966902
+        ]
+      }
+    }
+  ]
+}
