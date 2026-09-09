@@ -1497,13 +1497,13 @@
         "status": "ACA Pending",
         "date": "09/08/2026",
         "description": null,
-        "owner": "HAGOOD C JEFFERSON",
-        "tree_dbh": "12",
-        "tree_location": "Right Rear",
-        "reason_removal": "Dying tree",
-        "tree_description": "40% Crown LossReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01560009002 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Tulip Poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1546,12 +1546,12 @@
         "date": "09/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "Second tree away from driveway close to the street",
-        "reason_removal": "Dying tree",
-        "tree_description": "Large pineReason for Removal:OtherComments:Destroying the driveway. \n\t\t\n\t\t\n\t\t\tTree number:2Species:pineTree Size (DBH):30Tree location:Second tree away from driveway close to the streetDescription of Tree:Pine tree hit by lighting and drops limbs almost his a couple walking recently. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00980004029 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1594,12 +1594,12 @@
         "date": "09/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "92",
-        "tree_location": "Property line between 293 & 281 Broadland, backyards.",
-        "reason_removal": "Other",
-        "tree_description": "Two major trunk splits.  Concern about root ball health and upper branches thinning.Reason for Removal:OtherComments:Requesting a review.\n\t\t\n\t\t\n\t\t\tTree number:2Species:MagnoliaTree Size (DBH):94Tree location:293 Broadland - East between housesDescription of Tree:Highly distressed and dangerous tree growing close to both houses.  Causing root and leaf damage to 281 Broadland.Reason for Removal:OtherComments:Review on long standing issues.\n\t\t\n\t\t\n\t\t\tTree number:3Species:OakTree Size (DBH):38Tree location:Property line between 293 & 281 Broadland, backyards.Description of Tree:Tree is a traveler growing on fence of 293 Broadland.  At least one major limb overhang and lean toward 293 Broadland.  Reason for Removal:OtherComments:Review per city regulations on: 1) Border tree, and 2) risk or remediation associated with lean and large limb overhang.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01170001023 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Sycamore"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1617,13 +1617,13 @@
         "status": "ACA Pending",
         "date": "09/08/2026",
         "description": null,
-        "owner": "MOSELY BARBARA C",
-        "tree_dbh": "22",
-        "tree_location": "back right corner of lot",
-        "reason_removal": "Dying tree",
-        "tree_description": "3 of 5 trunks are in decline or deadReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:cottonwoodTree Size (DBH):22Tree location:back right corner of lotDescription of Tree:3 of 5 trunks are in decline or deadReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00540001048 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "cottonwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1666,12 +1666,12 @@
         "date": "09/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "25",
-        "tree_location": "front of the house",
-        "reason_removal": "Dead tree",
-        "tree_description": "Tree removalReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00460007002 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine Tree"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1738,12 +1738,12 @@
         "date": "09/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "26",
+        "tree_location": "right rear of the church",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:PoplarTree Size (DBH):24.5Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:PineTree Size (DBH):16Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:oakTree Size (DBH):27Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:pineTree Size (DBH):17Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:oakTree Size (DBH):18Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:pineTree Size (DBH):18Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:pineTree Size (DBH):23Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:oakTree Size (DBH):23Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1Species:PineTree Size (DBH):26Tree location:right rear of the churchDescription of Tree:Tree removalReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00090004037 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -1786,12 +1786,12 @@
         "date": "09/08/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "25",
-        "tree_location": "right hand side of the driveway",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead white oak on right side of driveway-Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0216  LL088 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "white oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1953,13 +1953,13 @@
         "status": "Accepted",
         "date": "09/08/2026",
         "description": null,
-        "owner": "KATES ALEXANDRA M",
-        "tree_dbh": "13",
-        "tree_location": "back",
-        "reason_removal": "Dying tree",
-        "tree_description": "dead treeReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:chinese elmTree Size (DBH):15Tree location:back rightDescription of Tree:Invasive, within 5' of homeReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00180011032 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Dogwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
