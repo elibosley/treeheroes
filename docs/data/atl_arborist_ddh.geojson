@@ -2529,13 +2529,13 @@
         "status": "ACA Pending",
         "date": "09/15/2026",
         "description": null,
-        "owner": "Meredith Fortuna",
-        "tree_dbh": "26",
-        "tree_location": "Backyard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Bot Canker, dieback of numerous limbsReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00430006041 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2553,13 +2553,13 @@
         "status": "ACA Pending",
         "date": "09/15/2026",
         "description": null,
-        "owner": "WESTMORELAND JOHN R",
-        "tree_dbh": "26",
-        "tree_location": "Left front of property",
-        "reason_removal": "Dead tree",
-        "tree_description": "Tree is dead with evidence of pine beetle at baseReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0116  LL147 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2577,13 +2577,13 @@
         "status": "ACA Pending",
         "date": "09/15/2026",
         "description": null,
-        "owner": "FITZPATRICK DON",
-        "tree_dbh": "13",
-        "tree_location": "Front, right of car port",
-        "reason_removal": "Other",
-        "tree_description": "Leyland cypress tree that is incompatible with its current location.Reason for Removal:OtherComments:Species/site incompatibility. This Leyland cypress is located within a very restricted growing space immediately adjacent to the residence, deck/railing, driveway, and utility infrastructure. Continued growth will increase conflicts with permanent structures and cannot reasonably be managed through routine pruning without compromising tree form. The tree has already been pruned multiple times, to create deck clearance, car port clearance and building and chimney clearances. Removal is requested.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00040006062 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Leyland Cypress"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2601,13 +2601,13 @@
         "status": "ACA Pending",
         "date": "09/15/2026",
         "description": null,
-        "owner": "Kerry and Linda Jackson",
-        "tree_dbh": "65",
-        "tree_location": "driveway",
-        "reason_removal": "Dying tree",
-        "tree_description": "Tall, only some branches left at the top. Dead wisteria wrapped around it.Reason for Removal:Dying treeComments:Several branches blew off during a recent storm. If it happens again, it could damage the house or the car.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00420003021 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
