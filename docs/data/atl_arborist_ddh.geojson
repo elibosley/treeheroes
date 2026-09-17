@@ -2386,12 +2386,12 @@
         "date": "09/16/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "12",
-        "tree_location": "front left",
-        "reason_removal": "Dying tree",
-        "tree_description": "This tree is growing under overhead utilities. The tree is infested with Crape Myrtle Bark Scale. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010002034 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "crape myrtle"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2601,13 +2601,13 @@
         "status": "Accepted",
         "date": "09/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "JARRELL LAUREN K JARRELL JONATHAN E",
+        "tree_dbh": "36",
+        "tree_location": "Behind carport",
+        "reason_removal": "Diseased",
+        "tree_description": "Dead diseased Reason for Removal:DiseasedComments:Tree is overhanging the carport and is very dangerous is dead and dying \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010004030 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water oak"
       },
       "geometry": {
         "type": "Point",
@@ -2625,13 +2625,13 @@
         "status": "Accepted",
         "date": "09/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "BOWMAN CRISTIN",
+        "tree_dbh": "8",
+        "tree_location": "Back left",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "InvasiveReason for Removal:Invasive/undesirable treeComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 176 01 169 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Ailanthus"
       },
       "geometry": {
         "type": "Point",
@@ -2649,13 +2649,13 @@
         "status": "Accepted",
         "date": "09/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Stacy Blackmon",
+        "tree_dbh": "25",
+        "tree_location": "Right side of the house",
+        "reason_removal": "Dead tree",
+        "tree_description": "Remove one dying oak tree with a large trunk cavity on the right side of the house.Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01180007001 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak Tree"
       },
       "geometry": {
         "type": "Point",
@@ -2673,13 +2673,13 @@
         "status": "ACA Pending",
         "date": "09/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "DUTCH ANGELIQUE",
+        "tree_dbh": "102",
+        "tree_location": "back yard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "roots above ground & leaning toward garageReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01700001086 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2746,12 +2746,12 @@
         "date": "09/16/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "4",
+        "tree_location": "Back yard",
+        "reason_removal": "Other",
+        "tree_description": "Large mature OakReason for Removal:OtherComments:This application is for the TRAP Pruning not removal. DBH is an estimate\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00460012006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak (?)"
       },
       "geometry": {
         "type": "Point",
@@ -2817,13 +2817,13 @@
         "status": "ACA Pending",
         "date": "09/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "KEVIN DRISCOLL",
+        "tree_dbh": "26",
+        "tree_location": "Back of the house",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2961,13 +2961,13 @@
         "status": "Accepted",
         "date": "09/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Hayward McEver",
+        "tree_dbh": "32",
+        "tree_location": "Right rear",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "root decay fungus, unbalanced canopy, restricted root space.Reason for Removal:Uncorrectable defectComments:Orange dot\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01420003035 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -3009,13 +3009,13 @@
         "status": "Accepted",
         "date": "09/16/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SMITH SARAH H",
+        "tree_dbh": "30",
+        "tree_location": "front right",
+        "reason_removal": "Dead tree",
+        "tree_description": "This tree is dead. No live canopy. It has been attacked by wood boring insects. Reason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00520001015 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "loblolly pine"
       },
       "geometry": {
         "type": "Point",
