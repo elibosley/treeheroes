@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "26TMP-061945",
+        "address": "3400 KILBY PL NW, ATLANTA GA 30327",
+        "status": "",
+        "date": "09/19/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.420293954131,
+          33.847449767331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604782",
+        "address": "1779 SANDTOWN RD SW, ATLANTA GA 30311",
+        "status": "ACA Pending",
+        "date": "09/19/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "50",
+        "tree_location": "by the fence",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "tree is over 50ft i wanted to put for tree sizeReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:1503Species:pine treeTree Size (DBH):50Tree location:located on the side corner fence on right side of house . It is the tree on the leftDescription of Tree:tree size over 50ftReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1504Species:pine treeTree Size (DBH):50Tree location:by the side fence on right by drivewayDescription of Tree:tree size is over 50ftReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1507Species:pineTree Size (DBH):50Tree location:by the fenceDescription of Tree:tree size over 50ftReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:1511Species:magnolia treeTree Size (DBH):50Tree location:over the roof of the house in the backDescription of Tree:over 50 ft in tree sizeReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01520012061 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1502",
+        "species": "pine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.446316452577,
+          33.717950334405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604783",
+        "address": "1676 FERNLEAF CIR NW, ATLANTA GA 30318",
+        "status": "ACA Pending",
+        "date": "09/19/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.441041264906,
+          33.820321461526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604787",
+        "address": "1547 CAVE RD NW, ATLANTA GA 30327",
+        "status": "ACA Pending",
+        "date": "09/19/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.434675686511,
+          33.86350697843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604788",
+        "address": "1080 KATHERWOOD DR SW, ATLANTA GA 30310",
+        "status": "ACA Pending",
+        "date": "09/19/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.423573307388,
+          33.710017639172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604786",
+        "address": "4250 PARAN WALK NW, ATLANTA GA 00000",
+        "status": "ACA Pending",
+        "date": "09/19/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "23",
+        "tree_location": "back yard, near pool (left corner) by maple",
+        "reason_removal": "Dying tree",
+        "tree_description": "Lean toward pool, weight toward pool, trunk wound/cavityReason for Removal:Uncorrectable defectComments:Unbalanced crown weight toward pool\n\t\t\n\t\t\n\t\t\tTree number:2Species:Red OakTree Size (DBH):11Tree location:back yard, near pool (left corner) by mapleDescription of Tree:large limb dieback, low LCRReason for Removal:Dying treeComments:Declining\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01780001001 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Maple"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.423083065912,
+          33.871391388297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604784",
+        "address": "2660 PARKSIDE DR NE, ATLANTA GA 30305",
+        "status": "ACA Pending",
+        "date": "09/19/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.385131263913,
+          33.826841373245
+        ]
+      }
+    }
+  ]
+}

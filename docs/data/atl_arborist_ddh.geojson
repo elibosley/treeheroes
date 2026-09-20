@@ -4161,13 +4161,13 @@
         "status": "ACA Pending",
         "date": "09/19/2026",
         "description": null,
-        "owner": "ROB ALLISON INC",
-        "tree_dbh": "34",
-        "tree_location": "rear right",
-        "reason_removal": "Dying tree",
-        "tree_description": "Several large/main limbs broken and dead, one-sided crown weight toward bldg/unbalanced crown Reason for Removal:Uncorrectable defectComments:Poor condition with target\n\t\t\n\t\t\n\t\t\tTree number:2Species:SweetgumTree Size (DBH):19Tree location:right sideDescription of Tree:close to bldg, structural root compromised due to concrete padReason for Removal:Uncorrectable defectComments:vulnerable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:SweetgumTree Size (DBH):16Tree location:right sideDescription of Tree:close to bldg, structural root compromised due to concrete padReason for Removal:Uncorrectable defectComments:vulnerable tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:Water OakTree Size (DBH):17Tree location:rear rightDescription of Tree:Minor dead, close to Tree 5Reason for Removal:OtherComments:Appears healthy - customer request\n\t\t\n\t\t\n\t\t\tTree number:5Species:Water OakTree Size (DBH):24Tree location:rear rightDescription of Tree:Close to Tree 4Reason for Removal:OtherComments:Appears healthy - customer request\n\t\t\n\t\t\n\t\t\tTree number:6Species:ElmTree Size (DBH):13Tree location:rear rightDescription of Tree:SuppressedReason for Removal:OtherComments:Appears healthy - customer request\n\t\t\n\t\t\n\t\t\tTree number:7Species:Black CherryTree Size (DBH):11Tree location:rear rightDescription of Tree:leaning, minor dead, poison ivy, phototropismReason for Removal:OtherComments:Outcompeted\n\t\t\n\t\t\n\t\t\tTree number:8Species:Red OakTree Size (DBH):50Tree location:right sideDescription of Tree:Mostly deadReason for Removal:Dying treeComments:Large dead sections - dangerous for street traffic\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01210005049 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Elm"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -4186,12 +4186,12 @@
         "date": "09/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "23",
+        "tree_location": "back yard, near pool (left corner) by maple",
+        "reason_removal": "Dying tree",
+        "tree_description": "Lean toward pool, weight toward pool, trunk wound/cavityReason for Removal:Uncorrectable defectComments:Unbalanced crown weight toward pool\n\t\t\n\t\t\n\t\t\tTree number:2Species:Red OakTree Size (DBH):11Tree location:back yard, near pool (left corner) by mapleDescription of Tree:large limb dieback, low LCRReason for Removal:Dying treeComments:Declining\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01780001001 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Maple"
       },
       "geometry": {
         "type": "Point",
@@ -4209,13 +4209,13 @@
         "status": "ACA Pending",
         "date": "09/19/2026",
         "description": null,
-        "owner": "ALLGOOD LULYANNE S",
-        "tree_dbh": "16",
-        "tree_location": "Front of the property near corner of road intersection Tree is next to the large pine",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Tree One’s previous scaffold failure, evidenced by the large remaining stub. A wound is also visible higher on the remaining scaffold leader. The scaffold extends toward the roadway and curb, with an overhead utility line located nearby. The assessed risk rating for failure of the remaining scaffold leader toward the roadway is High.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:Water OakTree Size (DBH):20Tree location:Front of the property near corner of road intersection Tree is next to the large pineDescription of Tree:Tree 2 within a group of trees near the road intersection at the northeast corner of the property. An adjacent Pine is located northeast of Tree 2. The photographs document Tree 2’s relationship to the neighboring Pine and the nearby roadway.",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
