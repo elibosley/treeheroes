@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604789",
+        "address": "3478 FAIRLANE DR NW, ATLANTA GA 30331",
+        "status": "ACA Pending",
+        "date": "09/20/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "3216",
+        "tree_location": "Backyard furthest from wooded fence",
+        "reason_removal": "Dying tree",
+        "tree_description": null,
+        "tree_number": "1",
+        "species": "Oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.501169840984,
+          33.766865270352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604791",
+        "address": "979 DIMMOCK ST SW, ATLANTA GA 30310",
+        "status": "ACA Pending",
+        "date": "09/20/2026",
+        "description": null,
+        "owner": "WORD OF LIFE CHRISTIAN MINISTRY INC",
+        "tree_dbh": "8",
+        "tree_location": "FRONT",
+        "reason_removal": "Dying tree",
+        "tree_description": "Existing mature tree near the front of the property. The tree appears to be in declining condition, with visible dead foilage, and areas of sparse growth. Reason for Removal:Dying treeComments:I am requesting that the City Aborist evaluate the tree to determine its overall health and whether removal is permissible. The tree is also in direct conflict with the installation of permanent electrical service to the newly constructed residence. Georgia Power has advised that the tree will, at minimum, require significant trimming to provide the necessary clearance for the electrical service and may need to be removed.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01190004037 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "HICKORY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.419408356806,
+          33.726919868814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604790",
+        "address": "829 PONCE DE LEON PL NE, ATLANTA GA 30306",
+        "status": "ACA Pending",
+        "date": "09/20/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.363633990969,
+          33.777195605196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604793",
+        "address": "1690 FLAT SHOALS RD SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "09/20/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.332579158594,
+          33.730940842703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604794",
+        "address": "1110 NORTH HIGHLAND AVE NE, ATLANTA GA 30306",
+        "status": "ACA Pending",
+        "date": "09/20/2026",
+        "description": null,
+        "owner": "Eric French",
+        "tree_dbh": "26",
+        "tree_location": "Back yard",
+        "reason_removal": "Diseased",
+        "tree_description": "One dead oak approximately 26 inches in diameterReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00010001064 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water oak (Quercus Nigra)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.355005096748,
+          33.785110756354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604792",
+        "address": "388 ATLANTA AVE SE, ATLANTA GA 30315",
+        "status": "ACA Pending",
+        "date": "09/20/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.374905828586,
+          33.730343146244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202604795",
+        "address": "199 LOCUST ST NE, ATLANTA GA 30317",
+        "status": "ACA Pending",
+        "date": "09/20/2026",
+        "description": null,
+        "owner": "Joel Schoenecker",
+        "tree_dbh": "19",
+        "tree_location": "back right corner of the property.",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "tree has some dieback. also growing in between the fence.Reason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 211 02 120 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.324653170335,
+          33.758147679983
+        ]
+      }
+    }
+  ]
+}
