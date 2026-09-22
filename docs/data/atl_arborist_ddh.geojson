@@ -2818,12 +2818,12 @@
         "date": "09/21/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "55",
+        "tree_location": "Front yard, right side of residence facing street, adjacent to sidewalk and street",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Mature water oak, 59\" DBH, approx. 65' tall, leaning ~10 degrees toward street. Level 3 risk assessment with resistograph drilling (Atlanta Arbor, Dec 2025, report attached) found decay at large trunk wound and rated the tree HIGH risk, likelihood of failure Probable, with whole-tree failure likely within two years under normal weather; removal recommended. Multiple fungal fruiting bodies (consistent with root/butt rot) currently present at root flare (photos attached). Trunk cavities and epicormic sprouting present. In Sept 2026, tree contacted power lines across street, smoked and caught fire during rain, causing line outage; Georgia Power trimmed lines. Targets: residence, neighboring residence across street, public street, sidewalk, overhead utilities.Reason for Removal:Significant cavity/area of decayComments:Requesting expedited inspection given documented probable-failure condition and recent fire event. Attachments: Atlanta Arbor Level 3 assessment report (Tyrell Phillips, ISA SO-6049A, TRAQ) and 9 photos documenting lean, trunk wound, cavities, fungal conks at root flare, and fire-damaged limb. Owner contact: 202-246-1192\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01000003076 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak (Quercus nigra)"
       },
       "geometry": {
         "type": "Point",
@@ -2842,12 +2842,12 @@
         "date": "09/21/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "44",
+        "tree_location": "back",
+        "reason_removal": "Dying tree",
+        "tree_description": "House facing fungal fruiting bodies on base, previous improper pruning.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F0009 LL190 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "water oak"
       },
       "geometry": {
         "type": "Point",
@@ -2865,13 +2865,13 @@
         "status": "ACA Pending",
         "date": "09/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Michael Bowman",
+        "tree_dbh": "30",
+        "tree_location": "South",
+        "reason_removal": "Other",
+        "tree_description": "Tall tree, I'm not an arboristReason for Removal:OtherComments:I don't know how to complete tree specs.\n\t\t\n\t\t\n\t\t\tTree number:6Species:UnknownTree Size (DBH):30Tree location:SouthDescription of Tree:Tall tree, I'm not an arboristReason for Removal:OtherComments:I don't know how to complete tree specs.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02130004014 *Block:--Lot:--Subdivision:--",
+        "tree_number": "5",
+        "species": "Unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3033,13 +3033,13 @@
         "status": "ACA Pending",
         "date": "09/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "NORMAN STEPHEN S",
+        "tree_dbh": "24",
+        "tree_location": "back yard fence line",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Top part of tree has cracked and is resting on other treesReason for Removal:Significant cavity/area of decayComments:I am not sure of the exact type or size of the tree; I am not currently in Georgia, but I can get a neighbor to meet\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00120008022 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Unknown"
       },
       "geometry": {
         "type": "Point",
@@ -3057,13 +3057,13 @@
         "status": "ACA Pending",
         "date": "09/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "HOSTETLER SCOTT A",
+        "tree_dbh": "22",
+        "tree_location": "left side",
+        "reason_removal": "Dead tree",
+        "tree_description": "dead white oak tree located on the left side of driveway by the street Reason for Removal:Dead treeComments: dead white oak tree located on the left side of driveway by the street \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0180  LL007 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "white oak"
       },
       "geometry": {
         "type": "Point",
@@ -3178,12 +3178,12 @@
         "date": "09/21/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "10",
-        "tree_location": "Left side of driveway",
-        "reason_removal": "Dying tree",
-        "tree_description": "Tree exhibits significant canopy decline and dieback, with sparse live foliage remaining throughout the crown. A pronounced longitudinal opening/cavity is present along the lower main stem, indicating compromised woody tissue and structural deterioration. The combination of advanced canopy decline and the basal/lower-stem defect indicates poor biological and structural condition. Due to the extent of decline and structural defect, recovery through reasonable arboricultural treatment is unlikely. Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Leyland CypressTree Size (DBH):13Tree location:left side of drivewayDescription of Tree:Tree is dead with no live canopy remaining. Extensive branch and foliage loss is present throughout the crown, indicating complete mortality. The dead tree is located immediately adjacent to the neighbor's residence, placing the structure within potential striking distance of falling limbs or stem failure. The tree has no reasonable potential for recovery or preservation. Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:Leyland CypressTree Size (DBH):14Tree location:left side of drivewayDescription of Tree:Tree is dead with no live canopy remaining. Complete canopy mortality and extensive dead branching are present throughout the crown. The tree is located in close proximity to the residence, with portions of the crown extending toward the structure. As a dead tree, continued deterioration of the stem and branches is expected, increasing the potential for branch or whole-tree failure. The tree has no potential for recovery or preservation. Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:4Species:Leyland CypressTree Size (DBH):11Tree location:Left side of drivewayDescription of Tree:ree exhibits substantial canopy decline and dieback, with limited live foliage remaining. A pronounced longitudinal seam/open cavity is present along the main stem with exposed and deteriorated woody tissue, indicating a significant structural defect. The tree is also heavily colonized by English ivy, which partially obscures the trunk and limits visual inspection of additional defects. Given the advanced canopy decline, stem cavity/seam, and compromised structural condition, the tree has poor long-term viability and an increased potential for stem or branch failure.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:5Species:Leyland CypressTree Size (DBH):15Tree location:Left side of drivewayDescription of Tree:Tree exhibits significant canopy decline and dieback in conjunction with substantial structural defects in the main stem. An open basal cavity with visible deterioration of woody tissue is present, along with a pronounced longitudinal seam extending vertically along the trunk. The stem defects indicate compromised structural integrity and reduced load-bearing capacity. Heavy ivy growth also obscures portions of the trunk, limiting complete visual assessment. Given the combination of progressive canopy decline, basal cavity, longitudinal seam, and deteriorated stem tissue, the tree is in poor biological and structural condition with an increased potential for stem failure.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00420006009 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Leyland Cypress"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3417,13 +3417,13 @@
         "status": "ACA Pending",
         "date": "09/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Michael Saxon",
+        "tree_dbh": "20",
+        "tree_location": "Left side of front yard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "several girdling roots, root intrusion has caused damage to sewer cleanout and water linesReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00540009019 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Maple"
       },
       "geometry": {
         "type": "Point",
