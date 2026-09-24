@@ -2985,13 +2985,13 @@
         "status": "ACA Pending",
         "date": "09/23/2026",
         "description": null,
-        "owner": "Judy Mills",
-        "tree_dbh": "24",
-        "tree_location": "Right side front yard",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01060012021 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3010,12 +3010,12 @@
         "date": "09/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "rear of property",
-        "reason_removal": "Dead tree",
-        "tree_description": "dead/ambrosia beetlesReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00510006053 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "red oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3033,13 +3033,13 @@
         "status": "ACA Pending",
         "date": "09/23/2026",
         "description": null,
-        "owner": "Michael Daye",
-        "tree_dbh": "4",
-        "tree_location": "Backyard",
-        "reason_removal": "Diseased",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "uknown"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3057,13 +3057,13 @@
         "status": "ACA Pending",
         "date": "09/23/2026",
         "description": null,
-        "owner": "MC DANIEL JOHN T",
-        "tree_dbh": "34",
-        "tree_location": "back right corner",
-        "reason_removal": "Dying tree",
-        "tree_description": "One 34'' Tulip Poplar located back right corner of property.  Central leader is dead. 35% canopy loss.Reason for Removal:Dying treeComments:One 34'' Tulip Poplar located back right corner of property.  Central leader is dead. 35% canopy loss.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01010007003 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "tulip poplar"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3081,13 +3081,13 @@
         "status": "ACA Pending",
         "date": "09/23/2026",
         "description": null,
-        "owner": "WOODWARD RHODES INC",
-        "tree_dbh": "38",
-        "tree_location": "front left",
-        "reason_removal": "Diseased",
-        "tree_description": "One 38'' Red Oak located front left corner of property. Tree has a heavy lean towards street(power lines) Ganoderma at base. Recent adjacent tree failure impacted the crzReason for Removal:DiseasedComments:One 38'' Red Oak located front left corner of property. Tree has a heavy lean towards street(power lines) Ganoderma at base. Recent adjacent tree failure impacted the crz\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 181 05 001 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "red oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3105,13 +3105,13 @@
         "status": "ACA Pending",
         "date": "09/23/2026",
         "description": null,
-        "owner": "DOUGLAS CHARLES",
-        "tree_dbh": "23",
-        "tree_location": "rear of property",
-        "reason_removal": "Diseased",
-        "tree_description": "*** 23-inch DBH Pine Tree – Rear of Property",
-        "tree_number": "1",
-        "species": "pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3129,13 +3129,13 @@
         "status": "ACA Pending",
         "date": "09/23/2026",
         "description": null,
-        "owner": "Charles Anglin",
-        "tree_dbh": "42",
-        "tree_location": "Left of house",
-        "reason_removal": "Dying tree",
-        "tree_description": "Too close to foundation. Leaves smaller than normal, 20% dead canopy, widely scattered. Dead limbs throughout. Tip die back throughout.Reason for Removal:Dying treeComments:Orange tape\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01010008057 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
