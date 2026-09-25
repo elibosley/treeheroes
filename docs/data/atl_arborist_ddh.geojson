@@ -2764,9 +2764,9 @@
     {
       "type": "Feature",
       "properties": {
-        "record": "26TMP-063365",
-        "address": "2404 Countyline, United States",
-        "status": null,
+        "record": "BA-202604934",
+        "address": "1158 DOLPHIN DR SW, ATLANTA GA 30311",
+        "status": "ACA Pending",
         "date": "09/24/2026",
         "description": null,
         "owner": null,
@@ -2776,30 +2776,6 @@
         "tree_description": null,
         "tree_number": null,
         "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.534062544934,
-          33.689514282228
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202604934",
-        "address": "1158 DOLPHIN DR SW, ATLANTA GA 30311",
-        "status": "ACA Pending",
-        "date": "09/24/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": "10",
-        "tree_location": "on the side of the house",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead branches.Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:not sureTree Size (DBH):3Tree location:on the side of the houseReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01830005024 *Block:--Lot:--Subdivision:--",
-        "tree_number": "2",
-        "species": "not sure"
       },
       "geometry": {
         "type": "Point",
@@ -3129,13 +3105,13 @@
         "status": "ACA Pending",
         "date": "09/24/2026",
         "description": null,
-        "owner": "RANKINS RAY",
-        "tree_dbh": "22",
-        "tree_location": "Left side of the property",
-        "reason_removal": "Unpermitted destruction",
-        "tree_description": "Dangerous tree leaning towards neighbors propertyReason for Removal:Unpermitted destruction\n\t\t\n\t\t\n\t\t\tTree number:2Species:cypressTree Size (DBH):39.3Tree location:Left side of the propertyDescription of Tree:Dangerous tree leaning towards neighbors propertyReason for Removal:Unpermitted destructionComments:Left side of the property\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02350002034 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "cypress"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3153,13 +3129,13 @@
         "status": "ACA Pending",
         "date": "09/24/2026",
         "description": null,
-        "owner": "MC KINNON EUNICE H",
-        "tree_dbh": "28",
-        "tree_location": "back yaed",
-        "reason_removal": "Dying tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "pine"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3345,13 +3321,13 @@
         "status": "ACA Pending",
         "date": "09/24/2026",
         "description": null,
-        "owner": "MAHONE MARTHA RUTH",
-        "tree_dbh": "38",
-        "tree_location": "left side of the property",
-        "reason_removal": "Dying tree",
-        "tree_description": "Co-dominant decaying dying treeReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 203 03 130 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
