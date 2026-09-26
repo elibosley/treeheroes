@@ -3562,12 +3562,12 @@
         "date": "09/25/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "6",
+        "tree_location": "onsite",
+        "reason_removal": "Other",
+        "tree_description": "DDH",
+        "tree_number": "35",
+        "species": "mimosa"
       },
       "geometry": {
         "type": "Point",
@@ -3585,13 +3585,13 @@
         "status": "Accepted",
         "date": "09/25/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Brent Cuddy",
+        "tree_dbh": "10",
+        "tree_location": "back fence",
+        "reason_removal": "Other",
+        "tree_description": "Tree is by fence in back cornder and it's top has fallen off in the past aReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:box elderTree Size (DBH):14Tree location:by fenceDescription of Tree:trees are back towards fence and on either side of a very tall tree variety I am not sure the type.  These trees are crowding the water oakReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:1Species:unknownTree Size (DBH):16Tree location:back fenceDescription of Tree:This tree is near the water oak and is large and tall.  Want opinion if it is too close to water oakReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01020013032 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "cherry laurel"
       },
       "geometry": {
         "type": "Point",
@@ -3610,12 +3610,12 @@
         "date": "09/25/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "32",
+        "tree_location": "back right",
+        "reason_removal": "Dying tree",
+        "tree_description": "This tree has approximately 40% live canopy. Signs of root rot. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0196  LL191 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "WATER oak"
       },
       "geometry": {
         "type": "Point",
@@ -3753,13 +3753,13 @@
         "status": "Accepted",
         "date": "09/25/2026",
         "description": null,
-        "owner": "HOUSING AUTH CITY OF ATLANTA",
-        "tree_dbh": "16",
-        "tree_location": "Front middle of lot",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead treeComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00760007118 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Cedar or Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3777,13 +3777,13 @@
         "status": "ACA Pending",
         "date": "09/25/2026",
         "description": null,
-        "owner": "Reza Ebrahimi",
-        "tree_dbh": "25",
-        "tree_location": "Left side of the house",
-        "reason_removal": "Uncorrectable defect",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Unknown Hardwood"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3801,13 +3801,13 @@
         "status": "Accepted",
         "date": "09/25/2026",
         "description": null,
-        "owner": "Ryan and Virginia Blank",
-        "tree_dbh": "29",
-        "tree_location": "Front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "Majority of the tree branches are dead and falling off tree. The total tree canopy has less than 50% live vegetation / leavesReason for Removal:Dying treeComments:Tree is located at front corner of property off of Collier Place near front door and front brick sidewalk.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01460003025 *Block:--Lot:--Subdivision:--",
-        "tree_number": "0",
-        "species": "Cherry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3874,12 +3874,12 @@
         "date": "09/25/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "18",
+        "tree_location": "backyard, center",
+        "reason_removal": "Dying tree",
+        "tree_description": "pine, dying. Reason for Removal:Dying treeComments:we had logan from atlantatreeinspection LLC out to confirm this.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00500010058 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
