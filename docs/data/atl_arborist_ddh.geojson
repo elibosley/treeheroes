@@ -4089,13 +4089,13 @@
         "status": "ACA Pending",
         "date": "09/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "RYAN BOBLETT",
+        "tree_dbh": "19",
+        "tree_location": "back yard left",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Mature water oak exhibiting significant directional lean toward adjacent residential structures, with substantial asymmetric crown loading and large co-dominant stems. Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 209 04 205 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "water oak"
       },
       "geometry": {
         "type": "Point",
