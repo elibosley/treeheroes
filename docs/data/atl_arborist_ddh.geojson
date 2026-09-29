@@ -2841,13 +2841,13 @@
         "status": "ACA Pending",
         "date": "09/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Jaron Mohler",
+        "tree_dbh": "27",
+        "tree_location": "Back yard close to back fence.",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "27in White oak with root decay and internal decay as evidenced by Advanced Assessment.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 239 01 149 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2937,13 +2937,13 @@
         "status": "ACA Pending",
         "date": "09/28/2026",
         "description": null,
-        "owner": "Andrew Munro",
-        "tree_dbh": "35",
-        "tree_location": "Right of driveway",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Tree has a 10 degree lean towards the house which worsens to 20 degrees near the top of the tree. Tree has evidence of borer infestation in the lower trunk. Targets include houses, parking areas, street, and utilities.Reason for Removal:Uncorrectable defectComments:Pink tape\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01010003046 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3081,13 +3081,13 @@
         "status": "ACA Pending",
         "date": "09/28/2026",
         "description": null,
-        "owner": "Carolyn Joiner",
-        "tree_dbh": "35",
-        "tree_location": "Right side of backyard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "tree risk assessment attached- note that client has low risk tolerance and the residual risk of pruning/cabling/phc does not reduce risk to an acceptable level.Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00560013013 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Post Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3657,13 +3657,13 @@
         "status": "ACA Pending",
         "date": "09/28/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Abhishek Agarwal",
+        "tree_dbh": "30",
+        "tree_location": "Front right in natural area",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "DeadReason for Removal:Dead treeComments:Dead\n\t\t\n\t\t\n\t\t\tTree number:3Species:Yellow-poplarTree Size (DBH):48Tree location:Rear rightDescription of Tree:Co-dominant (21\"/27\") - one trunk is dead the other decliningReason for Removal:Dying treeComments:Half dead\n\t\t\n\t\t\n\t\t\tTree number:9Species:Yellow-poplarTree Size (DBH):12Tree location:Rear center/rightDescription of Tree:basal cavities, 8\" deep hollowReason for Removal:Significant cavity/area of decayComments:Poor condition\n\t\t\n\t\t\n\t\t\tTree number:6Species:Yellow-poplarTree Size (DBH):9Tree location:Far right cornerDescription of Tree:DeadReason for Removal:Dead treeComments:Dead\n\t\t\n\t\t\n\t\t\tTree number:8Species:Yellow-poplarTree Size (DBH):17Tree location:Far rear rightDescription of Tree:DeadReason for Removal:Dead treeComments:Dead and leaning over neighbor's  property in rear\n\t\t\n\t\t\n\t\t\tTree number:11Species:Yellow-poplarTree Size (DBH):15Tree location:Rear centerDescription of Tree:Large basal trunk wound, poor formReason for Removal:Uncorrectable defectComments:Poor Condition\n\t\t\n\t\t\n\t\t\tTree number:10Species:Loblolly PineTree Size (DBH):17Tree location:Rear centerDescription of Tree:Upper trunk bend with all weight toward home; unbalanced crown weightReason for Removal:Uncorrectable defectComments:House and pool are targets\n\t\t\n\t\t\n\t\t\tTree number:12Species:Yellow-poplarTree Size (DBH):25Tree location:Far rear leftDescription of Tree:40\" basal cavity, hollowReason for Removal:Significant cavity/area of decayComments:Large cavity, weak tree\n\t\t\n\t\t\n\t\t\tTree number:13Species:SweetgumTree Size (DBH):6Tree location:Rear centerDescription of Tree:trunk damage/woundsReason for Removal:Uncorrectable defectComments:Poor condition, suppressed tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00970002028 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Yellow-poplar"
       },
       "geometry": {
         "type": "Point",
