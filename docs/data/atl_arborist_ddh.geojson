@@ -2769,13 +2769,13 @@
         "status": "Accepted",
         "date": "09/30/2026",
         "description": null,
-        "owner": "CHALOUX RICHARD",
-        "tree_dbh": "24",
-        "tree_location": "left side of driveway",
-        "reason_removal": "Diseased",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Poplar"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2889,13 +2889,13 @@
         "status": "Accepted",
         "date": "09/30/2026",
         "description": null,
-        "owner": "Black Oaks ATL",
-        "tree_dbh": "15",
-        "tree_location": "Back of property left",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Suppressed with vines and surrounding trees, low LCRReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:ElmTree Size (DBH):15Tree location:Back of property slightly left Description of Tree:Suppressed with vines and surrounding trees, low LCRReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:3Species:ElmTree Size (DBH):20Tree location:Back of property slightly left Description of Tree:Suppressed with vines and surrounding trees, low LCRReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:4Species:ElmTree Size (DBH):28Tree location:Back of property rightDescription of Tree:Large dead limbs and signs of leaf disease, low vigorReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:5Species:PecanTree Size (DBH):6Tree location:Center of property towards rearDescription of Tree: Suppressed canopy, no central leader, strong phototrophic leanReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01110005072 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Elm"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2937,13 +2937,13 @@
         "status": "ACA Pending",
         "date": "09/30/2026",
         "description": null,
-        "owner": "WALKER RICE CHARALENE",
-        "tree_dbh": "16",
-        "tree_location": "front yard",
-        "reason_removal": "Dead tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "pine"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2985,13 +2985,13 @@
         "status": "Accepted",
         "date": "09/30/2026",
         "description": null,
-        "owner": "Liam Homes",
-        "tree_dbh": "16",
-        "tree_location": "Back right",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Brittle Cinder fungus at base of tree, large limbs removed from trunk with poor compartmentalization, & tip dieback in 20% of canopyReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 205 04 040 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3009,13 +3009,13 @@
         "status": "Accepted",
         "date": "09/30/2026",
         "description": null,
-        "owner": "JEWETT DARA Y",
-        "tree_dbh": "36",
-        "tree_location": "LEFT SIDE - NEAR CONCRETE PAD",
-        "reason_removal": "Diseased",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "2",
-        "species": "PINE"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3033,13 +3033,13 @@
         "status": "Accepted",
         "date": "09/30/2026",
         "description": null,
-        "owner": "My Personal Gardener",
-        "tree_dbh": "18",
-        "tree_location": "Right front",
-        "reason_removal": "Dead tree",
-        "tree_description": "Tree is non livingReason for Removal:Dead treeComments:Orange dot\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01420001053 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Dead Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3081,13 +3081,13 @@
         "status": "Accepted",
         "date": "09/30/2026",
         "description": null,
-        "owner": "Parker Blanchard",
-        "tree_dbh": "26",
-        "tree_location": "front left of motor cort",
-        "reason_removal": "Dying tree",
-        "tree_description": "Dying pine - Pine beetle infestationReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0234  LL067 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Loblolly Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
