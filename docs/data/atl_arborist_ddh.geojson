@@ -2865,13 +2865,13 @@
         "status": "ACA Pending",
         "date": "10/02/2026",
         "description": null,
-        "owner": "Andy Snyder",
-        "tree_dbh": "29",
-        "tree_location": "Dead oak tree on the left front of the property.",
-        "reason_removal": "Dead tree",
-        "tree_description": "DDHReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01380003052 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2914,12 +2914,12 @@
         "date": "10/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "20",
-        "tree_location": "side of house",
-        "reason_removal": "Diseased",
-        "tree_description": "These three pine trees have been infected with bark beetles. One of them is currently dead and the others have begun to drop big branches. Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):20Tree location:side of houseDescription of Tree: These three pine trees have been infected with bark beetles. One of them is currently dead and the others have begun to drop big branches. Reason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):20Tree location:side of houseDescription of Tree:These three pine trees have been infected with bark beetles. One of them is currently dead and the others have begun to drop big branches. Reason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01040002123 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3058,12 +3058,12 @@
         "date": "10/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "25",
-        "tree_location": "Back center of the property",
-        "reason_removal": "Diseased",
-        "tree_description": "Significant Canopy declineReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):28Tree location:Back center of the propertyDescription of Tree:Fusiform Canker on the lower trunkReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:3Species:Leyland CypressTree Size (DBH):15Tree location:Near the left rear corner of the houseDescription of Tree:Seiridium CankerReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:4Species:Leyland CypressTree Size (DBH):16Tree location:Left rear corner of the HouseDescription of Tree:Seiridium CankerReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:5Species:Leyland CypressTree Size (DBH):16Tree location:Left rear corner of the houseDescription of Tree:seiridium CankerReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:6Species:Leyland CypressTree Size (DBH):15Tree location:Left Rear corner of the houseDescription of Tree:seiridium CankerReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T17 0117  LL004 01 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hickory"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3106,12 +3106,12 @@
         "date": "10/02/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "30",
-        "tree_location": "back yard left",
-        "reason_removal": "Other",
-        "tree_description": "Picture of treeReason for Removal:OtherComments: in major decline with dead tips throughout canopy.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0115  LL057 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Poplar"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3129,13 +3129,13 @@
         "status": "Accepted",
         "date": "10/02/2026",
         "description": null,
-        "owner": "LOWMAN ROBIN P",
-        "tree_dbh": "34",
-        "tree_location": "front yard",
-        "reason_removal": "Diseased",
-        "tree_description": "diseased pecan with decay on stem and cavities in canopyReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01210006105 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3153,13 +3153,13 @@
         "status": "Accepted",
         "date": "10/02/2026",
         "description": null,
-        "owner": "Sam Huntley",
-        "tree_dbh": "8",
-        "tree_location": "Right side backyard",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "UndesirableReason for Removal:Invasive/undesirable treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:2Species:MulberryTree Size (DBH):12Tree location:Right side backyardDescription of Tree:UndesirableReason for Removal:Invasive/undesirable treeComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 203 04 100 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3177,13 +3177,13 @@
         "status": "ACA Pending",
         "date": "10/02/2026",
         "description": null,
-        "owner": "Max Boydston",
-        "tree_dbh": "29",
-        "tree_location": "Back right",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Co-dominate union with included bark, some decay at base of tree, prior large limb removal at trunk left poor compartmentalization with decay in trunkReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 203 04 077 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Water Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
