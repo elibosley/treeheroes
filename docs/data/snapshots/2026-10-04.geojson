@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605139",
+        "address": "804 DIXIE AVE NE, ATLANTA GA 30307",
+        "status": "ACA Pending",
+        "date": "10/04/2026",
+        "description": null,
+        "owner": "Lisa M Bonet",
+        "tree_dbh": "46",
+        "tree_location": "left side of the paring lot near dumpsters",
+        "reason_removal": "Dead tree",
+        "tree_description": "tree is a 46\" oak that has dropped limbs during the last few storms. Reason for Removal:OtherComments:customer states the tree is too close to the building and would like to have it removed due to roots potentially going under the foundation and a few limbs have fallen during the last few storms.\n\t\t\n\t\t\n\t\t\tTree number:1Species:unknownTree Size (DBH):12Tree location:left side of the paring lot near dumpstersDescription of Tree:dead tree near dumpsterReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00190015007 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.361315937585,
+          33.756774671658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605138",
+        "address": "1768 HELEN DR NE, ATLANTA GA 30306",
+        "status": "ACA Pending",
+        "date": "10/04/2026",
+        "description": null,
+        "owner": "SHEPPARD JEFFREY",
+        "tree_dbh": "14",
+        "tree_location": "south",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "very tall tree near driveway and fenceReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:black walnutTree Size (DBH):14Tree location:south westDescription of Tree:tree in rear of yard on the south west sideReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:CypressTree Size (DBH):18Tree location:North westDescription of Tree:Tree in the rear of the yard 3 feet from the foundation of my houseReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 056 01 039 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Cypress"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.339309184294,
+          33.801816477096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "26TMP-065353",
+        "address": "1054 CRANE RD NE, ATLANTA GA 30324",
+        "status": "",
+        "date": "10/04/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.354365867727,
+          33.839748637275
+        ]
+      }
+    }
+  ]
+}
