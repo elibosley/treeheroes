@@ -2050,12 +2050,12 @@
         "date": "10/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "20",
+        "tree_location": "behind carport",
+        "reason_removal": "Other",
+        "tree_description": "20\" Sweetgum, left side, owner feels tree is hazardousReason for Removal:OtherComments:20\" Sweetgum, left side, owner feels tree is hazardous\n\t\t\n\t\t\n\t\t\tTree number:2Species:PoplarTree Size (DBH):25Tree location:behind carportDescription of Tree:25\" Poplar, behind carport, owner feels tree is hazardousReason for Removal:OtherComments:25\" Poplar, behind carport, owner feels tree is hazardous\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00140004054 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "ROSENBERG CRAIG",
+        "tree_dbh": "36",
+        "tree_location": "Backyard",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Post Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2217,13 +2217,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "DIX GWENDOLYN L",
+        "tree_dbh": "30",
+        "tree_location": "left side of home",
+        "reason_removal": "Other",
+        "tree_description": "30\" Beech, half of canopy split off and crashed down on deck and home, tree is damaged and hazardous, located in backyardReason for Removal:OtherComments:30\" Beech, half of canopy split off and crashed down on deck and home, tree is damaged and hazardous, located in backyard\n\t\t\n\t\t\n\t\t\tTree number:2Species:OakTree Size (DBH):35Tree location:left side of homeDescription of Tree:35\" Oak, left side of home, located less than 5 ft from foundation, canopy diebackReason for Removal:OtherComments:35\" Oak, left side of home, located less than 5 ft from foundation, canopy dieback\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01370001078 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Beech"
       },
       "geometry": {
         "type": "Point",
@@ -2290,12 +2290,12 @@
         "date": "10/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "6",
+        "tree_location": "Backyard",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Termites have eaten a chunk out of the tree, it is leaning and dangerous.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01150011062 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2313,13 +2313,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "TAYLOR BRIAN",
+        "tree_dbh": "47",
+        "tree_location": "front yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "Dying with Hypoxylon canker,\nlarge limb failure, overhanging power line and streetReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 212 03 087 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "water oak"
       },
       "geometry": {
         "type": "Point",
@@ -2337,13 +2337,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "RIVERS GERALDINE P",
+        "tree_dbh": "37",
+        "tree_location": "front yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "tree was hit by lightning bathing it on fire & now has a crack on trunk Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01520011071 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -2361,13 +2361,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "DE DEYN CAREY P",
+        "tree_dbh": "16",
+        "tree_location": "Right Side of Driveway",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Fir"
       },
       "geometry": {
         "type": "Point",
@@ -2385,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Adriana Maria Lopez",
+        "tree_dbh": "18",
+        "tree_location": "Front of house and street",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "They are bending and in front of the home and street. Branches are falling in the home and street when it rains. I am afraid that they will fall soon and damage the home or injure bystandersReason for Removal:Invasive/undesirable treeComments:They are bending and in front of the home and street. Branches are falling in the home and street when it rains. I am afraid that they will fall soon and damage the home or injure bystanders\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02200003003 *Block:--Lot:--Subdivision:--",
+        "tree_number": "5",
+        "species": "Pines"
       },
       "geometry": {
         "type": "Point",
@@ -2409,13 +2409,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "PAUGH STEVEN W",
+        "tree_dbh": "20",
+        "tree_location": "Front of Bldg. 101",
+        "reason_removal": "Other",
+        "tree_description": "Front of building, impacting foundation. Wall and walkway to be rebuilt.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:1Species:Cherry LaurelTree Size (DBH):15Tree location:Front of Bldg. 101Description of Tree:Tree is impacting building; within inches of foundation.Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01090016025 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Magnolia"
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2433,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "CLAYTON DONNA K",
+        "tree_dbh": "15",
+        "tree_location": "Backyard",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Black Cherry"
       },
       "geometry": {
         "type": "Point",
@@ -2458,12 +2458,12 @@
         "date": "10/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "20",
+        "tree_location": "Lower rear yard on left side in pinestraw garden, flanked by 2 other trees",
+        "reason_removal": "Dying tree",
+        "tree_description": "Leaking sap/some material at base; dead branches at top.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01440001043 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Poplar"
       },
       "geometry": {
         "type": "Point",
@@ -2506,12 +2506,12 @@
         "date": "10/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "9",
-        "tree_location": "back right of house",
-        "reason_removal": "Dying tree",
-        "tree_description": "9\" Elm, Dead, back right of house, *Please contact homeowner for inspection-locked gate-dog on premises- Kathy Bird @ 404-388-7971Reason for Removal:Dead treeComments:9\" Elm, Dead, back right of house, *Please contact homeowner for inspection-locked gate-dog on premises- Kathy Bird @ 404-388-7971\n\t\t\n\t\t\n\t\t\tTree number:2Species:Water OakTree Size (DBH):28Tree location:right side of homeDescription of Tree:28\" WaterOak, right side of home, in Decline, Cavity at base, Lg diameter dead wood in canopy, Level 3 done by Peter JenkinsReason for Removal:Dying treeComments:*Please contact homeowner for inspection- Locked gate and dog on premises- Kathy Bird @ 404-388-7971\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01550004016 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Elm"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2673,13 +2673,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": "ROUNDMAN ENTERPRISES INC",
-        "tree_dbh": "14",
-        "tree_location": "Front right side",
-        "reason_removal": "Dying tree",
-        "tree_description": "Tree has been topped for utility lines, no central leader exists, decay present in the pruned limbsReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01510005020 *Block:--Lot:--Subdivision:--",
-        "tree_number": "441",
-        "species": "Red Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2961,13 +2961,13 @@
         "status": "ACA Pending",
         "date": "10/06/2026",
         "description": null,
-        "owner": "HABITAT FOR HUMANITY IN ATLANT",
-        "tree_dbh": "37",
-        "tree_location": "frt near road left of driveway",
-        "reason_removal": "Other",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "water oak"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
