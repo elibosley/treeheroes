@@ -2553,13 +2553,13 @@
         "status": "ACA Pending",
         "date": "10/07/2026",
         "description": null,
-        "owner": "David Cofrin",
-        "tree_dbh": "23",
-        "tree_location": "Back right",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Undesirable",
-        "tree_number": "1",
-        "species": "Privet"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2841,13 +2841,13 @@
         "status": "ACA Pending",
         "date": "10/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "STRICKLAND ALENE W",
+        "tree_dbh": "39",
+        "tree_location": "back of house",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "*** Remove 39-inch DBH Red Oak — Immediate Removal Recommended",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -2865,13 +2865,13 @@
         "status": "ACA Pending",
         "date": "10/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Annie Cook",
+        "tree_dbh": "13",
+        "tree_location": "Back of the house on the right.",
+        "reason_removal": "Dead tree",
+        "tree_description": "Uprooted oak being held up by another tree.Reason for Removal:Dead treeComments:Marked with red tape\n\t\t\n\t\t\n\t\t\tTree number:2Species:oakTree Size (DBH):17Tree location:Back of the house on the right.Description of Tree:dead tree with decay on the base and rot.Reason for Removal:Dead treeComments:marked with red tape\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01440004075 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -2889,13 +2889,13 @@
         "status": "ACA Pending",
         "date": "10/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "BAZZLE KENNETH L",
+        "tree_dbh": "32",
+        "tree_location": "front yard center",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "32\" diameter loblolly pine at front yard center with canker on main stem approximately 45-50 feet above ground level. Photos have been provided from an aerial inspection of the tree.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01130007006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2914,12 +2914,12 @@
         "date": "10/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "100",
+        "tree_location": "right side yard",
+        "reason_removal": "Dying tree",
+        "tree_description": "large sweet gum treesReason for Removal:Dying treeComments:4 trees are dying in detention pond\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00430004097 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "sweet gum"
       },
       "geometry": {
         "type": "Point",
@@ -2962,12 +2962,12 @@
         "date": "10/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "29",
+        "tree_location": "rear of house",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "the tree is split 1/3 up the 50' heightReason for Removal:Significant cavity/area of decayComments:the tree is split and it is dying and subject to wind blowing it into the home\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14F00070003012 *Block:--Lot:--Subdivision:--",
+        "tree_number": "39",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -2985,13 +2985,13 @@
         "status": "ACA Pending",
         "date": "10/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "INLAND AMERICAN ST PORTFOLIO I",
+        "tree_dbh": "18",
+        "tree_location": "Right side of building",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree is in complete declineReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01050003062 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Maple"
       },
       "geometry": {
         "type": "Point",
@@ -3058,12 +3058,12 @@
         "date": "10/07/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "44",
+        "tree_location": "back left corner of property",
+        "reason_removal": "Other",
+        "tree_description": "leaning treeReason for Removal:OtherComments:the tree leans towards the house really bad with a slight upheaval on back side.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0178  LL127 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "poplar"
       },
       "geometry": {
         "type": "Point",
@@ -3105,13 +3105,13 @@
         "status": "ACA Pending",
         "date": "10/07/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Amy Parker",
+        "tree_dbh": "20",
+        "tree_location": "between the two houses at the end of the driveway",
+        "reason_removal": "Other",
+        "tree_description": "Dangerous treeReason for Removal:OtherComments:Dangerous tree that could affect powerlines in the future since it is over the powerlines\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00210001053 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
