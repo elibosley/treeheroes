@@ -2913,13 +2913,13 @@
         "status": "ACA Pending",
         "date": "10/08/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "BAILEY MICHAELA",
+        "tree_dbh": "0",
+        "tree_location": "Front Yard",
+        "reason_removal": "Dying tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "4",
+        "species": "PINE"
       },
       "geometry": {
         "type": "Point",
@@ -3129,13 +3129,13 @@
         "status": "Accepted",
         "date": "10/08/2026",
         "description": null,
-        "owner": "BOYDSTON ANNE E",
-        "tree_dbh": "20",
-        "tree_location": "Front Left",
-        "reason_removal": "Dying tree",
-        "tree_description": "Significant dieback Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00100003031 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Cherry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3177,13 +3177,13 @@
         "status": "ACA Pending",
         "date": "10/08/2026",
         "description": null,
-        "owner": "CDSI INV INC",
-        "tree_dbh": "25",
-        "tree_location": "behind house near storage shed",
-        "reason_removal": "Other",
-        "tree_description": "25\" Pine, behind house near storage shed, causing damage to retaining wall and storage shed foundationReason for Removal:OtherComments:25\" Pine, behind house near storage shed, causing damage to retaining wall and storage shed foundation\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00490005008 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3201,13 +3201,13 @@
         "status": "ACA Pending",
         "date": "10/08/2026",
         "description": null,
-        "owner": "Irish Benson",
-        "tree_dbh": "40",
-        "tree_location": "Front",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Large cavity in trunkReason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:BeechTree Size (DBH):52Tree location:Rear left corner of houseDescription of Tree:Large cavity in trunkReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01470013039 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Beech"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3225,13 +3225,13 @@
         "status": "ACA Pending",
         "date": "10/08/2026",
         "description": null,
-        "owner": "BROAD FIELDS INC",
-        "tree_dbh": "22",
-        "tree_location": "right side of home",
-        "reason_removal": "Dead tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "hardwood"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -3244,9 +3244,9 @@
     {
       "type": "Feature",
       "properties": {
-        "record": "26TMP-066563",
-        "address": "2500 Caladium, United States",
-        "status": null,
+        "record": "BA-202605273",
+        "address": "575 JONES AVE NW, ATLANTA GA 30314",
+        "status": "ACA Pending",
         "date": "10/08/2026",
         "description": null,
         "owner": null,
@@ -3256,60 +3256,12 @@
         "tree_description": null,
         "tree_number": null,
         "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.274277461368,
-          33.858574758985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202605273",
-        "address": "575 JONES AVE NW, ATLANTA GA 30314",
-        "status": "ACA Pending",
-        "date": "10/08/2026",
-        "description": null,
-        "owner": "EDMONDSON ARRIE",
-        "tree_dbh": "33",
-        "tree_location": "corner",
-        "reason_removal": "Dead tree",
-        "tree_description": "leaning and root system will be disturbed by construction next doorReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:red oak Tree Size (DBH):38Tree location:middle of lot on sideDescription of Tree:leaning and root system will be disturbed by construction next doorReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:3Species:hardwoodTree Size (DBH):24.5Tree location:corner Description of Tree:deadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00820008028 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "red oak"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           -84.40626487066,
           33.764315858767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "26TMP-066670",
-        "address": "2500 Caladium, United States",
-        "status": null,
-        "date": "10/08/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.274277461368,
-          33.858574758985
         ]
       }
     },
@@ -3537,13 +3489,13 @@
         "status": "ACA Pending",
         "date": "10/08/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "VANDIVER JEFFREY",
+        "tree_dbh": "23",
+        "tree_location": "Right side of backyard",
+        "reason_removal": "Other",
+        "tree_description": "Tree has been dropping branches and damaging neighbors property and a branch has fallen and hit their dogReason for Removal:OtherComments:Tree has been dropping branches and damaging neighbors property and a branch has fallen and hit their dog. Neighbor is very concerned about the tree continuing to damage their property.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00110012029 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pecan"
       },
       "geometry": {
         "type": "Point",
