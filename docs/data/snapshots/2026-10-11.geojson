@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605314",
+        "address": "143 BLACKLAND RD NW, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "10/11/2026",
+        "description": null,
+        "owner": "ELIZABETH UTT REVOCABLE TRUST",
+        "tree_dbh": "35",
+        "tree_location": "REAR",
+        "reason_removal": "Dying tree",
+        "tree_description": "PINE WITH ROOT ROT & CANKERReason for Removal:Dying treeComments:DEAD LIMBS FALLING FROM TREE. PREVIOUSLY STRUCK BY LIGHTENING.",
+        "tree_number": "1",
+        "species": "PINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.391362399959,
+          33.858938998244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605313",
+        "address": "643 MARTIN L KING JR DR NW, ATLANTA GA 30314",
+        "status": "ACA Pending",
+        "date": "10/11/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.408822657971,
+          33.754757860907
+        ]
+      }
+    }
+  ]
+}
