@@ -1858,12 +1858,12 @@
         "date": "10/15/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "36",
-        "tree_location": "back yard",
-        "reason_removal": "Other",
-        "tree_description": "this large pecan tree can be found located next to the porch in the back yard right sideReason for Removal:OtherComments:the homeowner is very concerned about this tree being hazardous to his home as it is overhanging over the deck and rightt side of the home \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100006004 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "pecan"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2169,13 +2169,13 @@
         "status": "ACA Pending",
         "date": "10/15/2026",
         "description": null,
-        "owner": "Chuck Demars",
-        "tree_dbh": "11",
-        "tree_location": "Left side of driveway",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead treeComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00540002055 *Block:--Lot:BSubdivision:SD-03-054",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "10/15/2026",
         "description": null,
-        "owner": "Todd Brunsvold",
-        "tree_dbh": "12",
-        "tree_location": "Left rear",
-        "reason_removal": "Dying tree",
-        "tree_description": "Remove the mature oak tree due to its pronounced lean toward the adjacent patio and residential structures. The tree exhibits visible fungal growth at the base, which may indicate internal wood decay or root system deterioration. The trunk has a significant lean, and the large, extended lateral limbs overhang the patio and nearby structures, presenting a potential risk of limb or tree failure and property damage. Removal is recommended to address the potential hazard and protect surrounding structures and outdoor living areas.Reason for Removal:Dying treeComments:Also a hazard.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00140010011 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2217,13 +2217,13 @@
         "status": "ACA Pending",
         "date": "10/15/2026",
         "description": null,
-        "owner": "Brandon Tai",
-        "tree_dbh": "11",
-        "tree_location": "Right side of backyard",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead treeComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:Chinese PrivetTree Size (DBH):8Tree location:Right side of backyardDescription of Tree:DeadReason for Removal:Dead treeComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 055 01 033 *Block:--Lot:--Subdivision:UNIVERSITY DRIVE ANNEXATION",
-        "tree_number": "1",
-        "species": "Chinese Privet"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2265,13 +2265,13 @@
         "status": "ACA Pending",
         "date": "10/15/2026",
         "description": null,
-        "owner": "SABO AMY J",
-        "tree_dbh": "15",
-        "tree_location": "Backyard behind the fence",
-        "reason_removal": "Other",
-        "tree_description": "The mature oak tree exhibits an asymmetrical canopy with lateral branch growth extending toward the adjacent residence and roofline. The tree's proximity to the structure presents a potential risk of property damage.Reason for Removal:OtherComments:Hazardous\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):15.3Tree location:Backyard behind the fenceDescription of Tree:Remove the mature pine tree located along the rear property line near the wooden fence. Due to its size and proximity to the fence and surrounding property, removal is requested to address potential safety concerns and reduce the risk of property damage.Reason for Removal:OtherComments:Hazardous\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0042  LL069 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
