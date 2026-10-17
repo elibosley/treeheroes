@@ -2505,13 +2505,13 @@
         "status": "ACA Pending",
         "date": "10/16/2026",
         "description": null,
-        "owner": "BURGE CHARLES DANIEL TR",
-        "tree_dbh": "22",
-        "tree_location": "along street frontage near powerlines",
-        "reason_removal": "Dead tree",
-        "tree_description": "22\" Pine, Dead, along street frontage near powerlinesReason for Removal:Dead treeComments:22\" Pine, Dead, along street frontage near powerlines\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01390004015 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "PIne"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2529,13 +2529,13 @@
         "status": "ACA Pending",
         "date": "10/16/2026",
         "description": null,
-        "owner": "Brian Guffey",
-        "tree_dbh": "20",
-        "tree_location": "Unit 1601 Front Left",
-        "reason_removal": "Dead tree",
-        "tree_description": "on the bank behind the fence leaning towards driveway of 1702Reason for Removal:Uncorrectable defectComments:Tree is leaning badly on the hill side.  Concerned it will fall on driveway, cars and homes.  \n\t\t\n\t\t\n\t\t\tTree number:2Species:Red Maple (Acer Rubrum)Tree Size (DBH):15.5Tree location:Unit 1601 Front LeftDescription of Tree:front left of unit 1601.  Reason for Removal:Dying treeComments:Half of the canopy is dead roots heavily compacted\n\t\t\n\t\t\n\t\t\tTree number:3Species:Red Maple (Acer Rubrum)Tree Size (DBH):24Tree location:1402 Front Description of Tree:Located in front of unit 1402Reason for Removal:Dying treeComments:Massive cavities in along the trunk and leads.  A lot of the canopy is dead.\n\t\t\n\t\t\n\t\t\tTree number:4Species:Red Maple (Acer Rubrum)Tree Size (DBH):17Tree location:1201 FrontDescription of Tree:Unit 1201 front leftReason for Removal:Dying treeComments:There is a large mechanical wound at the root flare and a lot of dead wood.\n\t\t\n\t\t\n\t\t\tTree number:5Species:Loblolly Pines (Pinus Taeda)Tree Size (DBH):20Tree location:Right side of Unit 102Description of Tree:Leaning pine located to left of unit 102 on hill near entrance and Armand rd - Leaning toward power line on ArmandReason for Removal:Significant cavity/area of decayComments:Dangerous lean toward power line and active public street - has rot at the base and a cavity that you can put your arm into.  \n\t\t\n\t\t\n\t\t\tTree number:6Species:Loblolly PineTree Size (DBH):22Tree location:Unit 102 - Right side on hillDescription of Tree:Leaning tree on right side of Unit 102 on hill near entrance and Armand Rd Reason for Removal:Uncorrectable defectComments:Various stages of rot from prior injuries and around the root flare.  Leaning toward home\n\t\t\n\t\t\n\t\t\tTree number:7Species:Black Cherry (Prunis seratina)Tree Size (DBH):10Tree location:Unit 902 - Back patioDescription of Tree:dead black cherry tree Reason for Removal:Dead treeComments:Tree is dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00490008015 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Silver Maple (Acer Saccharium)"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2553,13 +2553,13 @@
         "status": "ACA Pending",
         "date": "10/16/2026",
         "description": null,
-        "owner": "GILPIN CARLA E",
-        "tree_dbh": "21",
-        "tree_location": "see map",
-        "reason_removal": "Uncorrectable defect",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "2",
-        "species": "black cherry q"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
