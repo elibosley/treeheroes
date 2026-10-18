@@ -28,54 +28,6 @@
     {
       "type": "Feature",
       "properties": {
-        "record": "BA-202605314",
-        "address": "143 BLACKLAND RD NW, ATLANTA GA 30342",
-        "status": "ACA Pending",
-        "date": "10/11/2026",
-        "description": null,
-        "owner": "ELIZABETH UTT REVOCABLE TRUST",
-        "tree_dbh": "35",
-        "tree_location": "REAR",
-        "reason_removal": "Dying tree",
-        "tree_description": "PINE WITH ROOT ROT & CANKERReason for Removal:Dying treeComments:DEAD LIMBS FALLING FROM TREE. PREVIOUSLY STRUCK BY LIGHTENING.",
-        "tree_number": "1",
-        "species": "PINE"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.391362399959,
-          33.858938998244
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202605313",
-        "address": "643 MARTIN L KING JR DR NW, ATLANTA GA 30314",
-        "status": "ACA Pending",
-        "date": "10/11/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.408822657971,
-          33.754757860907
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "record": "BA-202605317",
         "address": "4000 NORTH IVY RD NE, ATLANTA GA 30342",
         "status": "Issued",
@@ -2782,6 +2734,222 @@
         "coordinates": [
           -84.361143753587,
           33.736169899661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605451",
+        "address": "19 SARATOGA PL NE, ATLANTA GA 30324",
+        "status": "ACA Pending",
+        "date": "10/17/2026",
+        "description": null,
+        "owner": "Jennifer Damis",
+        "tree_dbh": "10",
+        "tree_location": "Shady Valley Road",
+        "reason_removal": "Other",
+        "tree_description": "On Shady Valley Road, and appears to be a hazard. Other leaning trees have fell in the neighborhood.Reason for Removal:OtherComments:The tree is leaning a lot towards the main road to the neighborhood and looks dead and a hazard concern\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00070006025 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "unknown"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35075888266,
+          33.827427105958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "26TMP-068617",
+        "address": "969 DELAWARE AVE SE, ATLANTA GA 30316",
+        "status": null,
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.356015343834,
+          33.731155531354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605446",
+        "address": "967 VICTORY DR SW, ATLANTA GA 30310",
+        "status": "ACA Pending",
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.419829102631,
+          33.707767805456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "26TMP-068638",
+        "address": "1380 GLENWOOD AVE SE, ATLANTA GA 30316",
+        "status": null,
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.342339221538,
+          33.740195096464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605452",
+        "address": "575 BLAKE AVE SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.33945953213,
+          33.738384388403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605447",
+        "address": "4222 RICKENBACKER DR NE, 7, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.379450465367,
+          33.869848781951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605450",
+        "address": "742 GREENVIEW AVE NE, ATLANTA GA 30305",
+        "status": "ACA Pending",
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.363400021876,
+          33.837732751148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605448",
+        "address": "257 CHASTAIN COMMONS NW, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.395075218796,
+          33.871392717104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605449",
+        "address": "257 CHASTAIN COMMONS NW, ATLANTA GA 30342",
+        "status": "ACA Pending",
+        "date": "10/17/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.395075218796,
+          33.871392717104
         ]
       }
     }
