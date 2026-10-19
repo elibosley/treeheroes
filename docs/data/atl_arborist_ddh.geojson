@@ -2577,13 +2577,13 @@
         "status": "ACA Pending",
         "date": "10/18/2026",
         "description": null,
-        "owner": "Tommy Ellis",
-        "tree_dbh": "35",
-        "tree_location": "backyard on right, near house",
-        "reason_removal": "Dying tree",
-        "tree_description": "Red tapeReason for Removal:Dying treeComments:The white oak got hit by lightning, has slime flux, and has a depleted crown.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01860003166 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "white oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2602,12 +2602,12 @@
         "date": "10/18/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "15",
-        "tree_location": "Front yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "Boulevard TreeReason for Removal:Dying treeComments:Confirmed by 2 different yard specialist and told hazard with limbs falling\n\t\t\n\t\t\n\t\t\tTree number:2Species:Silver queen mapleTree Size (DBH):15Tree location:Front yardDescription of Tree:Boulevard treeReason for Removal:Dying treeComments:Dying tree with falling branches. Fungus on both trees\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0042  LL092 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Silver queen maple"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2625,13 +2625,13 @@
         "status": "ACA Pending",
         "date": "10/18/2026",
         "description": null,
-        "owner": "carl fair",
-        "tree_dbh": "12",
-        "tree_location": "LEFT OF HOUSE",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "INVASIVEReason for Removal:Invasive/undesirable tree\n\t\t\n\t\t\n\t\t\tTree number:36Species:HICKORYTree Size (DBH):28Tree location:LEFT OF HOUSEDescription of Tree:WISTERIAReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:37Species:WHITE PINETree Size (DBH):18Tree location:LEFT OF HOUSEDescription of Tree:WISTERIAReason for Removal:Diseased\n\t\t\n\t\t\n\t\t\tTree number:40Species:OAKTree Size (DBH):15Tree location:REAR RIGHT SIDEDescription of Tree:HEAVY LEAN MORE THAN 80% OF MASS MORE THAN 20 FEET OFF CENTERReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0178  LL120 *Block:--Lot:--Subdivision:--",
-        "tree_number": "33",
-        "species": "BRADFORD PEAR"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2649,13 +2649,13 @@
         "status": "ACA Pending",
         "date": "10/18/2026",
         "description": null,
-        "owner": "Retrice Walker",
-        "tree_dbh": "18",
-        "tree_location": "Front yard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Very tall pine with long bare trunk and too heavy. Bludgeoned near the top of the tree. Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:Pine Tree Size (DBH):18Tree location:BackyardDescription of Tree:Very tall pine with a long bear trunk heavy Ivy covers the trunk so the bark and base can’t be inspected.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):24Tree location:BackyardDescription of Tree:Very tall pine with a long bear trunk and the crown high up causing it to be top heavy with ivy growing on it. Reason for Removal:OtherComments:This tree is tall enough to reach my home if it falls Very concerned about wind and saturated soil affect on tree. \n\t\t\n\t\t\n\t\t\tTree number:4Species:Pine Tree Size (DBH):24Tree location:BackyardDescription of Tree:A very tall pine with the long bear trunk and the crown high up it is also top-heavy.Reason for Removal:OtherComments:This tree is also tall enough to reach my home if it falls. I’m concerned about wind and saturated sore affect on this tree.\n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):18Tree location:BackyardDescription of Tree:A very tall pan with a long bear trunk it is also top-heavy and covered with heavy Ivy.Reason for Removal:Significant cavity/area of decayComments:This tree has possible decay or damaged because of the heavy ivy.\n\t\t\n\t\t\n\t\t\tTree number:6Species:PineTree Size (DBH):24Tree location:BackyardDescription of Tree:A very tall pine with a long bear trunk and the crown high up, which makes it top heavy.Reason for Removal:OtherComments:This tree is tall enough to reach my home if it falls. I am very concerned about how wind and saturated soil will affect the tree. \n\t\t\n\t\t\n\t\t\tTree number:7Species:PineTree Size (DBH):24Tree location:BackyardDescription of Tree:A very tall pine with a long bear trunk and the crown high up it is also very top heavy with lichen on the bark. Reason for Removal:DiseasedComments:This tree is tall enough to reach my home if it falls I am very concerned about how win and saturated soil affects this tree.\n\t\t\n\t\t\n\t\t\tTree number:8Species:Pine Tree Size (DBH):16Tree location:Front yard Description of Tree:A very tall pan with a long bear trunk and branches only at the top.Reason for Removal:OtherComments:This tree stands next to the driveway where I park. It drops many branches onto my and the utility lines run close behind it. \n\t\t\n\t\t\n\t\t\tTree number:9Species:Hardwood Tree Size (DBH):34Tree location:Left side of house Description of Tree:Many limbs have already dropped onto my roof or have been removed from this tree. Reason for Removal:Invasive/undesirable treeComments:I am afraid Moore limbs will fall onto my home or my neighbors home.\n\t\t\n\t\t\n\t\t\tTree number:10Species:PineTree Size (DBH):18Tree location:Front yardDescription of Tree:A very tall pine tree with long bare trunks. Reason for Removal:Invasive/undesirable treeComments:A tall tree from this area recently fell onto my neighbor’s house. This tree stands very close to that same spot and close enough to reach both of our homes.\n\t\t\n\t\t\n\t\t\tTree number:11Species:PineTree Size (DBH):18Tree location:Front yardDescription of Tree:Another very tall pine with long bear trunks, and weight At the top. It also has lichens. It stands very close and leans towards my neighbors house and and could reach if it was to fall. Reason for Removal:Uncorrectable defectComments:A tall tree from this area recently fell onto my neighbors house and put a large hole in his roof. This tree also stands and leans in the same area and it’s tall enough to reach his house.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 02340002036 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
