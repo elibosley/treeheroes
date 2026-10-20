@@ -2097,13 +2097,13 @@
         "status": "Accepted",
         "date": "10/19/2026",
         "description": null,
-        "owner": "CMA Paces West",
-        "tree_dbh": "16",
-        "tree_location": "Front left of #65 off main road",
-        "reason_removal": "Dead tree",
-        "tree_description": "Dead and failing canopyReason for Removal:Dead treeComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01980004066 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "Accepted",
         "date": "10/19/2026",
         "description": null,
-        "owner": "BRENTWOOD APARTMENT OWNER LLC",
-        "tree_dbh": "17",
-        "tree_location": "behind house",
-        "reason_removal": "Dead tree",
-        "tree_description": "marked with yellow paintReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:hardwoodTree Size (DBH):34.38Tree location:behind houseDescription of Tree:marked with yellow paintReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01670004012 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hardwood"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2289,13 +2289,13 @@
         "status": "Accepted",
         "date": "10/19/2026",
         "description": null,
-        "owner": "Liam Homes",
-        "tree_dbh": "6",
-        "tree_location": "Front",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "overgrown stump sprout with decay at the base and trunk and previous improper pruningReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:DogwoodTree Size (DBH):8Tree location:FrontDescription of Tree:We were going to apply for a permit due to decay at the base and a hollow trunk. The tree was recently cut down not by the homeowner. It looks like vandalism. trunk was left at the stump and the brush was left on the driveway.Reason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 239 02 119 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Fig"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2313,13 +2313,13 @@
         "status": "Accepted",
         "date": "10/19/2026",
         "description": null,
-        "owner": "FITZSIMMONS SEAN T",
-        "tree_dbh": "16",
-        "tree_location": "Front Yard",
-        "reason_removal": "Diseased",
-        "tree_description": "Maple tree, located on the front yard center. Contains a DBH of 16.5in. The tree base is discolored and alongside the trunk it contains cankers. There is discoloration on the trunk. Reason for Removal:DiseasedComments:Dying\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01540003030 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Maple"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2362,12 +2362,12 @@
         "date": "10/19/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "20",
+        "tree_location": "front right building by fence",
+        "reason_removal": "Other",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "0",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
