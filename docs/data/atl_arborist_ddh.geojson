@@ -2169,13 +2169,13 @@
         "status": "ACA Pending",
         "date": "10/20/2026",
         "description": null,
-        "owner": "TAYLOR CRAIG OR TAYLOR LAUREN",
-        "tree_dbh": "22",
-        "tree_location": "front yard",
-        "reason_removal": "Other",
-        "tree_description": "22\" Pine, front yard, LeaningReason for Removal:OtherComments:22\" Pine, front yard, Leaning\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 056 04 007 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2481,13 +2481,13 @@
         "status": "Accepted",
         "date": "10/20/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Andrew Weiler",
+        "tree_dbh": "38",
+        "tree_location": "Back right",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Decay through 1/2 the base of the tree and tip dieback in canopyReason for Removal:Significant cavity/area of decayComments:Pink ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00880003048 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White Oak"
       },
       "geometry": {
         "type": "Point",
