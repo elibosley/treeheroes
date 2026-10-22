@@ -2146,12 +2146,12 @@
         "date": "10/21/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "32",
+        "tree_location": "back corner lot",
+        "reason_removal": "Dying tree",
+        "tree_description": "Oak at back corner is diseased and dying and needs to be removed.Reason for Removal:Dying treeComments:Thank you in advance for your prompt attention to this matter.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01000003097 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2166,16 +2166,16 @@
       "properties": {
         "record": "BA-202605509",
         "address": "1167 CHATHAM AVE SW, ATLANTA GA 30311",
-        "status": "Accepted",
+        "status": "Issued",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Allen Williams",
+        "tree_dbh": "27",
+        "tree_location": "Left side of backyard",
+        "reason_removal": "Uncorrectable defect",
+        "tree_description": "Low LCR, high exposure to wind, close proximity to two houses, phototropic lean towards neighbor's houseReason for Removal:Uncorrectable defect\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01510005023 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "Accepted",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "DANIELS SARA",
+        "tree_dbh": "30",
+        "tree_location": "Backyard",
+        "reason_removal": "Diseased",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2217,13 +2217,13 @@
         "status": "Accepted",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Stephanie Barbosa",
+        "tree_dbh": "10",
+        "tree_location": "Front",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Facing home tree in the front yard closest to drivewayReason for Removal:DiseasedComments:Every time there is rain or wind large branches have been falling.\n\t\t\n\t\t\n\t\t\tTree number:2Species:Not sureTree Size (DBH):10Tree location:Rear of home to the rightDescription of Tree:Large tree to the right behind homeReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:Not sureTree Size (DBH):10Tree location:Rear of home, close to wooden fenceDescription of Tree:Large tree near fenceReason for Removal:Invasive/undesirable tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02300003085 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Not sure"
       },
       "geometry": {
         "type": "Point",
@@ -2241,13 +2241,13 @@
         "status": "ACA Pending",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "WRIGHT VIRGINIA T",
+        "tree_dbh": "27",
+        "tree_location": "back left",
+        "reason_removal": "Dying tree",
+        "tree_description": "27\" diameter loblolly pine growing in between fencing at back left. Pitch tubes visible on trunk and canopy decline in excess of 33%Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PINETree Size (DBH):23Tree location:back middleDescription of Tree:23\" diameter pine at rear middle of yard with pitch tubes visible on trunk and canopy decline in excess of 33% from bark beetle infestation.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):27Tree location:back rightDescription of Tree:27\" diameter pine tree at back right side with canopy decline in excess of 33% from bark beetle infestation.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01550002061 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -2265,13 +2265,13 @@
         "status": "Accepted",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SMALLMAN JOSEPH D",
+        "tree_dbh": "32",
+        "tree_location": "Left-hand side of driveway before you cross over the creek beside the parking pad",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Is a double trunk Sycamore tree that has a hole/rot at the baseReason for Removal:Significant cavity/area of decayComments:Has large spot of the Decay at the base see pictures\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00080006021 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Sycamore"
       },
       "geometry": {
         "type": "Point",
@@ -2332,6 +2332,30 @@
     {
       "type": "Feature",
       "properties": {
+        "record": "26TMP-069504",
+        "address": "3715 Peachtree Dunwoody, United States",
+        "status": null,
+        "date": "10/21/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.357944771195,
+          33.856474550774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "record": "BA-202605508",
         "address": "638 MORELAND AVE NE, ATLANTA GA 30307",
         "status": "Accepted",
@@ -2361,13 +2385,13 @@
         "status": "ACA Pending",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "MAYNARD LINDA OR MAYNARD STUART T JR",
+        "tree_dbh": "30",
+        "tree_location": "west backyard",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
@@ -2385,13 +2409,13 @@
         "status": "Accepted",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MORRISON JOHN L",
+        "tree_dbh": "50",
+        "tree_location": "front right of property at gate",
+        "reason_removal": "Dead tree",
+        "tree_description": "Picture of treeReason for Removal:Dead treeComments:- DDH, mushrooms present at base on tension side of tree \n- pockets of decay in upper trunk \n- root plate severely overtaking curb and driveway \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 242 01 050 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2433,13 +2457,13 @@
         "status": "Accepted",
         "date": "10/21/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SCHACHNER ELIZABETH M",
+        "tree_dbh": "44",
+        "tree_location": "far back right",
+        "reason_removal": "Dead tree",
+        "tree_description": "44\" White Oak, by main door, visible root rot fungus, Level 3 risk assessment also attachedReason for Removal:OtherComments:44\" White Oak, by main door, visible root rot fungus, Level 3 risk assessment also attached\n\t\t\n\t\t\n\t\t\tTree number:1Species:PineTree Size (DBH):29Tree location:far back rightDescription of Tree:29\" Pine, Dead, Beetles, far back rightReason for Removal:Dead treeComments:29\" Pine, Dead, Beetles, far back right\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01100002006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
