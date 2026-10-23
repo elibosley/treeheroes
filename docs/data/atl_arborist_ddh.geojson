@@ -2170,12 +2170,12 @@
         "date": "10/22/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "tree_dbh": "20",
+        "tree_location": "In the backyard",
+        "reason_removal": "Dead tree",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "Hickory"
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "10/22/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "KING WILLIAM P MARSHALL SHANA A",
+        "tree_dbh": "34",
+        "tree_location": "Rear left",
+        "reason_removal": "Dying tree",
+        "tree_description": "Large dying oakReason for Removal:Dying treeComments:Tree dropped half top, significant rotting rear side of trunk along with root rot.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00480008031 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2313,13 +2313,13 @@
         "status": "ACA Pending",
         "date": "10/22/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "RAYMAN ASSOCIATES BUCKHEAD LLC",
+        "tree_dbh": "22",
+        "tree_location": "Rear Gate",
+        "reason_removal": "Dying tree",
+        "tree_description": "50% crown lossReason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Willow Oak Tree Size (DBH):22Tree location:Rear GateDescription of Tree:50% Crown lossReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0048  LL059 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Willow Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2337,13 +2337,13 @@
         "status": "ACA Pending",
         "date": "10/22/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Terre Gardens",
+        "tree_dbh": "32",
+        "tree_location": "Rear",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "Decay at baseReason for Removal:Significant cavity/area of decayComments:Orange dot\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0117  LL023 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2409,13 +2409,13 @@
         "status": "ACA Pending",
         "date": "10/22/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Vincent Fitch",
+        "tree_dbh": "23",
+        "tree_location": "Right rear",
+        "reason_removal": "Dying tree",
+        "tree_description": "The oak tree is leaning over the dwelling and exhibits a thinning canopy with large cankers present at the base of the trunk. The client has expressed concern regarding the tree’s structural condition and the potential hazard it may pose to the residence.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PecanTree Size (DBH):19Tree location:BackyardDescription of Tree:Pecantree in the rear in decline close to fence.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 208 04 018 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2430,7 +2430,7 @@
       "properties": {
         "record": "BA-202605533",
         "address": "1763 MEADOWDALE AVE NE, ATLANTA GA 30306",
-        "status": "ACA Pending",
+        "status": "Issued",
         "date": "10/22/2026",
         "description": null,
         "owner": null,
