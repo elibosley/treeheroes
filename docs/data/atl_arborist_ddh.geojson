@@ -2457,13 +2457,13 @@
         "status": "Accepted",
         "date": "10/23/2026",
         "description": null,
-        "owner": "Susana L Skukalek",
-        "tree_dbh": "80",
-        "tree_location": "near front property line/walkway",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "marked with white XReason for Removal:Dying treeComments:My neighbor, Erin, alerted me to this situation.  It appears tree was struck by lightning.  Bark is peeling half way up tree.  Multiple limbs have fell onto her property. She is concerned about her safety.\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):82Tree location:Next to driveway/carportDescription of Tree:marked with white XReason for Removal:Significant cavity/area of decayComments:Large cats eye on trunk.  Concern it will fall under duress. Want city opinion.\n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):65Tree location:near front property line/walkwayDescription of Tree:marked with white XReason for Removal:OtherComments:significant lean towards main power lines. Less concerned for my property, but for roadway travelers and power lines. Desire city opinion for removal consideration.\n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):45Tree location:Near Tree #1, front left yardDescription of Tree:marked with white XReason for Removal:Significant cavity/area of decayComments:Tree has cats eye at base. Tree has significant lean. Desire city opinion on safety.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01860002011 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2601,13 +2601,13 @@
         "status": "Accepted",
         "date": "10/23/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MIMS KENNETH M",
+        "tree_dbh": "59",
+        "tree_location": "On slope behind fence",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "one leader column of decay at base with fungal fruiting bodies present. Larger leader has a 4' deep cavity at baseReason for Removal:Significant cavity/area of decayComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00170009096 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Red Oak"
       },
       "geometry": {
         "type": "Point",
@@ -2625,13 +2625,13 @@
         "status": "Accepted",
         "date": "10/23/2026",
         "description": null,
-        "owner": "C DENNIS GOLDMAN TRUSTEE",
-        "tree_dbh": "35",
-        "tree_location": "front yard",
-        "reason_removal": "Dead tree",
-        "tree_description": "Picture of treeReason for Removal:Dead treeComments:ead. Peeling bark and dropping limbs. Near (2) houses, driveway with parked cars, and electric utility lines\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01040005030 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "35"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2722,12 +2722,12 @@
         "date": "10/23/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "24",
+        "tree_location": "back right corner of property",
+        "reason_removal": "Dead tree",
+        "tree_description": "24\" Elm, back right corner of property, DeadReason for Removal:Dead treeComments:24\" Elm, back right corner of property, Dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01540006006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Elm"
       },
       "geometry": {
         "type": "Point",
