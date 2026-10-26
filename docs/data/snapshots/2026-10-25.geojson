@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605572",
+        "address": "89 WEATHERBY ST SE, ATLANTA GA 30316",
+        "status": "ACA Pending",
+        "date": "10/25/2026",
+        "description": null,
+        "owner": "Barbara Brockway",
+        "tree_dbh": "10",
+        "tree_location": "Front yard, next to sidewalk and neighbors driveway",
+        "reason_removal": "Dying tree",
+        "tree_description": "Co-dominant River Birch that is dyingReason for Removal:Dying treeComments:Large area of decay at base\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T14 00130006096 01 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "River Birch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.35383776509,
+          33.751217556763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605573",
+        "address": "317 INMAN ST SW, ATLANTA GA 30310",
+        "status": "ACA Pending",
+        "date": "10/25/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "28",
+        "tree_location": "317 inman st",
+        "reason_removal": "Dead tree",
+        "tree_description": null,
+        "tree_number": "1",
+        "species": "oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.437440373468,
+          33.746327621222
+        ]
+      }
+    }
+  ]
+}
