@@ -1522,12 +1522,12 @@
         "date": "10/26/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "36",
+        "tree_location": "front center",
+        "reason_removal": "Other",
+        "tree_description": "One 36'' dead Maple located front center.Reason for Removal:Dead treeComments:One 36'' dead Maple located front center.\n\t\t\n\t\t\n\t\t\tTree number:2Species:cherryTree Size (DBH):12Tree location:back centerDescription of Tree:One 12'' leaning Cherry located back center of property.Reason for Removal:OtherComments:One 12'' leaning Cherry located back center of property.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00420006020 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "maple"
       },
       "geometry": {
         "type": "Point",
@@ -1545,13 +1545,13 @@
         "status": "ACA Pending",
         "date": "10/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "MUHAMMAD JAMES MUHAMMED MAMIE",
+        "tree_dbh": "16",
+        "tree_location": "left rear",
+        "reason_removal": "Dying tree",
+        "tree_description": "Approximately 70 feet from the street and 10 feet from the left-side fence, adjacent to an existing 30-inch stump.Reason for Removal:Dying treeComments:See attached tree-location sketch and photographs\n\t\t\n\t\t\n\t\t\tTree number:2Species:unknownTree Size (DBH):48Tree location:left rearDescription of Tree:Two-trunk tree located approximately 5 feet from the left-side fence and 12 feet from the rear fence.Reason for Removal:Dying treeComments:See attached tree-location sketch and photographs. Multi-stem tree with two trunks\n\t\t\n\t\t\n\t\t\tTree number:3Species:unknownTree Size (DBH):62Tree location:right rear Description of Tree:Located approximately 8 feet from the right-side fence and 10 feet from the rear property corner.Reason for Removal:Dying treeComments:See attached tree-location sketch and photographs. A nearby 10-inch tree is shown separately on the sketch and is not included in this removal request\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 178 04 029 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "unknown"
       },
       "geometry": {
         "type": "Point",
@@ -1617,13 +1617,13 @@
         "status": "Accepted",
         "date": "10/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "RAGAN GORDON BILLY JR",
+        "tree_dbh": "32",
+        "tree_location": "front left",
+        "reason_removal": "Other",
+        "tree_description": "picture of treeReason for Removal:OtherComments:vertical shear crack in upper trunk \n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):34Tree location:front left corner at streetDescription of Tree:picture of treeReason for Removal:OtherComments:- heavy unbalanced canopy \n- phototropic growth over street \n\t\t\n\t\t\n\t\t\tTree number:3Species:pineTree Size (DBH):30Tree location:left sideDescription of Tree:picture of treeReason for Removal:OtherComments:- crown dieback with heavy unbalanced canopy and phototropic growth over street \n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):40Tree location:left sideDescription of Tree:picture of treeReason for Removal:OtherComments:- heavy unbalanced canopy with abnormal growth pattern in trunk \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00560001026 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -1641,13 +1641,13 @@
         "status": "Accepted",
         "date": "10/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SALVATORE FRANCO",
+        "tree_dbh": "15",
+        "tree_location": "left side yard by the sidewalk",
+        "reason_removal": "Diseased",
+        "tree_description": "Tree has large decay near the base with Ganoderma fungal growth surrounding approximately two-thirds of the trunkReason for Removal:Diseased\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01820006015 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "White pine"
       },
       "geometry": {
         "type": "Point",
@@ -1737,13 +1737,13 @@
         "status": "Accepted",
         "date": "10/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Kait Grier",
+        "tree_dbh": "7",
+        "tree_location": "Left side of home",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Undesirable speciesReason for Removal:Invasive/undesirable treeComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:Chinese PrivetTree Size (DBH):8Tree location:Left side of homeDescription of Tree:Undesirable speciesReason for Removal:Invasive/undesirable treeComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00530002048 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Cherry Laurel"
       },
       "geometry": {
         "type": "Point",
@@ -1833,13 +1833,13 @@
         "status": "Accepted",
         "date": "10/26/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Patrick Frias",
+        "tree_dbh": "8",
+        "tree_location": "Front",
+        "reason_removal": "Invasive/undesirable tree",
+        "tree_description": "Undesirable speciesReason for Removal:Invasive/undesirable treeComments:Orange dot\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00950007064 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Chinese Elms"
       },
       "geometry": {
         "type": "Point",
