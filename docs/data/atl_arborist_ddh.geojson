@@ -1641,13 +1641,13 @@
         "status": "Accepted",
         "date": "10/27/2026",
         "description": null,
-        "owner": "SMITH AUDREY ROBB",
-        "tree_dbh": "26",
-        "tree_location": "3033 Stone Gate Drive",
-        "reason_removal": "Dead tree",
-        "tree_description": "26\" DBH Dead Beech tree",
-        "tree_number": "1",
-        "species": "Beech"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1665,13 +1665,13 @@
         "status": "Accepted",
         "date": "10/27/2026",
         "description": null,
-        "owner": "HOPE KRISTINE KAUFFMANN",
-        "tree_dbh": "12",
-        "tree_location": "next to 1638 Barclay Place, NE",
-        "reason_removal": "Other",
-        "tree_description": "Uprooted and leaning.Reason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00030007034 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1689,13 +1689,13 @@
         "status": "ACA Pending",
         "date": "10/27/2026",
         "description": null,
-        "owner": "JARRARD C MATTHEW",
-        "tree_dbh": "18",
-        "tree_location": "rear left center",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "other side of fence, toppedReason for Removal:Uncorrectable defectComments:tree appears to have been cut in half by neighbor\n\t\t\n\t\t\n\t\t\tTree number:148Species:Leyland cypressTree Size (DBH):6Tree location:rear left centerDescription of Tree:shown on mapReason for Removal:Invasive/undesirable treeComments:undesirable\n\t\t\n\t\t\n\t\t\tTree number:150Species:Leyland cypressTree Size (DBH):7Tree location:rear center leftDescription of Tree:shown on mapReason for Removal:Invasive/undesirable treeComments:undesirable species\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 210 03 146 *Block:--Lot:--Subdivision:--",
-        "tree_number": "141",
-        "species": "Elm, American"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1918,30 +1918,6 @@
         "coordinates": [
           -84.357896214758,
           33.775475854583
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "26TMP-070795",
-        "address": "2049 OAKVIEW RD SE, ATLANTA GA 30317",
-        "status": null,
-        "date": "10/27/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.320647528772,
-          33.749861872088
         ]
       }
     },
