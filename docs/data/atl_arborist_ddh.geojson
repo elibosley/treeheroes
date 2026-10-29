@@ -1569,13 +1569,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "WESTMORELAND JOHN R",
-        "tree_dbh": "24",
-        "tree_location": "Left side of driveway",
-        "reason_removal": "Dead tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1593,13 +1593,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "COOPER CHRISTOPHER S",
-        "tree_dbh": "34",
-        "tree_location": "end of driveway, next to gazebo",
-        "reason_removal": "Other",
-        "tree_description": "34\" Oak, end of driveway, next to gazebo, roots impacted, tree in declineReason for Removal:OtherComments:34\" Oak, end of driveway, next to gazebo, roots impacted, tree in decline\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00510002021 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1618,12 +1618,12 @@
         "date": "10/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "21",
-        "tree_location": "Rear Property Line",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "This 21-inch Oak is in poor condition. The tree has multiple\nfungal fruiting bodies at the base of the trunk and along the root flare, indicating probable internal wood decay and compromised structural integrity. Removal is recommended due to concerns regarding basal decay and the associated risk of structural failure.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:T17 0142 LL064 02 *Block:--Lot:02Subdivision:--",
-        "tree_number": "65",
-        "species": "Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1641,13 +1641,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "HOFER SANDRA L PAYNE AMANDA N",
-        "tree_dbh": "10",
-        "tree_location": "right side",
-        "reason_removal": "Other",
-        "tree_description": "10\" DBH little gem magnolia on left side of 4222 Rickenbacker Dr.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:2Species:magnoliaTree Size (DBH):17Tree location:left sideDescription of Tree:6\"/11\" DBH co-dominant stem little gem magnolia on the left side 4222 Rickenbacker Dr. Co-dominant form with very low stem juncture with included bark at the union.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:3Species:magnoliaTree Size (DBH):9Tree location:left sideDescription of Tree:9\" DBH little gem magnolia on the left side of 4222 Rickenbacker Drive.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:4Species:magnoliaTree Size (DBH):9Tree location:right sideDescription of Tree:9\" DBH little gem magnolia on the right side of 4222 Rickenbacker Dr with cavity visible at base.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:5Species:magnoliaTree Size (DBH):8Tree location:right sideDescription of Tree:8\" DBH little gem magnolia on the right side of 4222 Rickenbacker Dr. Cavity forming at base of tree.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\t\n\t\t\tTree number:6Species:magnoliaTree Size (DBH):9Tree location:right sideReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00960003027 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "magnolia"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1665,13 +1665,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "SAMAY LLC",
-        "tree_dbh": "15",
-        "tree_location": "Per tree survey, Tree #1",
-        "reason_removal": "Dead tree",
-        "tree_description": "Canker covering 30%Reason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:2Species:Loblolly PineTree Size (DBH):19Tree location:Per tree survey, Tree #2Description of Tree:Canker Covering 10%Reason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:5Species:Loblolly PineTree Size (DBH):18Tree location:Per tree survey, tree 5Description of Tree:Significant bend in main leader near top with canker at the bend; prior top or leader failure; thinning, declining canopyReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:6Species:Loblolly PineTree Size (DBH):17Tree location:Per tree survey, tree #6Description of Tree:Severe Canopy DeclineReason for Removal:Dying treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:7Species:Water OakTree Size (DBH):33Tree location:Per tree survey, tree #7Description of Tree:Structural root damageReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:8Species:MagnoliaTree Size (DBH):76Tree location:Per tree survey, Tree #8Description of Tree:Included bark, co-dominant stems, structural root damageReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:9Species:Sugar MapleTree Size (DBH):18Tree location:Per tree survey, tree #9Description of Tree:Cavities, damage on trunkReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:12Species:Water OakTree Size (DBH):26Tree location:Per tree Survey, tree #12Description of Tree:Cavity on central trunkReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:15Species:Loblolly PineTree Size (DBH):25Tree location:Per tree survey, tree #15Description of Tree:Canker approx. 40 ft above grade on southeast-facing main trunk; possible separate cavity at trunk wound approx. 10 ft above grade on southeast sideReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:16Species:AppleTree Size (DBH):10Tree location:Per tree survey, tree #16Description of Tree:Large Cavity at BaseReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:18Species:Tulip PoplarTree Size (DBH):29Tree location:Per tree survey, tree #18Description of Tree:Cavity at baseReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:19Species:MapleTree Size (DBH):12Tree location:Per tree survey, tree 19Description of Tree:Growing from or immediately adjacent to another tree; rooting appears limited or asymmetric on the tension sideReason for Removal:OtherComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:22Species:MapleTree Size (DBH):12Tree location:Per tree survey, tree 22Description of Tree:Previous upper-canopy branch failures reported, leaving wounds and major canopy asymmetry (approx. 15% canopy loss)Reason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:25Species:ElmTree Size (DBH):16Tree location:Per tree survey, tree 25Description of Tree:Approx. 15-degree lean; root plate may have been affected by prior house removal; rooting zone overlaps adjacent Tree 24Reason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:26Species:Loblolly PineTree Size (DBH):26Tree location:Per Tree Survey, tree 26Description of Tree:Cavity on Central LeaderReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:27Species:Loblolly PineTree Size (DBH):23Tree location:Per tree survey, tree 27Description of Tree:Canker on Central LeaderReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:33Species:Sugar MapleTree Size (DBH):6Tree location:Per tree survey, tree 33Description of Tree:Severe wound on central leaderReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:38Species:Water OakTree Size (DBH):24Tree location:Per tree Survey, tree 38Description of Tree:Structural Root DamageReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:42Species:PecanTree Size (DBH):18Tree location:Per tree survey, tree 42Description of Tree:DeadReason for Removal:Dead treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:44Species:Water OakTree Size (DBH):24Tree location:Per tree survey, tree 44Description of Tree:DeadReason for Removal:Dead treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:45Species:SweetgumTree Size (DBH):10Tree location:Per tree survey, tree 45Description of Tree:DeadReason for Removal:Dead treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:50Species:Loblolly PineTree Size (DBH):11Tree location:Per tree survey, tree 50Description of Tree:DeadReason for Removal:Dead treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:54Species:Tulip PoplarTree Size (DBH):39Tree location:Per tree survey, tree 54Description of Tree:Bacterial wetwood and structural root damageReason for Removal:DiseasedComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:62Species:Tulip PoplarTree Size (DBH):16Tree location:Per tree Survey, tree 62Description of Tree:Cavity on central leaderReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:66Species:BeechTree Size (DBH):15Tree location:per tree survey, tree 66Description of Tree:DeadReason for Removal:Dead treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:90Species:Tulip PoplarTree Size (DBH):6Tree location:Per tree survey, tree 90Description of Tree:Cavity at BaseReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:91Species:Tulip PoplarTree Size (DBH):16Tree location:Per tree survey, tree 91Description of Tree:Cavity at central baseReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:92Species:Black CherryTree Size (DBH):15Tree location:Per tree survey, tree 92Description of Tree:Bacterial wetwood and and wound at baseReason for Removal:DiseasedComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:93Species:Tulip Poplar Tree Size (DBH):13Tree location:Per tree Survey, tree 93Description of Tree:Co-dominant with included barkReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:94Species:SycamoreTree Size (DBH):13Tree location:per tree survey, tree 94Description of Tree:co-dominant with included barkReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:95Species:Tulip PoplarTree Size (DBH):28Tree location:Per tree survey, tree 95Description of Tree:Severe wound at baseReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:97Species:Tulip PoplarTree Size (DBH):25Tree location:Per tree survey, tree #97Description of Tree:Severe wound at baseReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:102Species:Loblolly PineTree Size (DBH):29Tree location:Per tree survey, tree 102Description of Tree:Approx. 15-degree lean to the west; apparent soil movement indicated by displacement of adjacent railroad tie; response growth on north and south trunk sides associated with apparent seam or possible shear-plane crackReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:103Species:Tulip PoplarTree Size (DBH):17Tree location:Per tree survey, tree 103Description of Tree:Severe Canopy DeclineReason for Removal:Dying treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:104Species:Black CherryTree Size (DBH):8Tree location:Per tree survey, tree 104Description of Tree:Failed codominant leader, thinning canopyReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:107Species:Tulip PoplarTree Size (DBH):14Tree location:Per tree survey, tree 107Description of Tree:DeadReason for Removal:Dead treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:108Species:Tulip PoplarTree Size (DBH):12Tree location:Per tree survey, tree 108Description of Tree:Severe Canopy DeclineReason for Removal:Dying treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:131Species:Tulip PoplarTree Size (DBH):12Tree location:Per tree survey, tree 131Description of Tree:Wound withe canopyReason for Removal:Significant cavity/area of decayComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:142Species:Tulip PoplarTree Size (DBH):7Tree location:Per tree survey, tree 142Description of Tree:Severe wound at baseReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:157Species:Loblolly PineTree Size (DBH):23Tree location:Per tree Survey, tree 157Description of Tree:Severe Canopy DeclineReason for Removal:Dying treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:11Species:Water OakTree Size (DBH):13Tree location:Per tree survey, tree 11Description of Tree:Approx. 27-degree lean with apparent trunk defect and extended crown end weight; prior house demolition occurred in the vicinity; structural-root and critical-root-zone impacts are possible but were not confirmed by excavationReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:13Species:Loblolly PineTree Size (DBH):20Tree location:Per tree survey, tree 13Description of Tree:Prior top or main-leader failure with a current replacement leader or regrowth; attachment should be examined to determine whether altered architecture or a weak union is present; failure of this portion could remove more than 30% of the canopy; prior house demolition occurred in the vicinity; root impacts possible but unconfirmedReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:14Species:Loblolly PineTree Size (DBH):15Tree location:Per tree survey, tree 14Description of Tree:Trunk wound or defect, significant lean, and soil heaving; corrected growth in the main top indicates altered architecture or loading and may reflect prior disturbanceReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:20Species:Loblolly PineTree Size (DBH):25Tree location:Per tree survey, tree 20Description of Tree:Canker approx. 40 ft above grade on the east to southeast side of the trunk; prior demolition and grading occurred in the vicinity; structural-root impacts are possible but unconfirmedReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:21Species:Loblolly PineTree Size (DBH):20Tree location:Per tree survey, tree 21Description of Tree:Canker approx. 40 ft above grade on the southeast side; loading and bending moment at the affected trunk area may increase the likelihood of failure, depending on the extent of wood involvement and exposureReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:24Species:Loblolly PineTree Size (DBH):27Tree location:Per tree survey, tree 24Description of Tree:Upper-trunk canker at approx. 45 ft; approx. 10-degree lean to the west with soil heaving on the tension side; at the northeast trunk base, apparent response growth and wounding may be associated with torsional loading; a concealed seam, crack, or decay is possibleReason for Removal:Uncorrectable defectComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:28Species:Tulip PoplarTree Size (DBH):22Tree location:Per tree Survey, tree 28Description of Tree:Canopy thinning; prior house demolition occurred in the vicinity; root-zone impacts are possible and may be associated with the observed decline, but causation was not establishedReason for Removal:Dying treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\t\n\t\t\tTree number:49Species:Sugar MapleTree Size (DBH):6Tree location:Per tree survey, tree 49Description of Tree:DeadReason for Removal:Dead treeComments:See Tree Inventory Report (R. Brettschneider, His Hands Tree Preservation LLC)\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0178  LL192 *Block:--Lot:--Subdivision:SD-17-026 ORIG ADD 4315 GARMAN RD NW",
-        "tree_number": "1",
-        "species": "Loblolly Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1689,13 +1689,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "PANNELL RUTHANN L",
-        "tree_dbh": "21",
-        "tree_location": "left driveway",
-        "reason_removal": "Dying tree",
-        "tree_description": "This tree has previously been struck by lighting. Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01420004011 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "loblolly pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1786,12 +1786,12 @@
         "date": "10/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "48",
-        "tree_location": "alley",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "tree in alley, didnt understand ownership Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01110008008 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "water oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1809,13 +1809,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "VERNON DANIEL H TRUSTEE",
-        "tree_dbh": "30",
-        "tree_location": "rear right over patio",
-        "reason_removal": "Other",
-        "tree_description": "pic of treeReason for Removal:OtherComments:- heavy canopy coverage over home \n- heavy phototropic growth of main leader \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00130003022 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "water oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1834,12 +1834,12 @@
         "date": "10/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "28",
-        "tree_location": "Right side of backyard",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Tree has large cavity at base and multiple other cavities throughout stemReason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00950007063 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1857,13 +1857,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "FLOYD VIRGINIA HUNTER",
-        "tree_dbh": "19",
-        "tree_location": "front right closest to home",
-        "reason_removal": "Dying tree",
-        "tree_description": "19\" Pine, front right, closest to home, leaning toward home, canker on upper trunk, over powerlines",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1881,13 +1881,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "CROSS JENNY L",
-        "tree_dbh": "14",
-        "tree_location": "right of home",
-        "reason_removal": "Significant cavity/area of decay",
-        "tree_description": "Removal of DDH Dead 14” DBH Hickory located at the back of the backyard.\n-This tree is dead.Reason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:sourwoodTree Size (DBH):7Tree location:right of homeDescription of Tree:Removal of DDH Hazard 7” DBH Sourwood located off the right side of the home.\n-This tree has decaying and exposed roots and is heavily leaning over towards the clients home from atop a tall embankment.Reason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:3Species:white oakTree Size (DBH):6Tree location:left of homeDescription of Tree:Removal of 6” DBH White Oak located to the left of the home.\n-This tree has lost the top of its central leader and is heavily weighted towards the home from atop a tall embankment.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:4Species:oakTree Size (DBH):11Tree location:left of homeDescription of Tree:Removal of DDH Dying 11” DBH Red Oak located to the left of the home.\n-This tree has lost its top and all but one branch due to the failure of a major leader off of a near by tree.Reason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:5Species:sourwoodTree Size (DBH):9Tree location:left of homeDescription of Tree:Removal of DDH Hazard 9” DBH Sourwood located to the left of the home.\n-This tree has a cavity at the base showing that the tree is hollow and heavily weighted towards the home.Reason for Removal:Significant cavity/area of decay\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00080009024 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1954,12 +1954,12 @@
         "date": "10/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "32",
-        "tree_location": "front island",
-        "reason_removal": "Dead tree",
-        "tree_description": "32\" Oak, front island, DeadReason for Removal:Dead treeComments:32\" Oak, front island, Dead\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01860001070 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1977,13 +1977,13 @@
         "status": "ACA Pending",
         "date": "10/28/2026",
         "description": null,
-        "owner": "ALI HAMID",
-        "tree_dbh": "28",
-        "tree_location": "retaining wall",
-        "reason_removal": "Other",
-        "tree_description": "the tree is causing failure of retaining wall that must be replacedReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00740007001 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "oak"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2266,12 +2266,12 @@
         "date": "10/28/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_dbh": "52",
+        "tree_location": "front",
+        "reason_removal": "Dying tree",
+        "tree_description": "Decay at base, woodboring insects present",
+        "tree_number": "1",
+        "species": "oak"
       },
       "geometry": {
         "type": "Point",
