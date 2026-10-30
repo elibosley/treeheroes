@@ -1953,13 +1953,13 @@
         "status": "ACA Pending",
         "date": "10/29/2026",
         "description": null,
-        "owner": "Brad Bowman",
-        "tree_dbh": "13",
-        "tree_location": "East side of property near back deck",
-        "reason_removal": "Significant cavity/area of decay",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "hard wood"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -1977,13 +1977,13 @@
         "status": "ACA Pending",
         "date": "10/29/2026",
         "description": null,
-        "owner": "JONES SCOTT L",
-        "tree_dbh": "8",
-        "tree_location": "Right Rear",
-        "reason_removal": "Unpermitted destruction",
-        "tree_description": "The structural root plate has been substantially compromised by construction activities associated with the neighboring property. The loss of structural roots may significantly reduce the tree's structural stability and likelihood of long-term survival.Reason for Removal:Unpermitted destruction\n\t\t\n\t\t\n\t\t\tTree number:13Species:Tulip PoplarTree Size (DBH):7Tree location:Right RearDescription of Tree:Construction activities associated with the neighboring property have substantially compromised the structural root plate and critical root zone. The extent of root system disturbance is expected to significantly affect the tree's structural stability and long-term viability.Reason for Removal:Unpermitted destruction\n\t\t\n\t\t\n\t\t\tTree number:15Species:Calley PearTree Size (DBH):11Tree location:Front MiddleDescription of Tree: The structural root plate has been substantially compromised by construction activities associated with the neighboring property. Additionally, Callery Pear is considered an undesirable species due to its invasive characteristics and propensity for structural defects.Reason for Removal:Unpermitted destruction\n\t\t\n\t\t\n\t\t\tTree number:20Species:PecanTree Size (DBH):17Tree location:Left RearDescription of Tree:The structural root plate and critical root zone have been substantially compromised by the accumulation of construction debris around the tree and construction activities associated with the neighboring property. The tree was also observed to have lifting of the structural root plate, indicating potential loss of root system stability. Additionally, a major stem bifurcation is present near the base of the tree, which may further contribute to structural concerns. Given the extent of root system disturbance, observed root plate movement, and structural characteristics of the lower stem, the tree has a substantially elevated risk of failure and is not considered a suitable candidate for retention.Reason for Removal:Unpermitted destruction\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00230010039 *Block:--Lot:--Subdivision:MSD-25-007",
-        "tree_number": "11",
-        "species": "Calley Pear"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2025,13 +2025,13 @@
         "status": "ACA Pending",
         "date": "10/29/2026",
         "description": null,
-        "owner": "BRAZONES MARGARET C",
-        "tree_dbh": "18",
-        "tree_location": "Left side yard",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "Hackberry on left side yardReason for Removal:Invasive/undesirable treeComments:This is an invasive tree that needs to be removed\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01040004018 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hackberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2122,12 +2122,12 @@
         "date": "10/29/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "33",
-        "tree_location": "Backyard on right side",
-        "reason_removal": "Other",
-        "tree_description": "red paint on root flareReason for Removal:Significant cavity/area of decayComments:Trunk Wounds and Possible Decay\n\t\t\n\t\t\n\t\t\tTree number:2Species:red oakTree Size (DBH):33Tree location:backyard right sideDescription of Tree:red paint on root flareReason for Removal:Uncorrectable defectComments:Intermingling Canopies and Branches\n\t\t\n\t\t\n\t\t\tTree number:3Species:White oakTree Size (DBH):14Tree location:Backyard on the rightDescription of Tree:red paint on root flareReason for Removal:Uncorrectable defectComments:Intermingling Canopies and Branches\n\t\t\n\t\t\n\t\t\tTree number:4Species:pineTree Size (DBH):21Tree location:Backyard on the leftDescription of Tree:red paint on root flareReason for Removal:Uncorrectable defectComments:significant lean\n\t\t\n\t\t\n\t\t\tTree number:5Species:PineTree Size (DBH):20Tree location:Backyard on right sideDescription of Tree:red paint on root flareReason for Removal:OtherComments:hazardous\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00600002027 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "red oak"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2145,13 +2145,13 @@
         "status": "ACA Pending",
         "date": "10/29/2026",
         "description": null,
-        "owner": "SL METROPOLITAN LLC",
-        "tree_dbh": "22",
-        "tree_location": "33.703103, -84.408196",
-        "reason_removal": "Dead tree",
-        "tree_description": "Tree has muitple leads stemming from base, significant\ndieback in canopy - approx. 35-40%, multiple deadwood\nbranches, significant decay along central lead, close\nproximity to sidewalk/roadway.Reason for Removal:Dead treeComments:DDH tree removal is required for the MARTA Cleveland/Metro Arterial Rapid Transit project\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 0103  LL058 *Block:--Lot:--Subdivision:--",
-        "tree_number": "440",
-        "species": "Maple/Acer rubrum"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2169,13 +2169,13 @@
         "status": "ACA Pending",
         "date": "10/29/2026",
         "description": null,
-        "owner": "MOUNT EPHRAIM BAPTIST CHURCH INC",
-        "tree_dbh": "31",
-        "tree_location": "33.698999, -84.407972",
-        "reason_removal": "Dead tree",
-        "tree_description": "Tree has significant canopy decline, multiple deadwood\nbranches and branch failures throughout canopy, dieback in\ncanopy - approx. 75%, close proximity to roadway/sidewalk.Reason for Removal:Dead treeComments:DDH tree removal is required for the MARTA Cleveland/Metro Arterial Rapid Transit project\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00900003082 *Block:--Lot:--Subdivision:--",
-        "tree_number": "431",
-        "species": "Willow Oak/Quercus phellos"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2217,13 +2217,13 @@
         "status": "ACA Pending",
         "date": "10/29/2026",
         "description": null,
-        "owner": "Blaine Madison Weinmann",
-        "tree_dbh": "14",
-        "tree_location": "front yard",
-        "reason_removal": "Other",
-        "tree_description": "this tree has a co dominate stem with included barkReason for Removal:Uncorrectable defect\n\t\t\n\t\t\n\t\t\tTree number:2Species:mulberryTree Size (DBH):10Tree location:right side houseDescription of Tree:this tree is within 5 feet of the structureReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:3Species:sweet gumTree Size (DBH):12Tree location:right side of the houseDescription of Tree:with in 5 feet of the structureReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:4Species:sweet gumTree Size (DBH):10Tree location:right side of the houseDescription of Tree:within 5 feet of the structureReason for Removal:Other\n\t\t\n\t\t\n\t\t\tTree number:5Species:cherryTree Size (DBH):9Tree location:front yardDescription of Tree:very dead treeReason for Removal:Other\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 206 02 065 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "mulberry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2241,13 +2241,13 @@
         "status": "ACA Pending",
         "date": "10/29/2026",
         "description": null,
-        "owner": "Sarah Warren",
-        "tree_dbh": "18",
-        "tree_location": "Behind Pool House",
-        "reason_removal": "Other",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Pine"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
