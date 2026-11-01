@@ -2985,13 +2985,13 @@
         "status": "ACA Pending",
         "date": "10/31/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "Alberto Isaac Gutierrez",
+        "tree_dbh": "50",
+        "tree_location": "On the property at 747 Gary Rd NW",
+        "reason_removal": "Dying tree",
+        "tree_description": "Large, mature tree showing visible signs of deterioration and possible decay. Its condition raises concerns about structural stability and safety.Reason for Removal:Dying treeComments:Requesting an inspection of this potentially hazardous tree due to concerns about possible failure and damage to nearby property. Photos are attached for review.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01770012006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
       },
       "geometry": {
         "type": "Point",

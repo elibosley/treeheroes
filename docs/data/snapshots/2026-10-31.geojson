@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605720",
+        "address": "468 WEST PACES FERRY RD NW, ATLANTA GA 30305",
+        "status": "ACA Pending",
+        "date": "10/31/2026",
+        "description": null,
+        "owner": "WEBB EDWARD ADAM",
+        "tree_dbh": "18",
+        "tree_location": "Left side of driveway next to carport",
+        "reason_removal": "Dying tree",
+        "tree_description": "Tree appers to be in a spiral.  fruiting bodies are present indicating signs of decay. limbs are dying back and breaking.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:Prunus serrulataTree Size (DBH):14Tree location:Left side of driveway next to carportDescription of Tree:Tree has fruiting bodies present. epicormic growth and peeling barkReason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01420005019 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Prunus serrulata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.401771443278,
+          33.845416977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605719",
+        "address": "747 GARY RD NW, ATLANTA GA 30318",
+        "status": "ACA Pending",
+        "date": "10/31/2026",
+        "description": null,
+        "owner": "Alberto Isaac Gutierrez",
+        "tree_dbh": "50",
+        "tree_location": "On the property at 747 Gary Rd NW",
+        "reason_removal": "Dying tree",
+        "tree_description": "Large, mature tree showing visible signs of deterioration and possible decay. Its condition raises concerns about structural stability and safety.Reason for Removal:Dying treeComments:Requesting an inspection of this potentially hazardous tree due to concerns about possible failure and damage to nearby property. Photos are attached for review.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01770012006 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.460978276322,
+          33.775197243262
+        ]
+      }
+    }
+  ]
+}
