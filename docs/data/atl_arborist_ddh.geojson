@@ -2049,13 +2049,13 @@
         "status": "ACA Pending",
         "date": "11/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "SABO AMY J",
+        "tree_dbh": "30",
+        "tree_location": "Back Rear Right",
+        "reason_removal": "Dying tree",
+        "tree_description": "There are cankers on the trunk, there are only limbs on the very top of the tree, due to limb failure.Reason for Removal:Dying tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:PoplarTree Size (DBH):24Tree location:Backyard leftDescription of Tree:The poplar tree is on the boundary line, the tree is on decay, also contains an open wound at the bottom of the base.Reason for Removal:Dying treeComments:hazardous\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 0042  LL069 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Pine"
       },
       "geometry": {
         "type": "Point",
@@ -2097,13 +2097,13 @@
         "status": "ACA Pending",
         "date": "11/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
+        "owner": "OMOLE YINKA T",
+        "tree_dbh": "2",
+        "tree_location": "north side at retaining wall",
+        "reason_removal": "Other",
         "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "tree_number": "1",
+        "species": "pecan"
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "Accepted",
         "date": "11/03/2026",
         "description": null,
-        "owner": "Michele Toth",
-        "tree_dbh": "20",
-        "tree_location": "front of property, right of driveway",
-        "reason_removal": "Dying tree",
-        "tree_description": "dieback/decline exceeding 80% total canopyReason for Removal:Dying treeComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00100002026 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Flowering Cherry"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2217,13 +2217,13 @@
         "status": "Accepted",
         "date": "11/03/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "U S BANK NATIONAL ASSOCIATION",
+        "tree_dbh": "32",
+        "tree_location": "backyard",
+        "reason_removal": "Dying tree",
+        "tree_description": "32\" Water Oak, backyard, 70% canopy loss, hypoxylon and fungus presentReason for Removal:Dying treeComments:32\" Water Oak, backyard, 70% canopy loss, hypoxylon and fungus present\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 01520008004 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Water Oak"
       },
       "geometry": {
         "type": "Point",
