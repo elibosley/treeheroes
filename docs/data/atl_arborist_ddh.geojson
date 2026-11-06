@@ -1762,12 +1762,12 @@
         "date": "11/05/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "34",
-        "tree_location": "Backyard",
-        "reason_removal": "Uncorrectable defect",
-        "tree_description": "Large limb failures resulting in property damage. Codominant stems mid canopy, restricted root zoneReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:PecanTree Size (DBH):14Tree location:BackyardDescription of Tree:Primary leader failure causing uncorrectable structure and canopy balanceReason for Removal:Uncorrectable defectComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 205 04 002 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
