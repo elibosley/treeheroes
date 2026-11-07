@@ -2001,13 +2001,13 @@
         "status": "ACA Pending",
         "date": "11/06/2026",
         "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
+        "owner": "GLASS VICKI S",
+        "tree_dbh": "20",
+        "tree_location": "located in the backyard.",
+        "reason_removal": "Significant cavity/area of decay",
+        "tree_description": "This tree is leaning towards the our clients house which is 1125 New Britain Drive.\nhas a sink hole at the base of the tree and it exposed the root system.",
+        "tree_number": "1",
+        "species": "pine"
       },
       "geometry": {
         "type": "Point",
@@ -2025,13 +2025,13 @@
         "status": "ACA Pending",
         "date": "11/06/2026",
         "description": null,
-        "owner": "Emory Luce Center",
-        "tree_dbh": "20",
-        "tree_location": "Located right of entrance behind Harwood Condos",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead treeComments:Tagged\n\t\t\n\t\t\n\t\t\tTree number:2Species:PineTree Size (DBH):20Tree location:Located right of entrance behind Harwood CondosDescription of Tree:DeadReason for Removal:Dead treeComments:Tagged\n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):20Tree location:Located right of entrance behind Harwood CondosDescription of Tree:DeadReason for Removal:Dead treeComments:Tagged\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 058 06 006 *Block:--Lot:--Subdivision:EMORY ANNEXATION",
-        "tree_number": "1",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2049,13 +2049,13 @@
         "status": "Accepted",
         "date": "11/06/2026",
         "description": null,
-        "owner": "Rae Hodges",
-        "tree_dbh": "9",
-        "tree_location": "Behind Garage",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "DeadReason for Removal:Dead treeComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:2Species:Cherry LaurelTree Size (DBH):10Tree location:Behind GarageDescription of Tree:Undesirable speciesReason for Removal:Invasive/undesirable treeComments:Orange paint\n\t\t\n\t\t\n\t\t\tTree number:3Species:Cherry LaurelTree Size (DBH):18Tree location:Behind GarageDescription of Tree:Undesirable speciesReason for Removal:Invasive/undesirable treeComments:Orange paint\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:14 00160001049 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Cherry Laurel"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2073,13 +2073,13 @@
         "status": "Accepted",
         "date": "11/06/2026",
         "description": null,
-        "owner": "Mary Blanding",
-        "tree_dbh": "0",
-        "tree_location": "Outstide of fence right facing house",
-        "reason_removal": "Dead tree",
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "Pecan"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2098,12 +2098,12 @@
         "date": "11/06/2026",
         "description": null,
         "owner": null,
-        "tree_dbh": "40",
-        "tree_location": "parking lot",
-        "reason_removal": "Dead tree",
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
         "tree_description": null,
-        "tree_number": "1",
-        "species": "tree"
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2121,13 +2121,13 @@
         "status": "Accepted",
         "date": "11/06/2026",
         "description": null,
-        "owner": "Brett Harman",
-        "tree_dbh": "22",
-        "tree_location": "Rear of property",
-        "reason_removal": "Invasive/undesirable tree",
-        "tree_description": "history of canopy failures (1 scaffold limb, and main central leader)Reason for Removal:Uncorrectable defectComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:2Species:Leyland CypressTree Size (DBH):10Tree location:Rear of property Description of Tree:undesirable speciesReason for Removal:Invasive/undesirable treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:3Species:Leyland CypressTree Size (DBH):10Tree location:Rear of property Description of Tree:undesirable speciesReason for Removal:Invasive/undesirable treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:4Species:Leyland CypressTree Size (DBH):10Tree location:Rear of property Description of Tree:undesirable speciesReason for Removal:Invasive/undesirable treeComments:Ribbon\n\t\t\n\t\t\n\t\t\tTree number:5Species:Leyland CypressTree Size (DBH):10Tree location:Rear of property Description of Tree:undesirable speciesReason for Removal:Invasive/undesirable treeComments:Ribbon\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:15 176 01 208 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Pecan"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2193,13 +2193,13 @@
         "status": "ACA Pending",
         "date": "11/06/2026",
         "description": null,
-        "owner": "Emory University",
-        "tree_dbh": "30",
-        "tree_location": "Along Gatewood Drive",
-        "reason_removal": "Dead tree",
-        "tree_description": "DeadReason for Removal:Dead treeComments:Tagged\n\t\t\n\t\t\n\t\t\tTree number:2Species:PoplarTree Size (DBH):28Tree location:Along Gatewood DriveDescription of Tree:DeadReason for Removal:Dead treeComments:Tagged\n\t\t\n\t\t\n\t\t\tTree number:3Species:PoplarTree Size (DBH):29Tree location:Along Gatewood DriveDescription of Tree:DeadReason for Removal:Dead tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:18 058 06 001 *Block:--Lot:--Subdivision:EMORY ANNEXATION",
-        "tree_number": "1",
-        "species": "Hickory"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
@@ -2337,13 +2337,13 @@
         "status": "ACA Pending",
         "date": "11/06/2026",
         "description": null,
-        "owner": "Will Chesney",
-        "tree_dbh": "15",
-        "tree_location": "Falling in Creek / Creek Bank",
-        "reason_removal": "Dead tree",
-        "tree_description": "Creek bank has washed out from under tree and the roots are all exposed. Tree is about to fall on house / baby nursery. Reason for Removal:Uncorrectable defectComments:This tree was previously submitted. Tree was not approved or denied, but map was requested. \n\t\t\n\t\t\n\t\t\tTree number:3Species:PineTree Size (DBH):17Tree location:Falling in Creek, bank washed outDescription of Tree:Creek bank has washed out from under tree and the roots are all exposed. Tree is about to fall on house / baby nursery. Reason for Removal:Uncorrectable defectComments:Tree previously submitted. Was not denied or approved, map was requested. \n\t\t\n\t\t\n\t\t\tTree number:4Species:PineTree Size (DBH):16Tree location:Creek bank, falling Description of Tree:Creek bank has washed out from under tree and the roots are all exposed. Tree is about to fall on house / baby nursery. Reason for Removal:Uncorrectable defectComments:Tree previously submitted and was not approved or denied. Map was requested. \n\t\t\n\t\t\n\t\t\tTree number:6Species:PoplarTree Size (DBH):13Tree location:Falling in Creek / on bankDescription of Tree:Creek bank has washed out from under tree and the roots are all exposed. Tree is about to fall on house / baby nursery. Reason for Removal:Uncorrectable defectComments:Tree previously submitted and was not denied or approved. Map of location was requested. \n\t\t\n\t\t\n\t\t\tTree number:9Species:CherryTree Size (DBH):15Tree location:Beside front right corner of house.Description of Tree:Tree declining/dying. 50% + of canopy dead.Reason for Removal:Dead treeComments:this tree is between the front right corner of the house and the creek bank. It is almost fully dead. \n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 01380004008 *Block:--Lot:--Subdivision:--",
-        "tree_number": "2",
-        "species": "Pine"
+        "owner": null,
+        "tree_dbh": null,
+        "tree_location": null,
+        "reason_removal": null,
+        "tree_description": null,
+        "tree_number": null,
+        "species": null
       },
       "geometry": {
         "type": "Point",
