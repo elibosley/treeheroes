@@ -4,174 +4,6 @@
     {
       "type": "Feature",
       "properties": {
-        "record": "BA-202605723",
-        "address": "2106 MAIN ST NW, ATLANTA GA 30318",
-        "status": "Accepted",
-        "date": "11/01/2026",
-        "description": null,
-        "owner": "JOHNSON CLYDE F",
-        "tree_dbh": "9",
-        "tree_location": "Back yard",
-        "reason_removal": "Dying tree",
-        "tree_description": "The tree has a large cavity at its base and yellowing canopy.Reason for Removal:Dying treeComments:The tree has been attacked by wood-boring beetles.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 02530007018 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Loblolly pine"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.474318677577,
-          33.814907657811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202605724",
-        "address": "3423 PIEDMONT RD NE, ATLANTA GA 30305",
-        "status": "Accepted",
-        "date": "11/01/2026",
-        "description": null,
-        "owner": "Atlanta Tech Village",
-        "tree_dbh": "10",
-        "tree_location": "Behind building",
-        "reason_removal": "Dying tree",
-        "tree_description": "Small dead hardwoodReason for Removal:Dead tree\n\t\t\n\t\t\n\t\t\tTree number:2Species:MapleTree Size (DBH):25Tree location:Behind buildingDescription of Tree:Dying maple tree covered in english ivy.Reason for Removal:Dying tree\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00620004022 *Block:--Lot:--Subdivision:--",
-        "tree_number": "1",
-        "species": "Hardwood"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.372791155189,
-          33.846631804431
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202605721",
-        "address": "1218 HOSEA L WILLIAMS DR NE, ATLANTA GA 30317",
-        "status": "Accepted",
-        "date": "11/01/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.347482585409,
-          33.753321473876
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202605726",
-        "address": "2705 BAKER RIDGE DR NW, ATLANTA GA 30318",
-        "status": "Accepted",
-        "date": "11/01/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.476418869633,
-          33.768241187137
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "26TMP-071630",
-        "address": "485 CLAIRE DR NE, ATLANTA GA 30307",
-        "status": null,
-        "date": "11/01/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.323619163653,
-          33.76743912264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202605722",
-        "address": "41 BLACKLAND RD NW, ATLANTA GA 30342",
-        "status": "Accepted",
-        "date": "11/01/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.385748602325,
-          33.85511947774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "record": "BA-202605725",
-        "address": "485 CLAIRE DR NE, ATLANTA GA 30307",
-        "status": "Accepted",
-        "date": "11/01/2026",
-        "description": null,
-        "owner": null,
-        "tree_dbh": null,
-        "tree_location": null,
-        "reason_removal": null,
-        "tree_description": null,
-        "tree_number": null,
-        "species": null
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -84.323619163653,
-          33.76743912264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "record": "BA-202605743",
         "address": "1133 ANGELO CT NE, ATLANTA GA 30319",
         "status": "Accepted",
@@ -2398,6 +2230,30 @@
         "coordinates": [
           -84.343838065917,
           33.774905058253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605848",
+        "address": "802 CLEMONT DR NE, ATLANTA GA 30306",
+        "status": "ACA Pending",
+        "date": "11/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "124",
+        "tree_location": "Front yard, on western property line",
+        "reason_removal": "Other",
+        "tree_description": "We measured each of the two trunks and added to get the DBH.Reason for Removal:OtherComments:A neighbor has asked us to remove trees that we do not think are hazardous, so we are asking for anofficial opinion.\n\t\t\n\t\t\n\t\t\tTree number:3Species:OakTree Size (DBH):116Tree location:Front yard, on western property lineReason for Removal:OtherComments:A neighbor has asked us to remove trees that we do not think are hazardous, so we are asking for an official opinion.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00530010014 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.361478441415,
+          33.783002908952
         ]
       }
     }
