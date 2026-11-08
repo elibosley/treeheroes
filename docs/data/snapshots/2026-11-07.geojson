@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "record": "BA-202605848",
+        "address": "802 CLEMONT DR NE, ATLANTA GA 30306",
+        "status": "ACA Pending",
+        "date": "11/07/2026",
+        "description": null,
+        "owner": null,
+        "tree_dbh": "124",
+        "tree_location": "Front yard, on western property line",
+        "reason_removal": "Other",
+        "tree_description": "We measured each of the two trunks and added to get the DBH.Reason for Removal:OtherComments:A neighbor has asked us to remove trees that we do not think are hazardous, so we are asking for anofficial opinion.\n\t\t\n\t\t\n\t\t\tTree number:3Species:OakTree Size (DBH):116Tree location:Front yard, on western property lineReason for Removal:OtherComments:A neighbor has asked us to remove trees that we do not think are hazardous, so we are asking for an official opinion.\n\t\t\n\t\n\t\n                                \n                            \n                        \n                    \n                        \n                            \n                                \n                                    \n                                        \n                                         Parcel Information\n                                \n                            \n                            \n                                \n                                    \n\t\tParcel Number:17 00530010014 *Block:--Lot:--Subdivision:--",
+        "tree_number": "1",
+        "species": "Oak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.361478441415,
+          33.783002908952
+        ]
+      }
+    }
+  ]
+}
